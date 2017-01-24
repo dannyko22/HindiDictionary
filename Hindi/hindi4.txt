@@ -1,0 +1,1650 @@
+# English-Hindi dictionary created from Wikipedia database
+# Created on: 2014-04-26T17:01:45+02:00
+# Licence: GNU Free Documentation Licence http://www.gnu.org/copyleft/fdl.html
+# Download updated version of this file at: http://www.dicts.info/uddl.php
+# Contact us at: http://www.dicts.info/contact.php
+0 (number)	शून्य
+1 (number)	एक
+100	श्रेणी:100
+1000	1000
+1000	श्रेणी:1000
+12	श्रेणी:12
+14	श्रेणी:14
+16	श्रेणी:16
+17	श्रेणी:17
+1728	1728
+500	500
+AIDS	एड्स
+Abkhazia	अबखाजिया
+Abraham	इब्राहिम
+Abraham Lincoln	अब्राहम लिंकन
+Absolute zero	परम ताप
+Abu Dhabi	अबू धाबी
+Acid	अम्ल
+Acid rain	अम्लीय वर्षा
+Adam Smith	एडम स्मिथ
+Adansonia	बेऑबॉब
+Adelaide	एडिलेड
+Adolf Hitler	एडोल्फ हिटलर
+Aesthetics	अलङ्कार
+Afghanistan	अफ़्ग़ानिस्तान
+Africa	अफ़्रीका
+Africa	श्रेणी:अफ़्रीका
+African American	अफ्रीकी अमरीकन
+Agatha Christie	ऐगथा क्रिस्टी
+Agra	आगरा
+Agriculture	कृषि
+Agriculture	श्रेणी:कृषि
+Aircraft	वायुयान
+Akhenaten	अखेनातेन
+Akira Kurosawa	अकिरा कुरोसावा
+Al Gore	अल्बर्ट गोर
+Al-Qaeda	अल कायदा
+Alabama	अलाबामा
+Alan Turing	एलेन ट्यूरिंग
+Alaska	अलास्का
+Albania	अल्बानिया
+Albert Abraham Michelson	अल्बर्ट ए मिकेल्सन
+Albert Camus	आल्बेर कामु
+Albert Einstein	अल्बर्ट आइनस्टाइन
+Alcohol	शराब
+Aleksandr Solzhenitsyn	अलेक्सान्द्र सोल्शेनीत्सिन
+Alexander Fleming	अलेक्ज़ांडर फ्लेमिङ
+Alexander Graham Bell	अलेक्ज़ांडर ग्राहम बेल
+Alexander Pushkin	अलेक्सांद्र पूश्किन
+Alexander the Great	अलेक्ज़ांडर महान
+Alfred Hitchcock	एल्फ़्रेड हिचकॉक
+Alfred Nobel	अल्फ़्रेद नोबेल
+Algae	शैवाल
+Algebra	बीजगणित
+Algeria	अल्जीरिया
+Algorithm	अल्गोरिद्म
+Allah	अल्लाह
+Alpha particle	अल्फा कण
+Alphabet	मूलाक्षर
+Alps	आल्प्स
+Alternating current	प्रत्यावर्ती धारा
+Aluminium	एलुमिनियम
+Amazon River	आमेजन
+American Civil War	अमरीकी गृहयुद्ध
+American Samoa	अमेरिकी सामोआ
+American football	अमरीकी फुटबॉल
+Amerigo Vespucci	आमेरिगो वेस्पूची
+Amman	अम्मान
+Ampere	एम्पीयर
+Amsterdam	एम्सटर्डम
+Amun	अमुन
+Anarchy	अशासन
+Anatole France	अनातोले फ्रांस
+Ancient Greek	प्राचीन यूनानी भाषा
+Andes	एंडीज़
+Andhra Pradesh	आंध्र प्रदेश
+Andorra	अन्डोरा
+Andy Warhol	एंडी वारहोल
+Angel	फ़रिश्ता
+Angola	अंगोला
+Anguilla	ऐंगुइला
+Anime	ऐनिमे
+Ankara	अंकारा
+Antananarivo	अन्टाननरीवो
+Antarctica	अंटार्कटिका
+Anthropology	मानवशास्त्र
+Antigua and Barbuda	अंटीगुआ और बारबूडा
+Antimony	एन्टिमोनी
+Antisemitism	यहूदी विरोधवाद
+Anton Chekhov	आंतोन चेखव
+Anubis	अनूबिस
+Aphrodite	ऐफ़्रोडाइटी
+Apollo	अपोलो
+Apple	सेब
+Applied mathematics	व्यावहारिक गणित
+April 14	14 अप्रैल
+Arabian Peninsula	अरबी प्रायद्वीप
+Arabian Sea	अरब सागर
+Arabic alphabet	अरबी लिपि
+Arabic language	अरबी भाषा
+Aral Sea	अरल सागर
+Arch	चाप
+Archaeology	पुरातत्त्वशास्त्र
+Archimedes	आर्किमिडिज़
+Architecture	वास्तुशास्त्र
+Arctic Ocean	उत्तरध्रुवीय महासागर
+Area	क्षेत्रफल
+Ares	एरीस
+Argentina	अर्जेन्टीना
+Argon	आर्गन
+Arithmetic	अंकगणित
+Arithmetic	श्रेणी:अंकगणित
+Arizona	एरीजोना
+Arkansas	अरकांसास
+Armenia	आर्मीनिया
+Arrow	बाण
+Arsenic	आर्सेनिक
+Art	कला
+Artemis	आर्टेमिस
+Arthur Compton	आर्थर एच काम्पटन
+Artificial intelligence	आर्टिफिशियल इंटेलिजेंस
+Asia	एशिया महाद्वीप
+Asia	श्रेणी:एशिया
+Assam	असम
+Assembly language	असेम्बली भाषा
+Astrology	फल ज्योतिष
+Astrology	श्रेणी:ज्योतिष
+Astronomical unit	खगोलीय इकाई
+Astronomy	खगोल शास्त्र
+Astronomy	श्रेणी:खगोल शास्त्र
+Aten	अतेन
+Atheism	श्रेणी:नास्तिकता
+Athena	अथीना
+Athens	एथेंस
+Atlanta	अटलांटा
+Atlantic Ocean	अन्ध महासागर
+Atlas Mountains	एटलस पर्वत
+Atmosphere	वायुमण्डल
+Atomic mass unit	परमाण्विक भार इकाई
+Attila the Hun	अटिला
+Auckland	आकलैंड
+August 15	15 अगस्त
+Augustus	आगस्टस कैसर
+Austin	ऑस्टिन
+Australia	ऑस्ट्रेलिया
+Austria	ऑस्ट्रिया
+Autism	ऑटिज्म (आत्मवृति)
+Autumn	वर्षा ऋतु
+Avalanche	हिमप्रपात
+Avatar	अवतार
+Averroes	आवेरोस
+Avesta	अवेस्ता
+Azerbaijan	आज़र्बैजान
+Babylon	बाबिल
+Babylonia	बेबीलोनिया
+Bacteria	जीवाणु
+Baghdad	बग़दाद
+Bahrain	बहरीन
+Bali	बाली
+Balkan Wars	बाल्कन युद्ध
+Balkans	बाल्कन
+Baltic Sea	बाल्टिक सागर
+Bamako	बमाको
+Bangalore	बंगलोर
+Bangkok	बैंकॉक
+Bangladesh	बांग्लादेश
+Bangladesh	श्रेणी:बांग्लादेश
+Bank	बैंक
+Barbados	बारबाडोस
+Barcelona	बार्सिलोना
+Bari	बारी
+Barley	जौ
+Base (chemistry)	क्षार
+Baseball	बेसबॉल
+Bast (mythology)	बास्त
+Baton Rouge	बेटन रूज
+Battle of Trafalgar	ट्राफलगार का युद्ध
+Bay of Bengal	बंगाल की खाड़ी
+Bear	भालू
+Beijing	बेजिंग
+Belarus	बेलारूस
+Belgrade	बेलग्रेड
+Belize	बेलीज़
+Bengal	बंगाल
+Benito Mussolini	बेनिटो मुसोलिनी
+Benjamin Disraeli	बेञ्जमिन डिज़्रैली
+Benjamin Harrison	बेंजमिन हेरिसन
+Bering Strait	बेरिंग जलसन्धि
+Berkshire	बर्कशायर
+Berlin	बर्लिन
+Bermuda	बर्मूडा
+Berne	बर्न
+Bertrand Russell	बर्टराण्ड रसेल
+Beryllium	बेरिलियम
+Bhutan	भूटान
+Bhutan	श्रेणी:भूटान
+Bible	बाइबिल
+Bicycle	सायकिल
+Bihar	बिहार
+Bill Clinton	विलियम क्लिंटन
+Bill Gates	बिल गेट्स
+Biochemistry	जैवरसायनिकी
+Biochemistry	श्रेणी:जैवरसायनिकी
+Biography	जीवनी
+Biology	जीव विज्ञान
+Biology	श्रेणी:जीव विज्ञान
+Biosphere	जैवमण्डल
+Biotechnology	जैवप्रौद्योगिकी
+Biotechnology	श्रेणी:जैवप्रौद्योगिकी
+Bird	पक्षी
+Black	काला
+Black Sea	कृष्ण सागर
+Black hole	काल कोठरी
+Black pepper	काली मिर्च
+Blaise Pascal	ब्लेज पास्कल
+Blindness	अन्धापन
+Blog	ब्लॉग
+Blood pressure	रक्तचाप
+Blood type	रक्त वर्ग
+Blue	नीला
+Bodhisattva	बोधिसत्व
+Boiling point	क्वथनांक
+Bolivia	बोलीविया
+Bollywood	बॉलीवुड
+Bordeaux	बोर्दो
+Boris Pasternak	बोरिस पास्टेरनक
+Boron	बोरॉन्
+Bosnia and Herzegovina	बॉस्निया और हर्ज़ेगोविना
+Boson	बोसान
+Bosporus	बोस्पोरुस जलसन्धि
+Botany	वनस्पति विज्ञान
+Botany	श्रेणी:वनस्पति विज्ञान
+Botswana	बोत्सवाना
+Brahma	ब्रह्मा
+Brahmaputra River	ब्रह्मपुत्र नदी
+Brass	पीतल
+Brazil	ब्राज़ील
+Brest	ब्रैस्त
+Bridge	सेतु
+Brindisi	ब्रिंडिसि
+Bristol	ब्रिस्टल
+British Empire	ब्रिटिश साम्राज्य
+British Virgin Islands	ब्रिटिश वर्जिन द्वीप-समूह
+Bromine	ब्रोमिन
+Bronze	कांसा
+Bronze Age	कांस्य युग
+Brunei	ब्रुनेई
+Bubonic plague	प्लेग
+Bucharest	बुखारेस्ट
+Buckminster Fuller	बकमिन्स्टर फुलर
+Buddhism	बौद्ध धर्म
+Buddhism	श्रेणी:बौद्ध धर्म
+Buenos Aires	ब्युएनॉस एरीस
+Bulgaria	बुल्गारिया
+Buoyancy	उत्प्लावन बल
+Burkina Faso	बुरकीना फ़ासो
+Burma	म्यान्मार
+Business	व्यापार
+Byte	बाइट
+C (programming language)	सी प्रोग्रामिंग भाषा
+Cadmium	काडमियम
+Calcium	काल्सियम
+Calculator	कैलकुलेटर
+Calculus	कलन
+Calendar	पंचांग
+California	कैलिफोर्निया
+California	श्रेणी:केलिफोर्निया
+Calvin Coolidge	कालविन कूलिज
+Cambodia	कम्बोडिया
+Camera	कैमरा
+Canada	कनाडा
+Canada	श्रेणी:कनाडा
+Canary Islands	कैनरी द्वीप-समूह
+Canberra	कैनबरा
+Cancer	कर्कट रोग
+Cancer (constellation)	कर्क
+Candela	कैण्डेला
+Cantonese (linguistics)	कैंटोनी भाषा
+Cape Verde	केप वर्दे
+Capitalism	पूंजीवाद
+Carbon	कार्बन
+Carbon dioxide	कार्बन डाइआक्साइड
+Cardiff	कार्डिफ़
+Carl David Anderson	कार्ल डी एन्डरसन
+Carrot	गाजर
+Cartesian coordinate system	कार्तीय निर्देशांक पद्धति
+Cartography	श्रेणी:मानचित्रण
+Caspian Sea	कैस्पियन सागर
+Cat	बिल्ली
+Cauliflower	फूल गोभी
+Cayman Islands	केमन द्वीप-समूह
+Cell (biology)	कोशिका
+Celsius	सेल्सियस
+Central African Republic	केन्द्रीय अफ्रीकी गणराज्य
+Ceres (mythology)	सिरीस
+Cetacea	व्हेल
+Chair	कुर्सी
+Charlemagne	चार्लेमन
+Charles Darwin	चार्ल्स डार्विन
+Charles de Gaulle	शार्ल डु गोल
+Charlie Chaplin	चार्ली चैपलिन
+Che Guevara	चे ग्वेरा
+Cheese	पनीर
+Chemical element	रासायनिक तत्व
+Chemical engineering	रासायनिक अभियान्त्रिकी
+Chemistry	रसायन शास्त्र
+Chemistry	श्रेणी:रसायन शास्त्र
+Chennai	चेन्नई
+Chiang Kai-shek	चेंग कै शेक
+Chicago	शिकागो, इलिनॉय
+Chickpea	चना
+Chile	चिले
+Chimborazo (volcano)	चिम्बरोजी
+China	श्रेणी:चीन
+China	चीन
+Chlorine	क्लोरीन
+Chloroform	क्लोरोफ़ॉर्म
+Cholera	विसूचिका
+Chordate	कशेरुकी जीव
+Christchurch	क्राइस्टचर्च
+Christiaan Huygens	क्रिस्टियन हुगेन्स
+Christianity	ईसाई धर्म
+Christianity	श्रेणी:ईसाई धर्म
+Christmas	क्रिसमस
+Christopher Columbus	क्रिस्टोफ़र कोलम्बस
+Chromium	क्रोमियम
+Church	गिरजाघर
+Cinnamon	दालचीनी
+Circumcision	ख़तना
+Classical music	शास्त्रीय संगीत
+Claude Monet	क्लाद मोने
+Climate	श्रेणी:जलवायु
+Cloud	बादल
+Cobalt	कोबाल्ट
+Coconut	नारियल
+Cocos (Keeling) Islands	कोकोज (कीलिंग) द्वीप समूह
+Coffee	कॉफ़ी
+Cold War	शीतयुद्ध
+Colombo	कोलंबो
+Color	रंग
+Colorado	कोलोरैडो
+Colorado River	कोलोरेडो नदी
+Comet	धूमकेतु
+Common cold	सर्दी
+Commonwealth of Nations	राष्ट्रों का राष्ट्रमंडल
+Communism	साम्यवाद
+Comoros	कोमोरोस
+Compass	दिक्सूचक
+Computer	कंप्यूटर
+Computer hardware	हार्डवेयर
+Computer programming	प्रोग्रामिंग
+Computer software	सॉफ्टवेयर
+Computer virus	कम्प्यूटर वायरस
+Condom	शिश्वावेष्टन गर्भ निरोधक्
+Confucianism	कुन्फ़्यूशियसी धर्म
+Confucius	कुन्फ़्यूशियस
+Conic section	शांकव
+Connecticut	कनाटीकट
+Conservation of energy	उर्जा संरक्षण का नियम
+Consonant	व्यंजन वर्ण
+Constantine I	कोन्स्टान्टिन प्रथम
+Continent	महाद्वीप
+Continental shelf	कॉण्टीनेण्टल शैल्फ
+Coordinated Universal Time	समन्वयित विश्वव्यापी समय
+Copenhagen	कोपेनहेगन
+Copper	ताम्र
+Cornea	स्वच्छमण्डल
+Cornwall	कॉर्नवल
+Costa Rica	कोस्टा रीका
+Cotton	कपास
+Coulomb	कूलम्ब
+Cricket	क्रिकेट
+Crimean War	क्रीमिया का युद्ध
+Croatia	क्रोएशिया
+Cronus	क्रोनोस
+Cryptography	बीज-लेखन
+Crystal	क्रिस्टल
+Cuba	क्यूबा
+Cucumber	खीरा
+Cultural Revolution	संवर्धन आमूल परिवर्त
+Culture	संस्कृति
+Culture	श्रेणी:संस्कृति
+Cumbria	कम्ब्रिया
+Cupressaceae	मोरपंखी
+Curitiba	Curitiba
+Cyan	क्यान (रंग)
+Cyprus	साइप्रस
+Czech Republic	चेक गणराज्य
+Czechoslovakia	चेकोस्लोवाकिया
+Dakar	डकार
+Dalai Lama	दलाईलामा
+Dallas	डालास
+Dance	नृत्य
+Dance	श्रेणी:नृत्य
+Dante Alighieri	दान्ते ऐलिगिरी
+Dardanelles	डार्डेनलीज जलसन्धि
+Darjeeling	दार्जीलिंग
+Database	डेटाबेस
+David Hilbert	डेविड हिल्बर्ट
+Davis Cup	डेविस कप
+Death	मृत्यु
+December 31	31 दिसंबर
+December 8	8 दिसंबर
+Deer	हिरण
+Delaware	डेलावर
+Delhi	दिल्ली
+Demeter	डिमीटर
+Democracy	लोकतंत्र
+Dengue fever	डेंगू
+Denmark	डेनमार्क
+Density	घनत्व
+Desert	मरुस्थल
+Design	डिजाइन
+Desmond Tutu	डेसमंड टूटू
+Detroit	डेट्राइट, मिशिगन
+Devon	डेवन
+Dhaka	ढाका
+Diabetes mellitus	मधुमेह
+Diamond	हीरा
+Diana	राजकुमारी डायना
+Diana (mythology)	डायना
+Dictatorship	तानाशाही
+Dictionary	शब्दकोश
+Diesel	डीजल
+Dijon	दीजों
+Dinosaur	डायनोसोर
+Dionysus	डायोनाइसस
+Diplomacy	राजनय
+Disambiguation	श्रेणी:बहुविकल्पी शब्द
+Disease	रोग
+Dodo	डोडो
+Dome	गुम्बज
+Dominica	डोमिनिका
+Dominican Republic	डोमिनिकन गणराज्य
+Donald Duck	डोनाल्ड डक
+Doppler effect	डॉप्लर प्रभाव
+Doris Lessing	डोरिस लेसिंग
+Drama	नाटक
+Dromedary	ऊँट
+Dubai	दुबई
+Dune	बालुका स्तूप
+Dunkirk	दैंकर्क
+Durban	डर्बन
+Dwight D. Eisenhower	ड्वैट ऐज़नहौवर
+E-mail	ईमेल
+Ear	कान
+Earth	पृथ्वी
+Earth	श्रेणी:पृथ्वी
+Earthquake	भूकंप
+East Sussex	ईस्ट ससेक्स
+East Timor	पूर्वी तिमोर
+Easter	ईस्टर
+Eclipse	ग्रहण
+Ecology	पारिस्थितिकी
+Ecology	श्रेणी:पर्यावरण
+Economics	अर्थशास्त्र
+Edgar Degas	एद्गर देगास
+Edinburgh	एडिनबरा
+Edmund Hillary	एडमंड हिलारी
+Education	शिक्षा
+Edvard Munch	एडवर्ड मुंख
+Edward Gibbon	एडवार्ड गिबन
+Edward Jenner	एडवार्ड जेनर
+Eggplant	बैंगन
+Egypt	मिस्र
+Egypt	श्रेणी:मिस्र
+El Salvador	एल-साल्वाडोर
+Electric current	विद्युत धारा
+Electric motor	विद्युत मोटर
+Electrical engineering	वैद्युत अभियांत्रिकी
+Electrical resistance	विद्युत प्रतिरोध
+Electricity	विद्युत
+Electricity	श्रेणी:विद्युत
+Electrocardiogram	इ॰ सी॰ जी॰
+Electrolyte	विद्युत अपघट्य
+Electromagnetic radiation	विद्युतचुंबकीय विकिरण
+Electromagnetic spectrum	विद्युतचुंबकीय वर्णक्रम
+Electromagnetism	विद्युतचुम्बकत्व
+Electron	विद्युद्णु
+Electronics	इलेक्ट्रॉनिक्स
+Elephant	हाथी
+Elias Canetti	एलायस कनेटी
+Ellipse	दीर्घवृत्त
+Elvis Presley	एल्विस प्रेस्ली
+Emir	अमीर
+Emma Goldman	एमा गोल्डमन
+Empedocles	एंपेडोक्लीज़
+Empire State Building	एम्पायर स्टेट भवन
+Encyclopedia	विश्वज्ञानकोष
+Energy	ऊर्जा
+Energy (society)	ऊर्जा
+Engine	इंजन
+Engineer	अभियन्ता
+Engineering	अभियान्त्रिकी
+Engineering	श्रेणी:अभियाँत्रिकी
+England	इंग्लैंड
+England	श्रेणी:इंग्लैंड
+English Civil War	अंग्रेज़ी गृहयुद्ध
+English language	अंग्रेज़ी भाषा
+English people	श्रेणी:अंग्रेज़ी
+Enrico Fermi	एन्रीको फर्मी
+Entomology	कीटविज्ञान
+Entropy	उत्क्रम
+Environment	पर्यावरण
+Equation	समीकरण
+Equator	भूमध्य रेखा
+Equatorial Guinea	ईक्वीटोरियल गीनी
+Eratosthenes	इरैटोस्थनिज़
+Erik Axel Karlfeldt	एरिक एक्सेल कार्लफेल्ट
+Ernest Hemingway	अर्नेस्ट हेमिंगवे
+Ernest Rutherford	अर्नेस्ट रदरफोर्ड
+Eros (mythology)	ईरोस
+Esfahan	इस्फ़हान
+Esperanto	एस्पेरान्तो
+Essay	निबंध
+Essex	एसेक्स
+Ethics	नैतिकता
+Etymology	व्युत्पत्ति
+Eugene O'Neill	यूजीन ओ'नील
+Eukaryote	यूकैरियोट
+Eurasia	यूरेशिया
+Euro	यूरो
+Europe	यूरोप
+Europe	श्रेणी:यूरोप
+European Union	यूरोपीय संघ
+European Union	श्रेणी:यूरोपीय संघ
+Exchange rate	विनिमय दर
+Eye	आंख
+Fahrenheit	फॉरेन्हाइट
+Fallacy	मिथ्या तर्क
+Fascism	फ़ासी वाद
+Fatah	फ़तह
+February 12	12 फरवरी
+February 14	14 फरवरी
+February 2	2 फरवरी
+February 22	22 फरवरी
+February 29	29 फरवरी
+Federal Reserve System	फैडरल रिसर्व बैंक
+Feminism	नारीवाद
+Ferdinand Magellan	फ़र्दिनान्द मैगलन
+Fermion	फर्मियान
+Fetus	भ्रूण
+Fever	ज्वर
+Fibonacci number	हेमचन्द्र श्रेणी
+Fidel Castro	फिदेल कास्ट्रो
+Field hockey	फील्ड हॉकी
+Fiji	फ़िजी
+Film	श्रेणी:फ़िल्म
+Film	फ़िल्म
+Film director	फ़िल्म निर्देशक
+Finger	उंगली
+Finland	फ़िनलैंड
+First aid	प्राथमिक चिकित्सा
+First language	मातृभाषा
+Fish	मछली
+Flood	बाढ़
+Florence	फ्लोरेन्स
+Florence Nightingale	फ्लोरेन्स नैटिन्गेल
+Food	भोजन
+Foot (unit of length)	फुट (लम्बाई की इकाई)
+Football (soccer)	फ़ुटबॉल
+Fourier series	फुरिअर श्रेणी
+France	फ़्राँस
+Francis Drake	फ़्रांसिस ड्रेक
+Francisco Goya	फ्रांसिस्को डि गोया
+Francisco Pizarro	पिज़ारो
+Free will	मुक्त कर्म
+Freedom (philosophy)	आज़ादी
+French Revolution	फ़्रांसीसी क्रांति
+Frequency	आवृत्ति
+Friday	शुक्रवार
+Friedrich Engels	फ्रेडरिक एंजेल्स
+Fruit	फल
+Full moon	पूर्णिमा
+Function (mathematics)	फलन
+Fungus	कवक
+Funicular	रज्जुरेल
+Gaborone	गोबोर्नी
+Gabriel Lippmann	गाब्रियल लिपमन
+Galileo Galilei	गालीलेओ गालीलेई
+Gallium	गैलिअम
+Game	खेल
+Gamma ray	गामा किरण
+Ganesha	गणेश
+Ganges	गंगा नदी
+Gansu	गांसू
+Gautama Buddha	गौतम बुद्ध
+Gaza	गज़ा
+Gemini (constellation)	मिथुन
+Genetics	आनुवंशिकी
+Geneva	जनीवा
+Genoa	जेनोआ
+Geography	भूगोल
+Geography	श्रेणी:भूगोल
+Geography	प्रवेशद्वार:भूगोल
+Geometry	ज्यामिति
+Geometry	श्रेणी:रेखागणित
+Geopolitics	भूराजनीति
+Georg Wilhelm Friedrich Hegel	जार्ज विल्हेम फ्रेडरिच हेगेल
+George Bernard Shaw	जार्ज बर्नार्ड शा
+George Boole	जॉर्ज बूल
+George Harrison	जार्ज हरिसन
+George Lucas	ज्योर्ज लुकास
+George Orwell	जॉर्ज ऑरवेल
+George Paget Thomson	जार्ज पेजेट थामसन
+George W. Bush	जॉर्ज वॉकर बुश
+George Washington	जार्ज वाशिंगटन
+Georgia (U.S. state)	जार्जिया (अमरीकी राज्य)
+Georgia (country)	जोर्जिया
+Gerald Ford	जेरल्ड फोर्ड
+German language	जर्मन भाषा
+Germanium	जर्मेनियम
+Germany	जर्मनी
+Geyser	उष्णोत्स
+Ghana	घाना
+Glacier	हिमनद
+Glasgow	ग्लासगो
+Global warming	भूमंडलीय ऊष्मीकरण
+Gloucestershire	ग्लॉस्टरशायर
+Goa	गोआ
+God	ईश्वर
+Gold	सोना
+Golda Meir	गोल्डा मेयर
+Good Friday	गुड फ़्राइडे
+Google	गूगल
+Google	श्रेणी:गूगल
+Government	सरकार
+Gram	ग्राम
+Grammar	व्याकरण
+Grammar	श्रेणी:व्याकरण
+Grand Canyon	ग्रैन्ड कैन्यन
+Great Lakes	महान संयुक्त झीलें
+Great Wall of China	चीन की महान दीवार
+Greater London	ग्रेटर लंदन
+Greece	ग्रीस
+Greek mythology	यूनानी धर्म
+Greek mythology	श्रेणी:यूनानी धर्म
+Green	हरा
+Greenhouse effect	ग्रीन हाउस प्रभाव
+Greenpeace	ग्रीनपीस
+Greenwich	ग्रेनिच बरो
+Greenwich Mean Time	जी एम टी
+Gregorian calendar	ग्रेगोरी कैलंडर
+Grenoble	ग्रेनोब्ल
+Greylag Goose	ग्रेलैग हंस
+Gross domestic product	सकल घरेलू उत्पाद
+Guadeloupe	गुआदेलूप
+Guangdong	ग्वांगदूंग
+Guglielmo Marconi	गुल्येल्मो मार्कोनी
+Guillotine	गिलोटिन
+Guinea	गिनी
+Guinea-Bissau	गिनी-बिसाऊ
+Guitar	गिटार
+Gujarat	गुजरात
+Gulf Stream	गल्फ स्ट्रीम
+Gunpowder	बारूद
+HIV	एचआईवी
+HTML	एच.टी.एम.एल.
+Hades	हेडीस
+Haiku	हाइकु
+Haiti	हैती
+Hammer	हथौड़ा
+Hammurabi	हाम्मुरबी
+Hampshire	हैम्पशायर
+Hannibal	हान्निबल
+Hanoi	हनोई
+Hans Bethe	हांस अल्ब्रेक्त बेटू
+Hanukkah	हनुका
+Hanuman	हनुमान
+Harare	हरारे
+Harriet Tubman	हेरिएट टबमान
+Hawaii	हवाई
+Health	स्वास्थ्य
+Heart	हृदय
+Heat	ऊष्मा
+Heavy water	भारी जल
+Hebei	होबेइ
+Helen Keller	हेलेन केलर
+Helium	हीलियम
+Henri Becquerel	ऑँरी बेकेरेल
+Henri Bergson	आन्रि बर्गसां
+Henrik Ibsen	हेनरिक इबसन
+Henry (unit)	हेनरी (इकाई)
+Henry Ford	हेनरी फ़ोर्ड
+Hephaestus	हैफ़ीस्टस
+Hera	हीरा (देवी)
+Herat	हेरात
+Herbert Hoover	हर्बर्ट हूवर
+Hermann Hesse	हर्मान हेस्से
+Hermes	हरमीस
+Herod the Great	हेरोद महान
+Herodotus	हिरोडोटस
+Hertfordshire	हर्टफ़र्डशायर
+Hertz	हर्ट्ज़
+Hestia	हेस्टिया
+Himalayas	हिमालय
+Hindu Kush	हिन्दु कुश
+Hinduism	हिन्दू धर्म
+Hinduism	श्रेणी:हिन्दू धर्म
+Hippocrates	हिप्पोक्रेटस
+Hirohito	हिरोहितो
+Hiroshima	हिरोशिमा
+History	इतिहास
+History	श्रेणी:इतिहास
+Ho Chi Minh	हो चि मिन्ह्
+Hollywood	हॉलीवुड
+Homeopathy	होम्योपैथी
+Homer	होमर
+Homosexuality	समलैंगिकता
+Honduras	हॉण्डुरास
+Hong Kong	हांग कांग
+Hookah	हुक्का
+Hooke's law	हुक का नियम
+Horn (anatomy)	सींग
+Horoscope	कुण्डली
+Horus	होरस
+Hotel	होटल
+Hour	घंटा
+House (TV series)	हाउस
+House Sparrow	घरेलू गौरैया
+Houston	ह्युस्टन
+Howard Carter (archaeologist)	हावर्ड कार्टर
+Hudson River	हडसन नदी
+Humidity	आर्द्रता
+Hunan	हूनान
+Hungary	हंगरी
+Hyderabad	हैदराबाद
+Hydrocarbon	हाइड्रोकार्बन
+Hydrogen	हाइड्रोजन
+Hydrosphere	जलमण्डल
+Hyperbola	अति परवलय
+Ice	बर्फ
+Iceland	आइसलैंड
+Iliad	इलियाड
+Illinois	इलिनॉय
+Immanuel Kant	इमानुएल कांट
+Independence	स्वतन्त्रता
+India	भारत
+India	श्रेणी:भारत
+Indian Ocean	हिन्द महासागर
+Indiana	इंडियाना
+Indiana	श्रेणी:इंडियाना
+Indira Gandhi	इन्दिरा गांधी
+Indium	इण्डियम
+Indochina	हिन्दचीन
+Indonesia	इंडोनेशिया
+Indra	इन्द्र
+Indus River	सिन्धु नदी
+Industrial Revolution	औद्योगिक क्रांति
+Infectious disease	औपसर्गिक रोग
+Inflation	मुद्रा स्फीति
+Information technology	सूचना प्रौद्योगिकी
+Infrared	अधोरक्त
+Ingmar Bergman	इंगमार बर्गमान
+Inner Mongolia	आंतरिक मंगोलिया
+Innovation	नवाचार
+Integer	पूर्ण संख्या
+Intellectual property	बौद्धिक सम्पदा
+International Atomic Energy Agency	अंतर्राष्ट्रीय परमाणु ऊर्जा अधिकरण
+International Court of Justice	अंतर्राष्ट्रीय न्यायालय
+International System of Units	अन्तर्राष्ट्रीय इकाई प्रणाली
+Internet	अंतरजाल
+Internet	श्रेणी:अंतरजाल
+Iran	ईरान
+Iran	श्रेणी:ईरान
+Iraq	इराक़
+Iron	लोहम्
+Iron Age	लौह युग
+Isaac Newton	सर आइज़क न्यूटन
+Isis	ईसिस
+Islam	इस्लाम
+Islam	श्रेणी:इस्लाम धर्म
+Islamabad	इस्लामाबाद
+Islamic calendar	हिजरी
+Island	द्वीप
+Isle of Man	आइल ऑफ मान
+Isle of Wight	आइल ऑफ़ वाइट
+Israel	इस्राइल
+Istanbul	इस्तांबुल
+Italy	इटली
+Ivan Turgenev	इवान तुर्गेन्येव
+Jack London	जैक लंडन
+Jacques Cartier	ज़ाक कार्तिए
+Jacques Derrida	डेरिडा
+Jade	हरिताश्म
+Jainism	जैन धर्म
+Jakarta	जकार्ता
+James Bond	जेम्स बॉन्ड
+James Clerk Maxwell	जेम्स क्लर्क माक्सवेल
+James Monroe	जेम्स मनरो
+Jammu and Kashmir	जम्मू और कश्मीर
+January 1	1 जनवरी
+January 19	19 जनवरी
+January 20	20 जनवरी
+January 6	6 जनवरी
+Japan	जापान
+Japan	श्रेणी:जापान
+Java	जावा द्वीप
+Jawaharlal Nehru	जवाहरलाल नेहरू
+Jazz	जैज़
+Jean-Jacques Rousseau	रूसो
+Jean-Paul Sartre	ज्यां-पाल सार्त्र
+Jerusalem	येरुशलम
+Jesus	ईसा मसीह
+Jew	यहूदी
+Jihad	जेहाद
+Jimmy Carter	जिमी कार्टर
+Johann Sebastian Bach	योहान सेबास्तियन बाख़
+Johann Wolfgang von Goethe	योहान वुल्फगांग फान गेटे
+Johannes Gutenberg	जोहान गुटेनबर्ग
+Johannes Kepler	योहानेस केप्लर
+Johannes Vilhelm Jensen	योहानेस विल्हेल्म जेन्सेन
+John Adams	जाह्न एडम्स
+John Bardeen	जॉन बर्दीन
+John Galsworthy	जाह्न गाल्सवर्दी
+John Keats	जान कीट्स
+John Major	जॉन मेजर
+John Maynard Keynes	जोन मेनार्ड केन्स
+John Steinbeck	जाह्न स्टैनबेक
+Johnny Cash	जॉनी कैश
+Jordan	यार्दन
+Joseph Stalin	जोसेफ़ स्टालिन
+Journalism	पत्रकारिता
+Judaism	यहूदी धर्म
+Judaism	श्रेणी:यहूदी धर्म
+Julian calendar	जूलियन कैलंडर
+Julius Caesar	जुलियस सीसर
+July 1	1 जुलाई
+June	जून
+June 14	14 जून
+June 21	21 जून
+June 23	23 जून
+June 24	24 जून
+June 29	29 जून
+June 3	3 जून
+Juno (mythology)	जूनो
+Jupiter	बृहस्पति
+Jupiter (mythology)	जुपिटर
+Kabul	काबुल
+Kandahar	कांधार
+Kangaroo	कंगारू
+Kansas	कैंसस
+Karachi	कराची
+Karl Marx	कार्ल मार्क्स
+Karma	कर्म
+Karnataka	कर्नाटक
+Kathmandu	काठमांडू
+Kazakhstan	क़ाज़ाक़्स्तान
+Kelvin	कैल्विन
+Kent	केंट
+Kenya	कीनिया
+Kiev	कीव
+Kilogram	किलोग्राम
+Kinshasa	किन्शासा
+Knot (speed)	नॉट (इकाई)
+Knowledge	ज्ञान
+Knut Hamsun	क्नूट हामसन
+Kobe	कोबे
+Kolkata	कोलकाता
+Korean War	कोरिया युद्ध
+Kosovo	कोसोवो गणराज्य
+Krakatoa	एनैक क्राकाटाओ
+Krishna	श्रीकृष्ण
+Krypton	क्रिप्टन
+Kuala Lumpur	क्वाला लमपुर
+Kuomintang	गुओमिंदांग
+Kurdistan	क़ुर्दिस्तान
+Kuwait	कुवैत
+Lagos	लागोस
+Lahore	लाहौर
+Lake	झील
+Lake Erie	ईरी
+Lake Huron	ह्यूरॉन
+Lake Michigan	मिशिगन झील
+Lake Ontario	ओन्टारियो झील
+Lake Superior	सुपीरियर झील
+Lakshmi	लक्ष्मी
+Lancashire	लैंकाशायर
+Language	भाषा
+Laos	लाओस
+Laptop	लैपटॉप
+Laser	लेसर विज्ञान
+Latin	लातिनी भाषा
+Latin alphabet	रोमन लिपि
+Latitude	अक्षांश रेखाएं
+Latvia	लातविया
+Law	विधि
+Leap year	अधिवर्ष
+Lebanon	लेबनान
+Lens (optics)	लेंस
+Leo (constellation)	सिंह
+Leon Trotsky	त्रोत्स्की
+Leonardo da Vinci	लियोनार्दो दा विन्ची
+Leonhard Euler	लियोनार्ड ओइलर
+Leprosy	कुष्ठ
+Lesotho	लेसोथो
+Lever	उत्तोलक
+Lewis Carroll	लुइस कैरल
+Liberation Tigers of Tamil Eelam	लिबरेशन टाइगर्स आफ तमिल ईलम
+Liberia	लाइबेरिया
+Library	पुस्तकालय
+Libya	लीबिया
+Liechtenstein	लीख़्टेनश्टाइन
+Light-year	प्रकाश-वर्ष
+Lille	लील
+Limit (mathematics)	सीमा (गणित)
+Lincolnshire	लिंकनशायर
+Linear equation	रेखीय समीकरण
+Linguistics	भाषाविज्ञान
+Linguistics	श्रेणी:भाषा-विज्ञान
+Linux	लिनक्स
+Lisbon	लिस्बन
+Literature	साहित्य
+Literature	श्रेणी:साहित्य
+Lithium	लिथियम
+Lithuania	लिथुआनिया
+Litre	लीटर
+Logarithm	लघुगणक
+Logic	तर्कशास्त्र
+Lolita	लोलिता
+London	लंदन
+London	श्रेणी:लंदन
+Long Beach	लॉंग बीच, केलिफ़ोर्निया
+Los Angeles	लॉस ऐन्जेलिस
+Louisiana	लुईज़ियाना
+Lucrezia Borgia	लुक्रेजिया बोर्गिया
+Luigi Pirandello	लुइगि पिरण्डेलो
+Lunar eclipse	चन्द्र ग्रहण
+Lux	लक्स
+Luxembourg	लक्सेम्बर्ग
+Lyon	ल्यों
+Machine code	मशीनी भाषा
+Machine translation	मशीनी अनुवाद
+Madagascar	मेडागास्कर
+Madison	मैडिसन
+Madrid	मैड्रिड
+Maghreb	मग़रेब
+Magic (paranormal)	जादू
+Magnesium	मेगनीसियम
+Maharashtra	महाराष्ट्र
+Mahatma Gandhi	महात्मा गांधी
+Mahayana	महायान
+Maine	मेन
+Maize	मक्का (फसल)
+Malachite	ताप्रांगीयिज
+Malaria	मलेरिया
+Malaysia	मलेशिया
+Maldives	मालदीव
+Mali	माली
+Malta	माल्टा
+Mammal	स्तनधारी
+Management	प्रबन्धन
+Manchuria	मंचूरिया
+Manganese	मंगनीज
+Manipur	मणिपुर
+Mantra	मन्त्र
+Mao Zedong	माओ त्सेतूंग
+Map	मानचित्र
+Marble	संगमर्मर
+March 17	17 मार्च
+March 19	19 मार्च
+March 2	2 मार्च
+March 25	25 मार्च
+Marco Polo	मार्को पोलो
+Margaret Thatcher	मारगरेट थाचर
+Marie Curie	मेरी क्युरी
+Marilyn Monroe	मर्लिन मुनरो
+Mark Twain	मार्क ट्वैन
+Market	बाज़ार
+Mars (mythology)	मार्स
+Marseille	मार्सैय
+Martin Luther	मार्टिन लुथर
+Martin Luther King	मार्टिन लूथर किंग
+Martin Scorsese	मार्टिन स्कोर्सेसे
+Martina Navratilova	मार्टिना नवरातिलोवा
+Martinique	मार्तिनीक
+Mary Wollstonecraft	मेरी वुलस्टोनक्राफ़्ट
+Mashhad	मशहद
+Massachusetts Institute of Technology	मसाचुसेट्स तकनीकी संस्थान
+Mathematics	गणित
+Mathematics	प्रवेशद्वार:गणित
+Mauna Loa	मौनालोआ
+Mauritius	मॉरिशस
+Max Born	माक्स बोर्न
+Max Planck	माक्स प्लान्क
+Maxwell's equations	मैक्सवेल के समीकरण
+May	मई
+May 1	1 मई
+Mayor	महापौर
+Measurement	मापन
+Mechanical engineering	यान्त्रिकी
+Mechanical engineering	श्रेणी:यान्त्रिकी
+Medicine	आयुर्विज्ञान
+Medicine	श्रेणी:आयुर्विज्ञान
+Medina	मदीना
+Meditation	ध्यान
+Mediterranean Sea	भूमध्य सागर
+Mekong	मेकांग नदी
+Mental disorder	मानसिक रोग
+Mercury (mythology)	मरक्युरी
+Mercury (planet)	बुध
+Mesopotamia	मेसोपोटामिया
+Metal	धातु
+Metallurgy	धातुकर्म
+Metaphysics	तत्त्वमीमांसा
+Metre	मीटर
+Mexico	मेक्सिको
+Michigan	मिशिगन
+Michigan	श्रेणी:मिशिगन
+Microprocessor	माइक्रोप्रोसेसर
+Microscope	सूक्ष्मदर्शी यंत्र
+Middle East	मध्यपूर्व
+Mikhail Gorbachev	मिखाइल गोर्बाचोफ
+Milan	मिलानो
+Milk	दूध
+Millard Fillmore	मिलर्ड फिलमोर
+Minaret	मीनार
+Mineral	खनिज
+Minerva	मिनर्वा
+Minnesota	श्रेणी:मिनेसोटा
+Minute	मिनट
+Mirror	दर्पण
+Mobile phone	मोबाइल फोन
+Mogadishu	मोगादीशू
+Moldova	मोल्दाविया
+Mole (unit)	मोल (इकाई)
+Molybdenum	मोलिब्डेनम
+Monaco	मोनैको
+Monarchy	राजतन्त्र
+Monday	सोमवार
+Money	पैसा
+Mongolia	मंगोलिया
+Monica Seles	मोनिका सेलेस
+Monotheism	एकेश्वरवाद
+Monsoon	मॉनसून
+Monte Carlo	मोंटी कार्लो
+Month	मास
+Montserrat	मोंट्सेराट
+Moon	चन्द्रमा
+Morocco	मोरक्को
+Morse code	मोर्स कोड
+Moscow	मास्को
+Moses	मूसा
+Mosque	मस्जिद
+Mother Teresa	मदर टेरेसा
+Mount Etna	माउण्ट एटना
+Mount Everest	माउंट एवरेस्ट
+Mount Fuji	फ्यूजीयामा
+Mount Pinatubo	माउण्टपिनाटुबो
+Mount St. Helens	माउण्ट सेण्ट हेलेन्स
+Mount Vesuvius	विसूवियस
+Mountain	पर्वत
+Mountain pass	दर्रा
+Mozambique	मोस़ाम्बीक
+Muhammad	मुहम्मद
+Mumbai	मुम्बई
+Murray Gell-Mann	मरे गेलमन
+Mushroom	कुकुरमुत्ता
+Music	संगीत
+Musician	संगीतकार
+Mycology	कवक विज्ञान
+NATO	नैटो
+Nadine Gordimer	नेडीन गोर्डिमर
+Nagasaki	नागासाकी
+Nahuatl	नावातल
+Namibia	नामीबिया
+Nancy	नांसी
+Nanotechnology	नैनोतकनीकी
+Nantes	नांत
+Naples	नापोलि
+Nation	राष्ट्र
+Natural science	प्राकृतिक विज्ञान
+Nauru	नाउरु
+Nautical mile	नॉटिकल मील
+Navigation	दिक्चालन
+Navy	नौसेना
+Nebraska	नेब्रास्का
+Nefertiti	नेफरतिति
+Nelson Mandela	नेल्सन मंडेला
+Neon	नियोन
+Nepal	नेपाल
+Nepal	श्रेणी:नेपाल
+Nephthys	नेफ़्थिस
+Netherlands	नीदरलैंड
+Neutron	न्यूट्रॉन
+Nevada	नेवाडा
+New Hampshire	नया हेम्पशायर
+New Jersey	नया जर्सी
+New Mexico	नया मेक्सिको
+New Orleans	न्यू आर्लीन्स
+New South Wales	न्यू साउथ वेल्स
+New Testament	नया नियम
+New Year	नया साल
+New York	नया यॉर्क
+New York City	न्यूयॉर्क शहर
+New Zealand	न्यूज़ीलैंड
+Newport	न्यूपोर्ट
+Nicaragua	निकारागुआ
+Nice	नीस
+Nickel	निकेल
+Nicosia	निकोसिया
+Niels Bohr	नील्स बोह्र
+Niger	नाइगर
+Nigeria	नाईजीरिया
+Nikola Tesla	निकोला टेस्ला
+Nile	नील नदी
+Niobium	नायोबियम
+Nitrogen	नाइट्रोजन
+Noam Chomsky	नोआम चाम्सकी
+Nobel Prize	नोबेल पुरस्कार
+Nobel Prize	श्रेणी:नोबेल पुरस्कार
+Norfolk	नॉर्फ़क
+North	उत्तर
+North America	उत्तरी अमरीका
+North America	श्रेणी:उत्तरी अमरीका
+North Carolina	उत्तर केरोलाइना
+North Dakota	उत्तर डेकोटा
+North Korea	उत्तरी कोरिया
+North Sea	उत्तरी सागर
+North Yorkshire	नॉर्थ यॉर्कशायर
+Northern Ireland	उत्तरी आयरलैंड
+Norway	नॉर्वे
+November 1	1 नवंबर
+November 11	11 नवंबर
+November 2	2 नवंबर
+November 5	5 नवंबर
+Nuclear physics	नाभिकीय भौतिकी
+Number	अंक
+Oahu	ओहाऊ
+Obesity	मेदुरता
+Ocean	महासागर
+Ocean current	महासागरीय धारा
+Oceania	ओशीनिया
+Oceanography	श्रेणी:समुद्र विज्ञान
+October Revolution	अक्तूबर समाजवादी क्रांति
+Odyssey	ओडेसी
+Ohm	ओह्म
+Ohm's law	ओम का नियम
+Oklahoma	ओक्लाहोमा
+Old Testament	पुराना नियम
+Oliver Cromwell	ऑलिवर क्रॉमवेल
+Olivine	ओलीवाइन
+Olympic Games	ओलम्पिक खेल
+Oman	ओमान
+Onion	प्याज़
+Ontario	ओन्टारियो
+Opel	ओपल
+Opera (Internet suite)	ओपेरा
+Operating system	प्रचालन तंत्र
+Optics	श्रेणी:दर्पण
+Orange (colour)	नारंगी (रंग)
+Oregon	औरिगन
+Organ (anatomy)	अंग (शरीर रचना)
+Organic chemistry	कार्बनिक रसायन
+Organization	व्यवस्था
+Orissa	उड़ीसा
+Osaka	ओसाका
+Osama bin Laden	ओसामा बिन लादेन
+Oscar Wilde	ऑस्कर वाइल्ड
+Osiris	ओसिरिस
+Oslo	ओस्लो
+Otto von Bismarck	ओटो फोन बिस्मार्क
+Ottoman Empire	उस्मानी साम्राज्य
+Oxygen	आक्सीजन
+Ozone	ओजोन
+Pablo Neruda	पाबलो नेरुडा
+Pablo Picasso	पाब्लो पिकासो
+Pacific Ocean	प्रशान्त महासागर
+Pakistan	पाकिस्तान
+Pakistan	श्रेणी:पाकिस्तान
+Palermo	पलेर्मो
+Palestine	फ़िलस्तीन
+Pali	पालि
+Palladium	पलाडियम
+Palm Sunday	पाम रविवार
+Papua New Guinea	पापुआ न्यू गिनी
+Parabola	परवलय
+Paradox	परोक्षक
+Parallax	दिग्भेद
+Paramaribo	पारामरीबो
+Paris	पेरिस
+Parliament	संसद
+Parsec	पारसैक
+Parvati	पार्वती
+Pascal (unit)	पास्कल (इकाई)
+Patent	पेटेन्ट
+Patrick White	पेट्रिक व्हैट
+Paul Johann Ludwig von Heyse	पाल हेज़े
+Peanut	मूँगफली
+Peloponnesian War	पेलोपोनेशियन युद्ध
+Pencil	रानी (रंग)
+Penicillin	पेनिसिलिन
+Pennsylvania	पेन्सिलवेनिया
+People's Republic of China	जनवादी गणराज्य चीन
+Percy Bysshe Shelley	पर्सी बिश शेली
+Periodic table	आवर्त सारणी
+Persephone	पर्सिफ़ोनी
+Persian Empire	फ़ारस
+Perth	पर्थ
+Peru	पेरू
+Pesticide	कीटनाशक
+Peter Sellers	पीटर सेलर्स
+Pharaoh	फारो
+Philipp Lenard	फिलिप लेनार्ड
+Philippines	फ़िलिपीन्स
+Philosophy	दर्शन
+Phoenix (spacecraft)	फ़ीनिक्स (अंतरिक्ष यान)
+Phosphorus	फास्फोरस
+Photosynthesis	प्रकाश संश्लेषण
+Physician	चिकित्सक
+Physics	भौतिक शास्त्र
+Physics	श्रेणी:भौतिकी
+Pierre Curie	पिएर क्युरी
+Pisa	पीसा
+Pittsburgh	पिट्सबर्ग, पेन्सिलवेनिया
+Pixel	पिक्सल
+Pizza	पिज्जा
+Planet	ग्रह
+Plate tectonics	प्लेट विवर्तिनिकी
+Plato	प्लेटो
+Pluto	यम ग्रह
+Plutonium	प्लुटोनियम
+Poetry	काव्य
+Poetry	श्रेणी:काव्य
+Poland	पोलैंड
+Police	पुलिस
+Politics	राजनीति
+Pollution	प्रदूषण
+Pomegranate	अनार
+Pompeii	पोम्पेइ
+Pope	पोप
+Population	जनसंख्या
+Port Louis	पोर्ट लुई
+Portugal	पुर्तगाल
+Poseidon	वरुण (ग्रह)
+Potassium	पोटासियम
+Potato	आलू
+Pregnancy	गर्भावस्था
+President	राष्ट्रपति
+Pressure	दबाव
+Prime Meridian	मध्याह्न रेखा
+Prime minister	प्रधानमन्त्री
+Professor	प्रोफ़ेसर
+Programmer	प्रोग्रामर
+Programming language	प्रोग्रामिंग भाषा
+Propaganda	दुष्प्रचार
+Prose	गद्य
+Protestant Reformation	धर्मसुधार
+Proton	प्रोटॉन
+Psoriasis	सोरियासिस
+Psychology	मानस शास्त्र
+Ptah	पिताह
+Ptolemy	क्लाडियस टॉलमी
+Puerto Rico	प्युर्तोरिको
+Punjab (India)	पंजाब
+Pyongyang	प्योंगयांग
+Pythagoras	पाइथागोरस
+Qatar	क़तर
+Quadratic equation	वर्ग समीकरण
+Quadrilateral	चतुर्भुज
+Queensland	क्वीन्सलैण्ड
+Ra	रा
+Rabindranath Tagore	रवीन्द्रनाथ ठाकुर
+Rachel Carson	रेचल कार्सन
+Radon	रेडन
+Rain	वर्षा
+Rama	राम
+Ramayana	रामायण
+Ravenna	रवेन्ना
+Rawalpindi	रावलपिंडी
+Rectangle	आयत
+Red	लाल
+Religion	धर्म
+Religion	श्रेणी:धर्म
+Renaissance	पुनर्जागरण
+Reproduction	प्रजनन
+Reptile	सरीसृप
+Republic	गणराज्य
+Republic of China	चीनी गणराज्य
+Rhode Island	रोड आइलैंड
+Rhythm and blues	आर और बी संगीत
+Rice	चावल
+Richard Feynman	रिचर्ड फिलिप्स फाइनमेन
+Richard Nixon	रिचर्ड निक्सन
+Rio de Janeiro	रीओ दी जैनेरो
+River	नदी
+River Thames	टेम्स नदी
+Roald Amundsen	रुआल एद्मुंदसन
+Rocky Mountains	रॉकी पर्वत
+Rodent	गिलहरी
+Roman Empire	रोमन साम्राज्य
+Roman mythology	श्रेणी:रोमन धर्म
+Romania	रोमानिया
+Rome	रोम
+Ronald Reagan	रोनाल्ड रीगन
+Rosa Parks	रोजा पार्क्स
+Rosetta Stone	रोज़ेटा शिला
+Rosh Hashanah	रौशन-शनाह
+Rubidium	रुबिडियम
+Rudyard Kipling	रुडयार्ड किपलिंग
+Russia	रुस
+Russia	श्रेणी:रूस
+Russo-Japanese War	रूस-जापान युद्ध
+Ruthenium	रुथेनियम
+Rwanda	रवांडा
+Saddam Hussein	सद्दाम हुसैन
+Sail	पाल
+Saint Kitts and Nevis	सेंट किट्स और नेविस
+Saint Vincent and the Grenadines	सेंट विन्सेंट और ग्रेनाडीन्स
+Saladin	सलाउद्दीन
+Salt Lake City	सॉल्ट लेक सिटी, यूटा
+Samuel Beckett	सेम्युल बेकेट
+Samuel Taylor Coleridge	सेम्येल टेलर कोलरिज
+Samurai	सामुराई
+San Marino	सान मारिनो
+Sanskrit	संस्कृत भाषा
+Santiago	सेंटियागो
+Sapphire	नीलम
+Sardinia	सारडीनिया
+Sari	सारि, ईरान
+Satan	शैतान
+Satanism	शैतानी धर्म
+Satellite	उपग्रह
+Saturday	शनिश्चरवार
+Saturn	शनि
+Saudi Arabia	साउदी अरब
+Saul Bellow	सौल बेल्लो
+Scandium	स्काण्डियम
+School	विद्यालय
+Science	विज्ञान
+Science	श्रेणी:विज्ञान
+Scotland	स्कॉटलैंड
+Screw	पेच
+Sea	सागर
+Sears Tower	सियर्स मीनार
+Season	ऋतु
+Seattle	सीऐटल
+Second	सैकण्ड
+Seed	बीज
+Selenium	सेलेनियम
+Senegal	सेनेगल
+Seoul	सियोल
+September 11	11 सितंबर
+Serbia and Montenegro	सर्बिया और मोंटेनीग्रो
+Sergei Eisenstein	सेर्गे आइसेन्स्टाइन
+Series (mathematics)	श्रेणी (गणित)
+Set (mythology)	सेत
+Set theory	समुच्चय सिद्धान्त
+Sexual intercourse	मैथुन
+Seychelles	सेशल्स
+Shanghai	शंघाई
+Share (finance)	शेयर
+Sherlock Holmes	शर्लक होम्स
+Shikoku	शिकोकू
+Shinto	शिन्तो धर्म
+Ship	जलयान
+Shiva	शिव
+Sichuan	सीश्वान
+Siemens (unit)	साइमन्स (इकाई)
+Sierra Leone	सिएरा लियोन
+Sigmund Freud	सिग्मुंड फ़्रोइड
+Sigrid Undset	सिग्रिड उंडसेट
+Sikhism	सिख धर्म
+Sikkim	सिक्किम
+Silicon	सिलिकॉन
+Silicon Valley	सिलिकॉन वैली
+Silk	रेशम
+Silk Road	रेशम मार्ग
+Silver	रूप्यम्
+Sinclair Lewis	सिंकलेर लुइस
+Singapore	सिंगापुर
+Sitting Bull	सिटिंग बुल
+Skyscraper	गगनचुम्बी इमारत
+Slavery	ग़ुलामी
+Slovakia	स्लोवाकिया
+Slovakia	श्रेणी:स्लोवाकिया
+Slovenia	स्लोवेनिया
+Snake	सांप
+Snow	हिमपात
+Soap	साबुन
+Socialism	समाजवाद
+Socialist Party (France)	समाजवादी दल (फ़्राँस)
+Society	समाज
+Sodium	सोडियम
+Solar System	सौर मंडल
+Solar eclipse	सूर्यग्रहण
+Solomon Islands	सोलोमन द्वीप
+Somalia	सोमालिया
+Somerset	समरसेट
+South	दक्षिण
+South America	दक्षिणी अमरीका
+South Australia	साउथ आस्ट्रेलिया
+South Korea	दक्षिण कोरिया
+Southeast Asia	दक्षिण पूर्व एशिया
+Sovereignty	सार्वभौम राष्ट्र
+Spacecraft	अंतरिक्ष यान
+Spain	स्पेन
+Spain	श्रेणी:स्पेन
+Spanish Civil War	स्पेनी गृहयुद्ध
+Spanish-American War	स्पेन अमेरिका का युद्ध
+Spice	मसाला
+Spring (season)	वसन्त ऋतु
+Square (geometry)	वर्गाकार
+Sri Lanka	श्रीलंका
+Sri Lanka	श्रेणी:श्रीलंका
+Statistics	सांख्यिकी
+Steam engine	भाप का इंजन
+Steffi Graf	स्टेफी ग्राफ
+Steven Spielberg	स्टीवेन स्पीलबर्ग
+Stockholm	स्टॉकहोम
+Stone Age	पाषाण युग
+Strait of Gibraltar	जिब्राल्टर जलसन्धि
+Strait of Hormuz	होर्मुज जलसन्धि
+Strait of Magellan	मैगेलन जलसन्धि
+Strait of Messina	मेसिना जलसन्धि
+Straits	श्रेणी:विश्व की प्रमुख जलसन्धियाँ
+Strasbourg	स्ट्रासबर्ग
+Stroke	पक्षाघात
+Strontium	स्ट्रोन्सियम
+Submarine	पनडुब्बी
+Subversion (software)	सबवर्ज़न
+Sudan	सूडान
+Sudoku	सु डोकु
+Suffix	प्रत्यय
+Sufism	सूफ़ीवाद
+Suharto	सुहार्तो
+Sukarno	सुकर्णो
+Sulfur	गन्धक
+Sulfur dioxide	सल्फर डाइआक्साइड
+Sumatra	सुमात्रा
+Sumer	सुमेर
+Summer	ग्रीष्म ऋतु
+Sun	सूर्य
+Sunday	रविवार
+Sunni Islam	सुन्नी
+Superconductivity	अतिचालकता
+Sura	सूरा
+Suriname	सूरिनाम
+Surrey	सरी
+Swaziland	स्वाजीलैंड
+Sweden	स्वीडन
+Switzerland	स्विट्ज़रलैंड
+Sydney	सिडनी
+Synagogue	यहूदी मंदिर
+Syria	सीरिया
+System	तंत्र
+T. S. Eliot	टी एस एलियट
+Table tennis	टेबल टेनिस
+Taipei	ताइपे
+Taiwan	ताइवान
+Taj Mahal	ताजमहल
+Taliban	तालेबान आन्दोलन
+Tallinn	ताल्लिन
+Tamil Nadu	तमिल नाडु
+Tanzania	तंज़ानिया
+Taoism	ताओ धर्म
+Tasmania	टासमानिया
+Tbilisi	थ्बिलीसी
+Tea	चाय
+Technetium	टेक्निशियम
+Technology	तकनीकी
+Tehran	तेहरान
+Telecommunication	दूरसंचार
+Telescope	दूरदर्शी
+Television	दूरदर्शन
+Tellurium	टेलुरियम
+Temperature	तापमान
+Temple	मन्दिर
+Tennessee	टेनेसी
+Tennis	टेनिस
+Texas	टेक्सास
+Thailand	थाईलैंड
+The Gambia	गाम्बिया
+Theocracy	धर्मतंत्र
+Theodor Mommsen	थियोडोर मोम्मसेन
+Theodore Roosevelt	थियोडोर रोज़वेल्ट
+Theorem	प्रमेय
+Theory of relativity	सापेक्षिकता का सिद्धांत
+Theravada	थेरवाद
+Thermodynamics	उष्मागतिशास्त्र
+Thomas Aquinas	थामस एक्विनास
+Thomas Mann	थामस मान
+Thorium	थोरियम
+Thoth	थोथ
+Thumb	अंगुष्ठ
+Tianjin	तिआंजिन
+Tiberius	टैबीरियस
+Tibet	तिब्बत
+Tide	ज्वार-भाटा
+Time	काल
+Time zone	समय मण्डल
+Timur	तैमूरलंग
+Tin	त्रपु
+Titanium	टाइटानियम
+Togo	टोगो
+Tokyo	टोक्यो
+Tomato	टमाटर
+Toni Morrison	टोनी मारिसन
+Tony Blair	टोनी ब्लेयर
+Toulon	तुलों
+Toulouse	तुलूज़
+Tour de France	टुअर दि फ़्राँस
+Tourism	पर्यटन
+Tower of London	टावर ऑफ़ लंदन
+Town	शहर
+Tractor	ट्रैक्टर
+Train	रेलगाडी
+Transformer	ट्रान्सफार्मर
+Transistor	ट्रांज़िस्टर
+Transliteration	लिप्यन्तरण
+Transportation	श्रेणी:यातायात
+Trigonometry	त्रिकोणमिति
+Trinidad	ट्रिनिडाड
+Trinidad and Tobago	ट्रिनिडाड और टोबागो
+Trojan War	ट्रॉय का युद्ध
+Tropic of Cancer	कर्क रेखा
+Truck	ट्रक
+Tsunami	सूनामी
+Tuberculosis	तपेदिक
+Tuesday	मंगलवार
+Tunisia	टुनिशिया
+Turin	टोरीनो
+Turkey	तुर्की
+Turmeric	हल्दी
+Tycho Brahe	टैको ब्राहे
+Uganda	युगांडा
+Ukraine	उक्राइना
+Ultraviolet	पराबैंगनी
+United Arab Emirates	संयुक्त अरब इमारात
+United Kingdom	संयुक्त राजशाही (ब्रिटेन)
+United Kingdom	श्रेणी:संयुक्त राजशाही
+United Nations	संयुक्त राष्ट्र
+United States	संयुक्त राज्य अमेरिका
+United States Virgin Islands	सं. रा. वर्जिन द्वीप-समूह
+United States dollar	अमरीकी डॉलर
+Universe	ब्रह्माण्ड
+University	विश्वविद्यालय
+Upanishad	उपनिषद् सूची
+Ural Mountains	यूराल
+Urdu	उर्दू भाषा
+Utah	यूटा
+Uterus	गर्भ
+Uttar Pradesh	उत्तर प्रदेश
+Uzbekistan	उज़्बेकिस्तान
+Valence	वलांस
+Valentine's Day	वैलेंटाइन्स दिवस
+Vanadium	वनडियम
+Vatican City	वैटिकन शहर
+Vector (spatial)	सदिश राशि
+Vegetarianism	शाकाहार
+Velocity	वेग
+Venice	वेनिस
+Venus	वीनस
+Vermont	वर्मांट
+Verona	वेरोना
+Victor Hugo	विक्टर ह्यूगो
+Victoria (Australia)	विक्टोरिया (ऑस्ट्रेलिया)
+Vienna	वियना
+Vietnam	वियतनाम
+Vietnam War	वियतनाम युद्ध
+Viking	वाइकिंग
+Violin	वायलिन
+Virgil	वर्जिल
+Virgo (constellation)	कन्या
+Virus	वायरस
+Vishnu	विष्णु
+Vittorio De Sica	वित्तोरियो दे सिका
+Vladimir Lenin	व्लाडिमिर लेनिन
+Vladimir Nabokov	व्लदीमिर नाबोकोव
+Vladimir Putin	व्लादिमीर पुतिन
+Volcano	ज्वालामुखी
+Volume	आयतन
+Voodoo	वूडू
+Vowel	स्वर वर्ण
+Vulcan (mythology)	वुल्कन
+Wales	वेल्स
+Walt Disney	वाल्ट डिज्नी
+War	संग्राम
+Washington	डिस्ट्रिक्ट ऑफ कोलंबिया
+Washington	वाशिंगटन
+Water	पानी
+Waterfall	झरना
+Watermelon	तरबूज
+Watt-hour	वॉट-आवर
+Weapon	शस्त्र
+Weather	मौसम
+Web page	जालपृष्ठ
+Wednesday	बुधवार
+Week	सप्ताह
+Weight	भार
+Wellington	वेलिंग्टन
+West Bengal	पश्चिम बंगाल
+West Sussex	वेस्ट ससेक्स
+Western Australia	वेर्स्टन आस्ट्रेलिया
+Wheat	गेहूँ
+Wheel	चक्र
+William Butler Yeats	विलियम बटलर येट्स
+William Faulkner	विलियम फाकनर
+William Gladstone	विलियम ग्लाडस्टोन
+William Golding	विलियम गोल्डिंग
+William Howard Taft	विलियम टाफ्ट
+William II	कैसर विल्हेम द्वितीय (जर्मनी)
+William McKinley	विलियम मकिन्ली
+William Shakespeare	विलियम शेक्सपीयर
+William Shockley	विलियम शोक्ली
+William Wordsworth	विलियम वर्ड्सवर्थ
+Winston Churchill	विंस्टन चर्चहिल
+Winter	शीत ऋतु
+Wisconsin	विस्कांसिन
+Wolfgang Amadeus Mozart	वोल्फ़गांक आमडेयुस मोत्सार्ट
+Wolfgang Pauli	वुल्फगांग पौली
+Woman	नारी
+Woodrow Wilson	वूड्रो विलसन
+Worcestershire	वॉस्टरशायर
+World Bank	विश्व बैंक
+World Health Organization	विश्व स्वास्थ्य संगठन
+World Trade Organization	विश्व व्यापार संगठन
+World War I	प्रथम विश्वयुद्ध
+World War II	द्वितीय विश्वयुद्ध
+World Wide Web	विश्व व्यापी वेब
+World war	विश्वयुद्ध
+Writing system	लिपि
+X-ray	एक्स किरण
+Xenon	ज़ेनान
+Xinjiang	शिंज्यांग
+Yangon	यांगून
+Yangtze River	चांग ज्यांग
+Yasser Arafat	यासिर अराफ़ात (फिलिस्तीनी नेता)
+Yellow	पीला
+Yellow River	ह्वांगहो
+Yemen	यमन
+Yoga	योग
+Yom Kippur	योम किपुर
+Yttrium	इत्रियम
+Yunnan	यून्नान
+Zachary Taylor	ज़ेकरी टेलर
+Zambia	ज़ाम्बिया
+Zeus	ज़्यूस
+Zimbabwe	ज़िम्बाबवे
+Zinc	जस्ता
+Zirconium	जर्कोनियम
+Zoology	प्राणी विज्ञान
+Zoology	श्रेणी:पशु विज्ञान
+Zoroaster	ज़रथुश्त्र
+Zoroastrianism	पारसी धर्म

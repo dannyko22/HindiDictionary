@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\pre-dexed\release\support-annotations-20.0.0_9ade5ec4e43d9f0dedde29f0e205b2f48594e1c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_9ade5ec4e43d9f0dedde29f0e205b2f48594e1c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-20.0.0_44ea8003ebb83848ed69d776e42fbae2d17a481e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\libs\MMSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="0caf3cd39dfd94dc3095e335d0b1ec9b7069b54e">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\2\MMSDK_b79ac58fbd63119409dbd023680c760b00078df0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-20.0.0_44ea8003ebb83848ed69d776e42fbae2d17a481e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="2dbdb363606f4dbb320362ace4c24732a97c4e4d">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_71ae990e099af1f5731b411ba64cdcb9d066da24\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\pre-dexed\release\internal_impl-20.0.0_bca13a0d27d380940f59345ce15ff6e2ede8b73a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-20.0.0_4e048b8b2d69947c5dd9175065a726c7923cb3a7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_bca13a0d27d380940f59345ce15ff6e2ede8b73a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-6.1.71_baa3e366c19d54bc344880d34f365c36a02ef670\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_4e048b8b2d69947c5dd9175065a726c7923cb3a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-6.1.71_baa3e366c19d54bc344880d34f365c36a02ef670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\libs\MMSDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="0caf3cd39dfd94dc3095e335d0b1ec9b7069b54e">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\pre-dexed\release\MMSDK_b79ac58fbd63119409dbd023680c760b00078df0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="c328b837124c45307949ef50d1828168d6d0f765">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\HindiDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3d6cdd934ebb208dbbe135462e3c0447124305cc\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,4274 @@
+0 (number) # शून्य
+1 (number) # एक
+100 # श्रेणी:100
+1000 # 1000
+1000 # श्रेणी:1000
+12 # श्रेणी:12
+14 # श्रेणी:14
+16 # श्रेणी:16
+17 # श्रेणी:17
+1728 # 1728
+500 # 500
+a  ; an # एक
+a little # थोड़ी-थोड़ी (thoṛī-thoṛī); थोड़ा सा (thoṛā sā); थोड़ा-थोड़ा (thoṛā-thoṛā); ज़रा (zarā); थोड़ा (thoṛā)
+a lot # बहुत सारा (bahut sārā)
+abacus # गिनतारा (m)
+abandon # छोड़ देना
+ability  ; power # योग्यता [yogyataa]
+Abkhazia # अबखाजिया
+able # समर्थ [samarth]
+about  ; around # इधर-उधर [idhar-udhar]
+above # ऊपर (... ke ūpar)
+above  ; higher up  ; in a higher place  ; to a higher place # ऊपर [oopar]
+Abraham # इब्राहिम
+Abraham Lincoln # अब्राहम लिंकन
+Absolute zero # परम ताप
+Abu Dhabi # अबू धाबी
+accept  ; take  ; have # स्वीकार करना [sveekaar karanaa]
+accident # दुर्घटना [durghatanaa]
+accordion # अकॉर्डियन
+account  ; business relationship # खाता [khaataa]
+accuse  ; charge # आरोप लगाना [aarop lagaanaa]
+achieve  ; accomplish  ; attain  ; reach # पूरा करना [pooraa karanaa]
+Acid # अम्ल
+Acid rain # अम्लीय वर्षा
+acid rain  ; acid precipitation # अम्लीय वर्षा
+acrobat # कलाबाज़ (kalābāz)
+act  ; deed  ; human action  ; human activity # कार्य [kaary]
+act  ; move # काम करना [kaam karanaa]
+activity  ; action  ; activeness # सक्रियता [sakriyataa]
+actor # अभिनेता (m) (abhinētā); अभिनेत्री (f) (abhinētrī)
+actor  ; histrion  ; player  ; thespian  ; role player # अभिनेता [abhinetaa]
+actress # अभिनेत्री [abhinetree]
+acupuncture # एक्यूपंक्चर (ēkyūpaṅkcar)
+Adam Smith # एडम स्मिथ
+Adansonia # बेऑबॉब
+add  ; add together # जोड़ना [jodanaa]
+addition  ; summation  ; plus # जोड़ [jod]
+address # पता [pataa]
+Adelaide # एडिलेड
+adjective # बिशेषण (m) (biśeṣaṇ)
+admit  ; acknowledge # स्वीकार करना [sveekaar karanaa]
+Adolf Hitler # एडोल्फ हिटलर
+Adriatic Sea # एड्रियाटिक सागर (ēḍriyāṭik sāgar)
+adult # वयस्क (m) (vayask)
+advantage  ; vantage # बढ़त [badhat]
+adverb # क्रियाविशेषण
+advertisement  ; ad  ; advertizement  ; advertising  ; advertizing  ; advert # विज्ञापन [vigyaapan]
+advice # सलाह [salaah]
+aeroplane # हवाई जहाज़ (m) (havā'ī jahāz); वायु-यान (vāyu-yān)
+Aesthetics # अलङ्कार
+Afghanistan # अफ़्ग़ानिस्तान
+Africa # अफ़्रीका
+Africa # श्रेणी:अफ़्रीका
+African American # अफ्रीकी अमरीकन
+Afrikaans # अफ़्रीकांस (afrīkāns); अफ़्रीकांस भाषा (f) (afrīkāns bhāṣā)
+after # बाद (... ke bād)
+afternoon # तीसरा पहर [teesaraa pahar]
+afterwards # बाद (bād mẽ)
+again # फिर (phir); फिर से (phir se); दुबारा (dubārā)
+again  ; once again  ; once more  ; over again # फिर से [phir se]
+against # के विरुद्ध
+Agatha Christie # ऐगथा क्रिस्टी
+age # उमर; उम्र (f) (umr, umar)
+aggressive # shuddhata, yatharthata
+ago # पहले (pahle); बहुत पहले (bahut pahle)
+ago  ; agone # पहले बीता हुआ
+Agra # आगरा
+agree  ; hold  ; concur  ; concord # सहमत होना [sahamat honaa]
+agreement  ; understanding # क़रार
+Agriculture # कृषि
+Agriculture # श्रेणी:कृषि
+AIDS # एड्स
+air # वायु [vaayu]
+Aircraft # वायुयान
+airplane # हवाई जहाज़ (m) (havā'ī jahāz); वायु-यान (vāyu-yān)
+airport # हवाई अड्डा (m) (havā'ī aḍḍā)
+airport  ; airdrome  ; aerodrome  ; drome # हवाई अड्डा [havaaee addaa]
+Akhenaten # अखेनातेन
+Akira Kurosawa # अकिरा कुरोसावा
+Al Gore # अल्बर्ट गोर
+Al Jazeera # अल जज़ीरा (al jazīra)
+Alabama # अलाबामा
+Alan Turing # एलेन ट्यूरिंग
+Alaska # अलास्का
+Albania # अल्बानिया
+Albanian # आल्बानियन
+Albert Abraham Michelson # अल्बर्ट ए मिकेल्सन
+Albert Camus # आल्बेर कामु
+Albert Einstein # अल्बर्ट आइनस्टाइन
+Alberta # अलबर्टा (albarṭā)
+Alcohol # शराब
+Aleksandr Solzhenitsyn # अलेक्सान्द्र सोल्शेनीत्सिन
+Alexander # सिकन्दर (m) (Sikandar)
+Alexander Fleming # अलेक्ज़ांडर फ्लेमिङ
+Alexander Graham Bell # अलेक्ज़ांडर ग्राहम बेल
+Alexander Pushkin # अलेक्सांद्र पूश्किन
+Alexander the Great # अलेक्ज़ांडर महान
+Alfred Hitchcock # एल्फ़्रेड हिचकॉक
+Alfred Nobel # अल्फ़्रेद नोबेल
+Algae # शैवाल
+Algebra # बीजगणित
+Algeria # अल्जीरिया
+Algorithm # अल्गोरिद्म
+alive # जीवित (jīvit); सजीव (sajīv); ज़िंदा (zindā); जीता (jītā)
+alive  ; live # जीवित [jeevit]
+all # तमाम
+all rights reserved # सभी अधिकार सुरक्षित (sabhī adhikār surakṣit)
+Allah # अल्लाह
+alley # गली (f) (galī)
+alligator # मगरमच्छ (magarmucch); घड़ियाल (ghaṛiyāl); मगर (magar)
+allow  ; let  ; permit # संभव बनाना [sambhav banaanaa]
+almond # बादाम (bādām)
+almost  ; about  ; most  ; nearly  ; near  ; nigh  ; virtually  ; well-nigh # लगभग [lagabhag]
+alone # अकेला (akelā)
+alone  ; lone  ; lonely  ; solitary # अकेला [akelaa]
+along # समानान्तर [samaanaantar]
+Alpha particle # अल्फा कण
+Alphabet # मूलाक्षर
+Alps # आल्प्स
+Al-Qaeda # अल कायदा
+already # पहले से [pahale se]
+also # भी (bhī)
+Alternating current # प्रत्यावर्ती धारा
+Aluminium # एलुमिनियम
+always # हमेशा (hamēśā); सदा (sadā)
+always  ; ever  ; e'er # हमेशा [hameshaa]
+am # हूँ (hū̃)
+Amazon River # आमेजन
+ambassador # दूत (dūt)
+ambulance # एम्बुलेंस (embulens); रोगी-वाहन (rogī-vāhan)
+America # अमेरिका (m) (amērikā)
+American # अमरीकी (amrīkī)
+American Civil War # अमरीकी गृहयुद्ध
+American football # अमरीकी फुटबॉल
+American Samoa # अमेरिकी सामोआ
+Amerigo Vespucci # आमेरिगो वेस्पूची
+Amharic # आम्हारिक (āmhārik)
+Amman # अम्मान
+amoeba # अमीबा
+among  ; amongst  ; amid  ; amidst # बीच में ही
+amount # राशि [raashi]
+Ampere # एम्पीयर
+ampersand # ऐंपरसैंड
+Amsterdam # एम्सटर्डम
+Amun # अमुन
+Amur # आमुर (āmur)
+an # एक
+anal sex # गुदा मैथुन (gudā maithun)
+anarchism # अराजकता (arājakatā)
+Anarchy # अशासन
+Anatole France # अनातोले फ्रांस
+Ancient Greek # प्राचीन यूनानी भाषा
+and # और [aur]
+Andes # एंडीज़
+Andhra Pradesh # आंध्र प्रदेश
+Andorra # अन्डोरा
+Andy Warhol # एंडी वारहोल
+Angel # फ़रिश्ता
+anger # क्रोध
+angle # कोण [kon]
+Angola # अंगोला
+angry # गुस्सा करना या जताना
+Anguilla # ऐंगुइला
+animal # हैवान (m) (haivān); पशु (paśu); जानवर (m) (jānvar)
+animal  ; animate being  ; beast  ; brute  ; creature  ; fauna # प्राणी [praanee]
+Anime # ऐनिमे
+Ankara # अंकारा
+announce  ; denote # घोषणा करना [ghoshanaa karanaa]
+announcement  ; proclamation  ; annunciation  ; declaration # घोषणा [ghoshanaa]
+another  ; some other # दूसरा [doosaraa]
+answer # जवाब देना (javāb denā); उत्तर देना (uttar denā)
+answer  ; reply  ; response # उत्तर [uttar]
+ant # चींटी (f) (cīṇṭī); चिऊँटी (f) (ci'ūṇṭī)
+ant  ; emmet  ; pismire # चींटी [cheentee]
+Antananarivo # अन्टाननरीवो
+Antarctica # अंटार्कटिका
+anthrax # एंथ्रेक्स (enthreks)
+Anthropology # मानवशास्त्र
+Antigua and Barbuda # अंटीगुआ और बारबूडा
+Antimony # एन्टिमोनी
+Antisemitism # यहूदी विरोधवाद
+Anton Chekhov # आंतोन चेखव
+antonym # विपर्याय (m) (viparyāy)
+Anubis # अनूबिस
+anus # गुदा (gudā); गांड (gānḍ)
+apartment # अपार्टमेंट (apārṭmēṇṭ)
+Aphrodite # ऐफ़्रोडाइटी
+Apollo # अपोलो
+Apple # सेब
+Applied mathematics # व्यावहारिक गणित
+approval  ; blessing  ; approving # अनुमोदन [anumodan]
+approximately  ; about  ; close to  ; just about  ; some  ; roughly  ; more or less  ; around  ; or so # तकरीबन [takareeban]
+apricot # खुबानी [khubaanee]
+April # अप्रैल (aprél) (m)
+April  ; Apr # अप्रैल [aprail]
+April 14 # 14 अप्रैल
+Arab Republic of Egypt # मिस्र का अरब गणतंत्र (Misra kā Arab Gaṇtãtra)
+Arabian Peninsula # अरबी प्रायद्वीप
+Arabian Sea # अरब सागर
+Arabic # अरबी (f) (arabī)
+Arabic alphabet # अरबी लिपि
+Arabic language # अरबी भाषा
+Aral Sea # अरल सागर
+Arch # चाप
+Archaeology # पुरातत्त्वशास्त्र
+Archimedes # आर्किमिडिज़
+architect # वास्तुकार (vāstukār)
+Architecture # वास्तुशास्त्र
+Arctic Ocean # उत्तरध्रुवीय महासागर
+Area # क्षेत्रफल
+area  ; expanse  ; surface area # क्षेत्रफल [kshetraphal]
+Ares # एरीस
+argent # चांदी (chā.ndī)
+Argentina # अर्जेन्टीना
+Argon # आर्गन
+argue  ; contend  ; debate  ; fence # बहस करना [bahas karanaa]
+argument  ; controversy  ; contention  ; contestation  ; disputation  ; disceptation  ; tilt  ; arguing # तकरार [takaraar]
+argument  ; statement # दलील [daleel]
+Arithmetic # अंकगणित
+Arithmetic # श्रेणी:अंकगणित
+Arizona # एरीजोना
+Arkansas # अरकांसास
+Arkhangelsk # अर्खांगेल्स्क (arkhāṅgelsk)
+arm # बांह
+Armenia # आर्मीनिया
+Armenian # अर्मेनियाई (armeniyā'ī)
+armpit # बग़ल
+army # सेना (senā)
+army  ; regular army  ; ground forces # सेना [senaa]
+arrive  ; make it  ; get in  ; go far # पहुंचना [pahunchanaa]
+Arrow # बाण
+Arsenic # आर्सेनिक
+Art # कला
+art  ; fine art # कला [kalaa]
+Artemis # आर्टेमिस
+Arthur Compton # आर्थर एच काम्पटन
+Artificial intelligence # आर्टिफिशियल इंटेलिजेंस
+artist  ; creative person # कलाकार [kalaakaar]
+ash # राख (f) (rākha)
+ashtray # राखदानी (rākhadānī) (f), ऐश ट (f)
+Asia # एशिया महाद्वीप
+Asia # श्रेणी:एशिया
+ask # पूछना (pūchnā); माँगना (māṅgnā)
+ask  ; inquire  ; enquire # पूछना [poochhanaa]
+ass # चूतर (m) (cūtar)
+Assam # असम
+Assembly language # असेम्बली भाषा
+asshole # गांड (gānḍ)
+asteroid # क्षुद्रग्रह (m) (kṣudragrah)
+Astrology # फल ज्योतिष
+Astrology # श्रेणी:ज्योतिष
+astronaut # अंतरिक्ष यात्री
+Astronomical unit # खगोलीय इकाई
+Astronomy # खगोल शास्त्र
+Astronomy # श्रेणी:खगोल शास्त्र
+astrophysics # ताराभौतिकी
+at least # कम से कम (kam se kam)
+Aten # अतेन
+Atheism # श्रेणी:नास्तिकता
+Athena # अथीना
+Athens # एथेंस
+Atlanta # अटलांटा
+Atlantic Ocean # अन्ध महासागर
+Atlas Mountains # एटलस पर्वत
+Atmosphere # वायुमण्डल
+atmosphere  ; air # वायुमण्डल [vaayumandal]
+atom # परमाणु (paramāṇu)
+Atomic mass unit # परमाण्विक भार इकाई
+attack  ; assail  ; assault  ; set on # धावा बोलना [dhaavaa bolanaa]
+attack  ; onslaught  ; onset  ; onrush # आक्रमण [aakraman]
+attempt  ; effort  ; endeavor  ; endeavour  ; try # प्रयास [prayaas]
+attention # ध्यान (m) (dhyān)
+attention  ; attending # ध्यान [dhyaan]
+Attila the Hun # अटिला
+attitude  ; mental attitude # अभिवृत्ति
+aubergine # बैंगन (m) (baiṅgan); बतिया (f) (batiyā); भण्टा (m) (bhaṇṭā)
+Auckland # आकलैंड
+auction # नीलामी (nīlāmī)
+August # अगस्त (agast)
+August  ; Aug # अगस्त [agast]
+August 15 # 15 अगस्त
+Augustus # आगस्टस कैसर
+Austin # ऑस्टिन
+Australia # ऑस्ट्रेलिया
+Australian # आस्ट्रेलियन (āsṭrēliyan)
+Austria # ऑस्ट्रिया
+author # लेखक (lekhak) (m)/लेखिका (lekhika) (f)
+authority  ; authorization  ; authorisation  ; potency  ; dominance  ; say-so # अधिकार [adhikaar]
+Autism # ऑटिज्म (आत्मवृति)
+automatic # स्वचालित [svachaalit]
+Autumn # वर्षा ऋतु
+autumn  ; fall # शरद ऋतु [sharad rritu]
+available # उपलब्ध [upalabdh]
+Avalanche # हिमप्रपात
+Avatar # अवतार
+Averroes # आवेरोस
+Avesta # अवेस्ता
+avoid # से बचना [se bachanaa]
+awake # सचेत [sachet]
+award  ; accolade  ; honor  ; honour  ; laurels # पुरस्कार [puraskaar]
+axe # कुल्हाड़ी (f) (kul'hāṛī)
+Aymara # आयमारा
+Azerbaijan # आज़र्बैजान
+Azeri # अज़ेरी (f) (azerī)
+Baba Yaga # बाबा यागा (f) (bābā yāgā)
+baby # शिशु (m) (śiśu); बच्चा (m) (baccā)
+baby  ; babe  ; infant # शिशु [shishu]
+Babylon # बाबिल
+Babylonia # बेबीलोनिया
+babysitter # दाई (dā'ī)
+back # पिछला हिस्सा [pichhalaa hissaa]
+back  ; dorsum # पीठ [peeth]
+Bacteria # जीवाणु
+bad # खराब [kharaab]
+bag # झोली
+bag  ; handbag  ; pocketbook  ; purse # थैला [thailaa]
+Baghdad # बग़दाद
+Bahamas # बहामास (bahāmās)
+Bahrain # बहरीन
+bakery # बेकरी
+Baku # बाकू (bākū)
+balance # संतुलन [santulan]
+balcony # बालकनी (f) (bālkanī)
+Bali # बाली
+Balkan Wars # बाल्कन युद्ध
+Balkans # बाल्कन
+ball # गेंद [gend]
+ballet # बैले (bailē)
+balloon # गुब्बारा (f) (gubbārā)
+Baltic Sea # बाल्टिक सागर
+Bamako # बमाको
+banana # केला [kelaa]
+Bangalore # बंगलोर
+Bangkok # बैंकॉक
+Bangladesh # बांग्लादेश
+Bangladesh # श्रेणी:बांग्लादेश
+Bank # बैंक
+bank  ; depository financial institution  ; banking concern  ; banking company # बैंक [baink]
+banknote # नोट (m) (noṭ)
+banknote  ; bill  ; note  ; government note  ; bank bill  ; banker's bill  ; bank note  ; Federal Reserve note  ; greenback # बीजक
+Barbados # बारबाडोस
+Barcelona # बार्सिलोना
+barcode # बारकोड (bārkoḍ)
+Barents Sea # बेरिंट सागर (bēriṇṭ sāgar)
+bargain  ; deal # समझौता [samajhautaa]
+Bari # बारी
+bark # छाल
+Barley # जौ
+base  ; base of operations # आधार [aadhaar]
+Base (chemistry) # क्षार
+Baseball # बेसबॉल
+baseball  ; baseball game # बेसबॉल
+Bashkir # बाश्किर भाषा
+basic # बुनियादी [buniyaadee]
+basket  ; handbasket # डलिया [daliyaa]
+basketball # बास्केटबॉल (bāskeṭbol)
+Bast (mythology) # बास्त
+bat # चमगादड़ (camgādaṛ)
+bathroom # बाथरूम (m) (bāthrūm); ग़ुसलख़ाना (m) (ġusalxānā)
+bathroom  ; bath # गुसलख़ाना
+Baton Rouge # बेटन रूज
+battery # बैटरी (baiṭarī); आक्रमण (ākramaṇ)
+battle # लड़ाई (f) (laṛā'ī)
+Battle of Trafalgar # ट्राफलगार का युद्ध
+Bay of Bengal # बंगाल की खाड़ी
+be # होना [honaa]
+be  ; live # जीवित रहना [jeevit rahanaa]
+be able to # सकना (saknā)
+be prepared # तैयार हो (taiyār hō)
+beach # समुद्र तट [samudr tat]
+beak # चोंच (ćo.nć)
+beak  ; bill  ; neb  ; nib  ; pecker # चोंच [chonch]
+bean  ; edible bean # सेम [sem]
+Bear # भालू
+beard # दाढी (dāḍhī)
+beat # पीटना (pīṭnā); मारना (mārnā)
+beat  ; beat out  ; crush  ; shell  ; trounce  ; vanquish # जीतना [jeetanaa]
+beautiful # सुन्दर [sundar]
+because # क्योंकि [kyonki]
+become # बनना (bannā); हो जाना (ho jānā)
+become  ; go  ; get # बनना [bananaa]
+bed # बिस्तर (bistar)
+bedroom  ; sleeping room  ; sleeping accommodation  ; chamber  ; bedchamber # शयनकक्ष [shayanakaksh]
+bee # मधुमक्खी [madhumakkhee]
+beef # गोमांस (gōmānsa)
+beer # बियर [biyar]
+beetle # गुबरैला
+before # पहले (... se pahle)
+begin # शुरू करना (śurū karnā); शुरू होना (śurū hōnā)
+beginning  ; commencement  ; first  ; outset  ; get-go  ; start  ; kickoff  ; starting time  ; showtime  ; offset # आरम्भ [aarambh]
+behavior  ; demeanor  ; demeanour  ; behaviour  ; conduct  ; deportment # बर्ताव [bartaav]
+behind # के पीछे [ke peechhe]
+Beijing # बेजिंग
+Belarus # बेलारूस
+Belgium # बेल्जियम (beljiyam)
+Belgrade # बेलग्रेड
+Belize # बेलीज़
+bell # घंटा [ghantaa]
+belly # पेट (m) (pēṭ)
+Belorussian # बाय्लोरुसी (bāylōrusī)
+belt # पेटी (f) (peṭī); बेल्ट (belṭ)
+Bengal # बंगाल
+Benito Mussolini # बेनिटो मुसोलिनी
+Benjamin Disraeli # बेञ्जमिन डिज़्रैली
+Benjamin Harrison # बेंजमिन हेरिसन
+Bering Strait # बेरिंग जलसन्धि
+Berkshire # बर्कशायर
+Berlin # बर्लिन
+Bermuda # बर्मूडा
+Berne # बर्न
+Bertrand Russell # बर्टराण्ड रसेल
+Beryllium # बेरिलियम
+best # सर्वोत्तम [sarvottam]
+better # बेहतर [behatar]
+between  ; betwixt # के बीच [ke beech]
+Bhutan # भूटान
+Bhutan # श्रेणी:भूटान
+Bible # बाइबिल
+Bicycle # सायकिल
+big # बड़ा (baṛā)
+big  ; large # बड़ा [badaa]
+Big Bang # बिग बैंग (big baiṅg)
+Bihar # बिहार
+bike  ; bicycle  ; wheel  ; cycle # साइकिल [saaikil]
+bill # चोंच (ćo.nć)
+Bill Clinton # विलियम क्लिंटन
+Bill Gates # बिल गेट्स
+billion # अरब (arab)
+Biochemistry # जैवरसायनिकी
+Biochemistry # श्रेणी:जैवरसायनिकी
+Biography # जीवनी
+Biology # जीव विज्ञान
+Biology # श्रेणी:जीव विज्ञान
+biology  ; biological science # जीवविज्ञान
+Biosphere # जैवमण्डल
+Biotechnology # जैवप्रौद्योगिकी
+Biotechnology # श्रेणी:जैवप्रौद्योगिकी
+bipolar disorder # द्विध्रुवी विकार
+Bird # पक्षी
+birth # जन्म (m) (janma)
+birth  ; nativity  ; nascency  ; nascence # प्रसव [prasav]
+birthday # जन्मदिन [janmadin]
+bishop # ऊँट (m) (ū.nt')
+bit  ; chip  ; flake  ; fleck  ; scrap # टुकड़ा [tukadaa]
+bitch # कुत्तियाँ (f)
+bitter # कड़ुवा [kaduvaa]
+Black # काला
+Black hole # काल कोठरी
+Black pepper # काली मिर्च
+Black Sea # कृष्ण सागर
+blackberry # शहतूत [shahatoot]
+blacksmith # लोहार (lohār)
+blade # पत्ती [pattee]
+Blaise Pascal # ब्लेज पास्कल
+blanket # कंबल (m) (kambal)
+bless you # हरी ॐ (harī õːː)
+blind # (l'hi'अंधा'tr=ãndhā'sc=Deva)
+Blindness # अन्धापन
+Blog # ब्लॉग
+blood # रक्त [rakt]
+Blood pressure # रक्तचाप
+Blood type # रक्त वर्ग
+blow # चोट [chot]
+Blue # नीला
+blueberry # नीलबदरी (nīlabadarī), ब्लूबेरी (blūbērī)
+boat # नाव [naav]
+Bodhisattva # बोधिसत्व
+body # बदन (m) (badan)
+body  ; torso  ; trunk # शरीर [shareer]
+Boiling point # क्वथनांक
+Bolivia # बोलीविया
+Bollywood # बॉलीवुड
+Bolshevik # बोलशेविक (m) (bolśevik)
+bomb # बम (bam)
+bon appétit # (sukh bhojan)(rfscript'Devanagari'lang=hi)
+bon voyage # शुभ यात्रा (śubh yātrā)
+bone # हड्डी (f) (haḍḍī); अस्थि (m) (asthi)
+bone  ; os # हड्डी
+book # किताब (f) (kitāb); पुस्तक (f) (pustak)
+book  ; volume # किताब [kitaab]
+bookshop # किताबों की दुकान (f) (kitābōṁ kī dukāna)
+boot # जूता [jootaa]
+Bordeaux # बोर्दो
+boring  ; deadening  ; dull  ; ho-hum  ; irksome  ; slow  ; tedious  ; tiresome  ; wearisome # उबाऊ [ubaaoo]
+Boris Pasternak # बोरिस पास्टेरनक
+Boron # बोरॉन्
+borscht # बोर्स्ट (bōrsṭ)
+Bosnia # बोसनिया (Bosniyā)
+Bosnia and Herzegovina # बॉस्निया और हर्ज़ेगोविना
+Boson # बोसान
+Bosphorus # बोस्पोरुस जलसन्धि (bosporus jalsandhi)
+Bosporus # बोस्पोरुस जलसन्धि
+Botany # वनस्पति विज्ञान
+Botany # श्रेणी:वनस्पति विज्ञान
+both # दोनों (donõ)
+Botswana # बोत्सवाना
+bottle # बोतल [botal]
+bow # धनुष (m) (dhanuš); कमान (f) (kamān)
+box # सन्दूक [sandook]
+boy # लड़का (m) (laṛkā)
+boy  ; male child # लड़का [ladakaa]
+boyfriend # बॉयफ़्रेंड (m) (boyfreṇḍ); बॉयफ्रेंड (m) (boyfreṇḍ, boyphreṇḍ)
+boyfriend  ; fellow  ; beau  ; swain  ; young man # युवा मित्र
+Brahma # ब्रह्मा
+Brahmaputra River # ब्रह्मपुत्र नदी
+brain  ; encephalon # दिमाग [dimaag]
+branch # शाखा [shaakhaa]
+Brass # पीतल
+Bratislava # ब्रातिस्लावा (brātislāvā)
+brave # बहादुर (bahādur)
+Brazil # ब्राज़ील
+bread # रोटी (f) (roṭī); नान (f) (nān)
+bread  ; breadstuff  ; staff of life # रोटी [rotee]
+break # बांटना [baantanaa]
+break  ; respite  ; recess  ; time out # चुप्पी [chuppee]
+breakfast # नाश्ता [naashtaa]
+breast # स्तन 
+breath # सांस [saans]
+Brest # ब्रैस्त
+brick # ईंट [eent]
+bride # दुलहन (f) (dul'han); नवोढा (f) (navōḍhā); नववधू (f) (navvadhū); वधू (f) (vadhū)
+Bridge # सेतु
+bridge  ; span # सेतु [setu]
+Brindisi # ब्रिंडिसि
+bring # लाना (lānā)
+bring  ; convey  ; take # पहुंचाना
+Bristol # ब्रिस्टल
+British Columbia # ब्रिटिश कोलंबिया (briṭiś kōlambiyā)
+British Empire # ब्रिटिश साम्राज्य
+British Virgin Islands # ब्रिटिश वर्जिन द्वीप-समूह
+Bromine # ब्रोमिन
+Bronze # कांसा
+Bronze Age # कांस्य युग
+brother # जीजा (jījā)
+brother  ; blood brother # भाई [bhaaee]
+brown # भूरा (bhūrā)
+brown  ; brownish  ; chocolate-brown  ; dark-brown # भूरा [bhooraa]
+Brunei # ब्रुनेई
+Bubonic plague # प्लेग
+Bucharest # बुखारेस्ट
+Buckminster Fuller # बकमिन्स्टर फुलर
+Budapest # बुदापैशत (budāpaiśat); बुडापेस्ट (buḍāpēsṭ)
+Buddha # बुद्ध (m) (buddha)
+Buddhism # बौद्ध धर्म
+Buddhism # श्रेणी:बौद्ध धर्म
+Buenos Aires # ब्युएनॉस एरीस
+build  ; construct  ; make # बनाना [banaanaa]
+building # निर्माण (nirmāṇ)
+building  ; edifice # निर्माण [nirmaan]
+Bulgaria # बुल्गारिया
+Bulgarian # बुलगारी (bulgārī)
+bullet # गोली (f) (golī)
+bumblebee # भँवर (m) (bhaṅvar); भँवरा (m) (bhaṅvrā); भ्रमर (m) (bhramar)
+Buoyancy # उत्प्लावन बल
+Burkina Faso # बुरकीना फ़ासो
+Burma # म्यान्मार
+burn # जलाना (jalānā)
+bus # बस (f) (bas)
+bus  ; autobus  ; coach  ; charabanc  ; double-decker  ; jitney  ; motorbus  ; motorcoach  ; omnibus  ; passenger vehicle # बस [bas]
+Business # व्यापार
+business  ; concern  ; business concern  ; business organization  ; business organisation # व्यापार [vyaapaar]
+businessman  ; man of affairs # व्यापारी [vyaapaaree]
+busy # व्यस्त (vyasta); मसरूफ़ (masrūf); मशग़ूल (maśġūl)
+but # लेकिन (lekin)
+butcher # कसाई (m) (kasā'ī)
+butter # मक्खन [makkhan]
+butterfly # तितली (f) (titlī)
+button  ; push button  ; push # बटन [batan]
+buy # मोल लेना (mol lenā); ख़रीदना (xarīdnā)
+buy  ; purchase # खरीदना [khareedanaa]
+by the Grace of God # भगबान कि कृपा से
+by the way # वैसे (vaise)
+Byte # बाइट
+C (programming language) # सी प्रोग्रामिंग भाषा
+Caaba # काबा (kāba)
+cabbage  ; chou # बंदगोभी [bandagobhee]
+Cadmium # काडमियम
+Caesar # सीज़र (m) (sīzar)
+café # होटल (m) (hoṭal); कैफ़े (kaife)
+Cairo # क़ाहिरा (Qāhirā); क़ैरो (Qéro)
+Calcium # काल्सियम
+Calculator # कैलकुलेटर
+Calculus # कलन
+Calendar # पंचांग
+California # कैलिफोर्निया
+California # श्रेणी:केलिफोर्निया
+caliph # ख़लीफ़ा (m) (xalīfā)
+call # पुकारना (pukārnā); बुलाना (bulānā)
+call  ; phone call  ; telephone call # फोन करने की क्रिया
+call  ; telephone  ; call up  ; phone  ; ring # टेलीफोन करना [teleephon karanaa]
+Calvin Coolidge # कालविन कूलिज
+Cambodia # कम्बोडिया
+camel # ऊँट (ū.nt') (m)
+Camera # कैमरा
+camera  ; photographic camera # कैमरा [kaimaraa]
+Cameroon # कैमरून (kaimarūn)
+camouflage # छद्यावरण (g'hi)
+campaign  ; cause  ; crusade  ; drive  ; movement  ; effort # अभियान [abhiyaan]
+can # सकना (saknā)
+Canada # कनाडा
+Canada # श्रेणी:कनाडा
+Canary Islands # कैनरी द्वीप-समूह
+Canberra # कैनबरा
+Cancer # कर्कट रोग
+Cancer (constellation) # कर्क
+Candela # कैण्डेला
+candle # मोमबत्ती (mōmabattī)
+cannabis # कैनबिस (kainabis); भांग (f) (bhā̃ṅg)
+Cantonese (linguistics) # कैंटोनी भाषा
+Cape Verde # केप वर्दे
+capital # राजधानी [raajadhaanee]
+capital  ; working capital # पूंजी
+capital city # राजधानी (f) (rājdhānī)
+Capitalism # पूंजीवाद
+car # गाड़ी (f) (gāṛī); कार (f) (kār)
+car  ; auto  ; automobile  ; machine  ; motorcar # मोटर-गाड़ी [motar-gaadee]
+Carbon # कार्बन
+Carbon dioxide # कार्बन डाइआक्साइड
+Cardiff # कार्डिफ़
+care  ; attention  ; aid  ; tending # देख-रेख [dekh-rekh]
+Carl David Anderson # कार्ल डी एन्डरसन
+carpenter # काष्ठकार (kāsht'akār)
+carpet  ; rug  ; carpeting # कालीन [kaaleen]
+Carrot # गाजर
+carrot  ; cultivated carrot  ; Daucus carota sativa # गाजर [gaajar]
+carry # ले जाना (le jānā)
+carry  ; transport # ढोना [dhonaa]
+Cartesian coordinate system # कार्तीय निर्देशांक पद्धति
+Cartography # श्रेणी:मानचित्रण
+case  ; instance  ; example # कानूनी मामला
+cash # नक़द (naqad)
+Caspian Sea # कैस्पियन सागर
+caste # वर्ण (m) (varṇ); जाति (f) (jāti); जात (f) (jāt); वर्णाश्रम (m) (varṇāśram); खेत (m) (khet); कुल (m) (kul); न्याति (f) (nyāti)
+castle # दुर्ग [durg]
+Cat # बिल्ली
+cat  ; true cat # बिल्ली [billee]
+category # वर्ग (m) (varg)
+caterpillar # इल्ली (illī)
+Cauliflower # फूल गोभी
+cause # कारण [kaaran]
+cave # गुफा (gufaa)
+caviar # कावीयार (kāvīyār)
+Cayman Islands # केमन द्वीप-समूह
+cedar # सीडर (sōḍār)
+ceiling # छत (f) (chhat)
+celery # अजवाइन (ajvā'in)
+cell # कोशिका [koshikaa]
+Cell (biology) # कोशिका
+cell phone # मोबाइल फोन
+cellphone  ; cellular telephone  ; cellular phone  ; cell  ; mobile phone # मोबाइल फोन
+Celsius # सेल्सियस
+center # केंद्र (m) (kendra)
+center  ; centre  ; midpoint # केंद्र [kendr]
+center  ; kernel  ; substance  ; core  ; centre  ; essence  ; gist  ; heart  ; heart and soul  ; inwardness  ; marrow  ; meat  ; nub  ; pith  ; sum  ; nitty-gritty # तत्व [tatv]
+centimetre # सेंटीमीटर (m) (sēṇṭīmīṭar)
+centipede # चालीसपद (cālīspad)
+central # अत्यन्त महत्वपूर्ण [atyant mahatvapoorn]
+Central African Republic # केन्द्रीय अफ्रीकी गणराज्य
+Central Asia # मध्य एशिया (madhya ēśiyā)
+century # शताब्दी [shataabdee]
+Ceres (mythology) # सिरीस
+certain  ; sure # निश्चित [nishchit]
+Cetacea # व्हेल
+chain # श्रृंखला [shrrunkhalaa]
+Chair # कुर्सी
+championship  ; title # प्रतियोगिता [pratiyogitaa]
+chance  ; opportunity # मौका [maukaa]
+change # छुट्टा पैसा [chhuttaa paisaa]
+change  ; alter  ; modify # बदल देना [badal denaa]
+change  ; alteration  ; modification # परिवर्तन होने की प्रक्रिया
+chapter # अध्याय (m) (adhyāy)
+character  ; grapheme  ; graphic symbol # चिह्न [chihn]
+charge  ; electric charge # बिजली [bijalee]
+Charlemagne # चार्लेमन
+Charles Darwin # चार्ल्स डार्विन
+Charles de Gaulle # शार्ल डु गोल
+Charlie Chaplin # चार्ली चैपलिन
+Che Guevara # चे ग्वेरा
+cheap # सस्ता (sastā)
+cheap  ; inexpensive # सस्ता [sastaa]
+Chechen # चेचेन (cecen); चेचन (cecan)
+Chechnya # चेचन्या (cecan'yā)
+check  ; bank check  ; cheque # चेक [chek]
+cheers # चीयर्स
+Cheese # पनीर
+cheetah # चीता (m) (cītā)
+Chelyabinsk # चेल्याबिंस्क (celyābinsk)
+chemical # रासायनिक (rāsāynik)
+chemical  ; chemic # रासायनिक [raasaayanik]
+chemical  ; chemical substance # रसायन [rasaayan]
+Chemical element # रासायनिक तत्व
+chemical element  ; element # रासायनिक तत्व
+Chemical engineering # रासायनिक अभियान्त्रिकी
+Chemistry # रसायन शास्त्र
+Chemistry # श्रेणी:रसायन शास्त्र
+chemistry  ; chemical science # रसायन शास्त्र
+Chennai # चेन्नई
+cheque # चेक (cēk)
+Chernobyl # चेरनोबिल (Cērnōbil)
+cherry # चेरी [cheree]
+chess # शतरंज (f) (śatrãñj)
+chest  ; breast # वक्ष [vaksh]
+chest  ; thorax  ; pectus # छाती [chhaatee]
+Chiang Kai-shek # चेंग कै शेक
+Chicago # शिकागो, इलिनॉय
+chicken # मुर्गा (murgā)
+Chickpea # चना
+child # बच्चा (m) (baccā); बच्ची (f) (baccī); (m) (śíśu)
+child  ; kid # बेटा (m) ; बेटी (f)<!--ref Oxford Hindi-Eng Dict.-->
+Chile # चिले
+Chimborazo (volcano) # चिम्बरोजी
+chimpanzee # चिंपांजी (ciṁpāṁjī)
+chin # ठुड्डी (f) (ṭhuḍḍī); चिबुक (f) (cibuk); ठोड़ी (f) (ṭhoṛī)
+chin  ; mentum # ठुड्डी
+China # श्रेणी:चीन
+China # चीन
+China  ; People's Republic of China  ; mainland China  ; Communist China  ; Red China  ; PRC  ; Cathay # चीन [cheen]
+Chinese # चीनी [cheenee]
+Chlorine # क्लोरीन
+Chloroform # क्लोरोफ़ॉर्म
+chocolate # चाकलेट [chaakalet]
+choice # चुनाव (m) (cunāv)
+choice  ; selection  ; option  ; pick # चुनने का अधिकार [chunane kaa adhikaar]
+choir # कोरस (koras)
+Cholera # विसूचिका
+choose # चुनना (cunnā)
+choose  ; take  ; select  ; pick out # चुनना [chunanaa]
+Chordate # कशेरुकी जीव
+Christ # मसीह (m) (masīh); क्राइस्ट (m) (krā'isṭ)
+Christchurch # क्राइस्टचर्च
+Christiaan Huygens # क्रिस्टियन हुगेन्स
+Christian # ईसाई (īsā'ī)
+Christianity # ईसाई धर्म
+Christianity # श्रेणी:ईसाई धर्म
+Christmas # क्रिसमस
+Christopher # क्रिस्तोफर (Kristophar)
+Christopher Columbus # क्रिस्टोफ़र कोलम्बस
+Chromium # क्रोमियम
+chromosome # गुणसूत्र (guṇasūtra); गुण सूत्र (guṇa sūtra)
+Church # गिरजाघर
+church  ; church building # गिरजाघर [girajaaghar]
+cigarette # सिगरेट (m)
+Cinderella # सिंड्रेला (f) (siṇḍrēlā)
+cinema # फ़िल्म (film)
+cinema  ; movie theater  ; movie theatre  ; movie house  ; picture palace # चलचित्र [chalachitr]
+Cinnamon # दालचीनी
+circle # वृत्त [vrutt]
+Circumcision # ख़तना
+city # शहर (m) (śahr); नगर (nagar)
+city  ; metropolis  ; urban center # शहर [shahar]
+civil war # गृहयुद्ध (gr̥hayud'dh)
+clarinet # शहनाई
+class  ; form  ; grade  ; course # वर्ग [varg]
+Classical music # शास्त्रीय संगीत
+classify  ; class  ; sort  ; assort  ; sort out  ; separate # वर्गीकरण करना [vargeekaran karanaa]
+Claude Monet # क्लाद मोने
+claw # पञ्जा (pa.njā), पंजा (pa.njā)
+clean # स्वच्छ [svachchh]
+clean  ; make clean # साफ करना [saaph karanaa]
+clear # बादल [baadal]
+Climate # श्रेणी:जलवायु
+clinical psychology # नैदानिक मनोविज्ञान (naidānik manovigyān)
+clitoris # भगनासा (f) (bhagnāsā)
+clock # घड़ी [ghadee]
+close  ; shut # बन्द हो जाना [band ho jaanaa]
+closed  ; shut  ; unopen # बन्द [band]
+cloth # कपड़ा (m) (kapṛā)
+cloth  ; fabric  ; material  ; textile # कपड़ा [kapadaa]
+clothes # कपड़ा (m)
+clothing  ; article of clothing  ; vesture  ; wear  ; wearable  ; habiliment # वस्त्र [vastr]
+Cloud # बादल
+club # डंडा [dandaa]
+club  ; social club  ; society  ; guild  ; gild  ; lodge  ; order # खेल इत्यादि का क्लब
+coal # कोयला [koyalaa]
+coast # सीमा (sīmā), कनारा (kanāra), तट (tat.a), समुद्रतट (samudra-tat.a), सागरतट (sāgara-tat.a)
+coat # कोट [kot]
+Cobalt # कोबाल्ट
+cobra # कोबरा (kobrā)
+cock # कुक्रूकु (kukruuku)
+cockroach # तिलचट्टा (tilcaṭṭā)
+Coconut # नारियल
+Cocos (Keeling) Islands # कोकोज (कीलिंग) द्वीप समूह
+Coffee # कॉफ़ी
+coffee  ; java # कॉफ़ी
+coffin # ताबूत (m) (tābūt)
+coil  ; whorl  ; roll  ; curl  ; curlicue  ; ringlet  ; gyre  ; scroll # लपेट
+cold # ठंडा [thandaa]
+cold  ; common cold # जुकाम [jukaam]
+Cold War # शीतयुद्ध
+collar  ; neckband # कालर [kaalar]
+collect # शामिल होने (śāmila hōnē); इकट्ठा (ikaṭṭhā)
+Colombia # कोलम्बिया (kolambiyā)
+Colombo # कोलंबो
+colonel # कर्नल (karnala)
+colonialism # उपनिवेशवाद (m) (upniveśvād)
+Color # रंग
+Colorado # कोलोरैडो
+Colorado River # कोलोरेडो नदी
+come # आना (ānā)
+come  ; come up # आना [aanaa]
+Comet # धूमकेतु
+committee  ; commission # समिति [samiti]
+common  ; mutual # सामान्य [saamaany]
+Common cold # सर्दी
+Commonwealth of Nations # राष्ट्रों का राष्ट्रमंडल
+Communism # साम्यवाद
+communist # साम्यवादी (sāmyavādī)
+Comoros # कोमोरोस
+company # कम्पनी [kampanee]
+company  ; companionship  ; fellowship  ; society # संगति [sangati]
+compare # समानता [samaanataa]
+comparison  ; comparing # तुलना [tulanaa]
+Compass # दिक्सूचक
+competition # प्रतियोगिता में भाग लेना [pratiyogitaa men bhaag lenaa]
+competitor  ; rival  ; challenger  ; competition  ; contender # प्रतियोगी [pratiyogee]
+complaint  ; charge # आरोप [aarop]
+complete  ; consummate # पूरा [pooraa]
+component  ; constituent  ; element  ; factor  ; ingredient # किसी वस्तु का प्रमुख भाग
+Computer # कंप्यूटर
+computer  ; computing machine  ; computing device  ; data processor  ; electronic computer  ; information processing system # कम्प्यूटर
+Computer hardware # हार्डवेयर
+computer language # प्रोग्रामिंग भाषा
+Computer programming # प्रोग्रामिंग
+Computer software # सॉफ्टवेयर
+Computer virus # कम्प्यूटर वायरस
+comrade # कामरेड (kaamred); साथी (saathi)
+concert # संगीत सभा
+condition  ; status # हालत [haalat]
+Condom # शिश्वावेष्टन गर्भ निरोधक्
+Confucianism # कुन्फ़्यूशियसी धर्म
+Confucius # कुन्फ़्यूशियस
+Congo # कांगो (kāṅgō)
+congratulations # बधाई (badhā'ī)
+Conic section # शांकव
+Connecticut # कनाटीकट
+connection  ; connexion  ; connector  ; connecter  ; connective # कनेक्टर
+conscience # विवेक (vivēk); अन्तरात्मा (antarātmā); ज़मीर (zamīr)
+consequence  ; effect  ; outcome  ; result  ; event  ; issue  ; upshot # परिणाम [parinaam]
+Conservation of energy # उर्जा संरक्षण का नियम
+Consonant # व्यंजन वर्ण
+Constantine I # कोन्स्टान्टिन प्रथम
+constitution # संविधान (sanvidhān)
+contain  ; incorporate  ; comprise # से युक्त होना [se yukt honaa]
+contest  ; competition # प्रतियोगिता [pratiyogitaa]
+Continent # महाद्वीप
+Continental shelf # कॉण्टीनेण्टल शैल्फ
+continue  ; go on  ; proceed  ; go along  ; keep # जारी रहना [jaaree rahanaa]
+control # संचालन करना [sanchaalan karanaa]
+conversation # बातचीत (f) (bātcīt)
+cook # पकाना [pakaanaa]
+cook # रसोइया [rasoiyaa]
+Coordinated Universal Time # समन्वयित विश्वव्यापी समय
+Copenhagen # कोपेनहेगन
+Copper # ताम्र
+copy  ; re-create # प्रतिलिपि बनायें
+Cornea # स्वच्छमण्डल
+Cornwall # कॉर्नवल
+correct # सही (sahī)
+correct  ; right # त्रुटिहीन [trutiheen]
+corridor # बरामदा
+cost # मोल [mol]
+Costa Rica # कोस्टा रीका
+Cotton # कपास
+cough # खांसना
+cough  ; coughing # खांसी
+Coulomb # कूलम्ब
+council # परिषद [parishad]
+count # गिनना (ginnā)
+country # देश (m) (deś); राष्ट्र (m) (rāṣṭra)
+country  ; state  ; land # देश [desh]
+couple  ; pair  ; twosome  ; twain  ; brace  ; span  ; yoke  ; couplet  ; distich  ; duo  ; duet  ; dyad  ; duad # दो साथी
+courage # हिम्मत
+course  ; class  ; course of study  ; course of instruction # सबक [sabak]
+court  ; tribunal  ; judicature # अदालत [adaalat]
+cow # गाय (f) (gāy)
+cow  ; moo-cow # गाय [gaay]
+coward # कायर (kāyar)
+crab # केकड़ा (m) (kék.dā); केंकड़ा (m) (ké.nk.dā)
+crack  ; cleft  ; crevice  ; fissure  ; scissure # दरार [daraar]
+create # सर्जन करना (sarjan karnā); बनाना (banānā); रचना करना (racnā karnā); सृष्टि करना (sr̥ṣṭi karnā); सिरजना (sirajnā)
+Cricket # क्रिकेट
+crime # अपराध (m) (aprādh)
+crime  ; offense  ; criminal offense  ; criminal offence  ; offence  ; law-breaking # अनुचित कार्य
+Crimean War # क्रीमिया का युद्ध
+Croatia # क्रोएशिया
+Croatian # क्रोऐशयन (kroéšayan)
+crocodile # मगर (magar) (m), घड़ियाल (gha.riyāl) (m)
+Cronus # क्रोनोस
+crow # कौआ (kau'ā)
+crowd # जनता (jantā); भीड़ (f) (bhīṛ)
+cruel # निर्दयी (nirdayī); ज़ालिम (zālim)
+cruel  ; barbarous  ; brutal  ; fell  ; roughshod  ; savage  ; vicious # निर्दयी [nirdayee]
+crush  ; squash  ; squelch  ; mash  ; squeeze # मसलना [masalanaa]
+cry # रोना (ronā)
+cry  ; outcry  ; call  ; yell  ; shout  ; vociferation # पुकार [pukaar]
+cry  ; weep # रोना [ronaa]
+Cryptography # बीज-लेखन
+Crystal # क्रिस्टल
+Cuba # क्यूबा
+cube # घन
+Cucumber # खीरा
+cucumber  ; cuke # ककड़ी [kakadee]
+Cultural Revolution # संवर्धन आमूल परिवर्त
+Culture # संस्कृति
+Culture # श्रेणी:संस्कृति
+culture  ; civilization  ; civilisation # सभ्यता [sabhyataa]
+Cumbria # कम्ब्रिया
+cunt # चूत (f) (čūt); योनी (f) (yonī)
+cup # प्याले के रूप देना
+cup  ; loving cup # कप [kap]
+cupboard  ; closet # अलमारी [alamaaree]
+Cupressaceae # मोरपंखी
+Curitiba # Curitiba
+curtain # परदा (m) (parda)
+curtain  ; drape  ; drapery  ; mantle  ; pall # पर्दा [pardaa]
+curve  ; bend # घुमाव [ghumaav]
+curve  ; curved shape # वक्र रेखा [vakr rekhaa]
+customer  ; client # ग्राहक [graahak]
+cut # चीरना [cheeranaa]
+cut  ; cutting # कटाव [kataav]
+cute # प्यारा (pyārā)
+Cyan # क्यान (रंग)
+Cyprus # साइप्रस
+Cyrillic # सिरिलिक (sirilik)
+Cyrillic alphabet # सिरिलिक (sirilik)
+Czech # चेक (cek)
+Czech Republic # चेक गणराज्य
+Czechia # चेक (cek)
+Czechoslovakia # चेकोस्लोवाकिया
+dad # बाप (m) (bāp); अब्बा (m) (abbā); बाबा (m) (bābā); बापू (m) (bāpū); पिताजी (m) (pitā-jī)
+daily # रोज़ (roz); हर रोज़ (har roz); हर दिन (har din)
+Dakar # डकार
+Dalai Lama # दलाईलामा
+Dallas # डालास
+damage  ; harm  ; impairment # हानि [haani]
+Damascus # दमिश्क (damiśk); दमिश्क़ (damiśq); दिमाश्क़ (dimāśq)
+Dance # नृत्य
+Dance # श्रेणी:नृत्य
+dance  ; trip the light fantastic  ; trip the light fantastic toe # नृत्य करना [nruty karanaa]
+dandruff # रूसी (rūsī)
+Dane # डेनिश (ḍēniś); डेन (ḍēn)
+danger # खतरा [khataraa]
+dangerous # ख़तरनाक (f) (khhataranāka)
+dangerous  ; unsafe # खतरनाक [khataranaak]
+Danish # डेनिश
+Dante Alighieri # दान्ते ऐलिगिरी
+Danube # डेन्यूब (ḍēn'yūb)
+Dardanelles # डार्डेनलीज जलसन्धि
+Darjeeling # दार्जीलिंग
+dark # अंधेरा [andheraa]
+darkness # अंधेरा (m) (andherā); अन्धेरा (m) (andherā)
+data # डेटा (ḍeṭā)
+data  ; information # डेटा [detaa]
+Database # डेटाबेस
+date # तारीख़ (f) (tārīx)
+date  ; appointment  ; engagement # नियुक्ति [niyukti]
+date  ; day of the month # किसी पत्र में दिन
+daughter # बेटी (f) (beṭī); लड़की (f) (laṛkī); पुत्री (f) (putrī)
+daughter  ; girl # बेटी [betee]
+David Hilbert # डेविड हिल्बर्ट
+Davis Cup # डेविस कप
+dawn # प्रभात; भौर
+day # दिन (m) (din)
+dead # मृत [mrut]
+Dead Sea # मृत सागर (mr̥ta sāgar)
+dear # प्यारा (pyārā); प्रिय (priya)
+dear  ; beloved  ; dearest  ; honey  ; love # संकाय अध्यक्ष
+Death # मृत्यु
+December # दिसम्बर (disambar)
+December  ; Dec # दिसम्बर
+December 31 # 31 दिसंबर
+December 8 # 8 दिसंबर
+decide  ; make up one's mind  ; determine # निर्णायक होना
+decision  ; determination  ; conclusion # निर्णय [nirnay]
+decoration  ; ornament  ; ornamentation # सजावट [sajaavat]
+Deer # हिरण
+degree  ; grade  ; level # स्तर [star]
+Delaware # डेलावर
+Delhi # दिल्ली
+delicate # सुकुमार [sukumaar]
+delicious # स्वादिष्ट (svādiṣṭ); मज़ेदार (mazedār)
+Demeter # डिमीटर
+Democracy # लोकतंत्र
+democracy  ; republic  ; commonwealth # गणतंत्र
+Dengue fever # डेंगू
+Denmark # डेनमार्क
+Density # घनत्व
+dentist # डेंटिस्ट (m) (ḍeṇṭisṭ)
+department  ; section # विभाग [vibhaag]
+describe  ; depict  ; draw # वर्णन करना [varnan karanaa]
+Desert # मरुस्थल
+Design # डिजाइन
+design  ; designing # रूप [roop]
+desire  ; want # चाहना [chaahanaa]
+desk # मेज [mej]
+Desmond Tutu # डेसमंड टूटू
+destruction  ; devastation # तोड़-फोड़ [toda-phod]
+Detroit # डेट्राइट, मिशिगन
+develop # तस्वीर साफ करना
+devil # शैतान (m) (śaitān)
+Devon # डेवन
+dew # ओस [os]
+Dhaka # ढाका
+Dhivehi # महल् (mahal); दिवॅही (f) (divehī)
+Diabetes mellitus # मधुमेह
+Diamond # हीरा
+Diana # राजकुमारी डायना
+Diana (mythology) # डायना
+diarrhea # दस्त (dast)
+Dictatorship # तानाशाही
+Dictionary # शब्दकोश
+dictionary  ; lexicon # शब्दकोश [shabdakosh]
+die # पासा (m) (pāsā)
+die  ; decease  ; perish  ; go  ; exit  ; pass away  ; expire  ; pass  ; kick the bucket  ; cash in one's chips  ; buy the farm  ; conk  ; give-up the ghost  ; drop dead  ; pop off  ; choke  ; croak  ; snuff it # मरना [maranaa]
+Diesel # डीजल
+difference # फ़र्क़ (m) (farq); अंतर (m) (antar); भेद (m) (bhed)
+different # अलग [alag]
+different  ; unlike  ; dissimilar # असदृश
+difficult # मुश्किल (muśkil); विकट (vikaṭ); कठिन (kaṭhin)
+difficult  ; hard # कठिन [kathin]
+difficulty # कठिनाई [kathinaaee]
+dig # खोदना (khōdnā)
+Dijon # दीजों
+Dinosaur # डायनोसोर
+Dionysus # डायोनाइसस
+diploma # डिप्लोमा (ḍiplomā)
+Diplomacy # राजनय
+direction # दिशा [dishaa]
+directly  ; straight  ; direct # सीधे [seedhe]
+director  ; manager  ; managing director # प्रबंधक [prabandhak]
+dirty # गंदा (gandā); मैला (mailā)
+dirty  ; soiled  ; unclean # गंदा [gandaa]
+Disambiguation # श्रेणी:बहुविकल्पी शब्द
+discipline  ; subject  ; subject area  ; subject field  ; field  ; field of study  ; study  ; bailiwick # अनुशासन [anushaasan]
+discover  ; find # खोजना करना
+discovery  ; find  ; uncovering # खोज [khoj]
+discuss # विचार-विमर्श करना (vicār-vimarś karnā); बहस करना (bahas karnā)
+discuss  ; hash out  ; talk over # चर्चा करना [charchaa karanaa]
+discussion # विचार-विमर्श (vicār-vimarś); बहस (bahas)
+discussion  ; give-and-take  ; word # चर्चा [charchaa]
+Disease # रोग
+distance # दूरी [dooree]
+diversity  ; diverseness  ; multifariousness  ; variety # भिन्नता [bhinnataa]
+divide  ; split  ; split up  ; separate  ; dissever  ; carve up # विभाजन [vibhaajan]
+division  ; partition  ; partitioning  ; segmentation  ; sectionalization  ; sectionalisation # बंटवारा
+divorce # तलाक़ (f) (talāq); तलाक (f) (talāk)
+DNA # डीएनए (ḍī'ēn'ē)
+do # करना (karnā)
+do  ; practice  ; practise  ; exercise # व्यवहार में लाना [vyavahaar men laanaa]
+do you speak something # क्या आप हिन्दी बोलते हैं? (kyā āp hindī bolte hãĩ?)
+doctor # डाक्टर (m) (ḍākṭar); डॉक्टर (m) (ḍokṭar)
+doctor  ; doc  ; physician  ; MD  ; Dr.  ; medico # डाक्टर [daaktar]
+documentation # दस्तावेज़ीकरण
+Dodo # डोडो
+dog # कुत्ता (m) (kutta)
+dog  ; domestic dog  ; Canis familiaris # कुत्ता [kuttaa]
+dollar # डॉलर (ḍolar); डौलर (ḍaular)
+Dome # गुम्बज
+dominance  ; ascendance  ; ascendence  ; ascendancy  ; ascendency  ; control # नियंत्रण [niyantran]
+Dominica # डोमिनिका
+Dominican Republic # डोमिनिकन गणराज्य
+dominion  ; rule # प्रभुत्व [prabhutv]
+Donald Duck # डोनाल्ड डक
+donation # दान (dān)
+donkey # गधा (m) (gadhā)
+door # द्वार [dvaar]
+Doppler effect # डॉप्लर प्रभाव
+Doris Lessing # डोरिस लेसिंग
+doubt # संदेह करना
+doubt  ; uncertainty  ; incertitude  ; dubiety  ; doubtfulness  ; dubiousness # संदिग्धता [sandigdhataa]
+doughnut # डोनट (ḍōnaṭ)
+dove # कपोत (kapot)
+down # नीचे [neeche]
+download # डाउनलोड (ḍā'unloḍ)
+dowry # दहेज (m) (dahej)
+dozen # दर्जन (f) (darjan)
+dragon # अजगर (ajgar)
+Drama # नाटक
+draw # खींचना (khīncanā)
+drawer # दराज [daraaj]
+dream # सपना देखना (sapnā dekhnā)
+dress # पोशाक (f) (pośāk)
+drink # शराब पीना (pīnā)
+drink  ; beverage  ; drinkable  ; potable # पानी के अतिरिक्त दूसरे पेय
+drink  ; imbibe # पीना [peenaa]
+drive # हांकना [haankanaa]
+driver # चालक (m) (cālak); ड्राइवर (m) (ḍrāivar)
+Dromedary # ऊँट
+drop  ; drib  ; driblet # बूंद [boond]
+drunk # मत्त (matta); शराबी (śarābī)
+dry # सूखा [sookhaa]
+Dubai # दुबई
+Dublin # डबलिन (ḍablin)
+Dune # बालुका स्तूप
+Dunkirk # दैंकर्क
+Durban # डर्बन
+during # के दौरान [ke dauraan]
+dust # धूल [dhool]
+Dutch # डच (d.ać)
+duty # कर्त्तव्य
+dwarf planet # बौना ग्रह (m) (baunā grah)
+Dwight D. Eisenhower # ड्वैट ऐज़नहौवर
+dynamite # बारूद (f) (bārūda)
+e # ई-मेल (f) (ī-mel); ईमेल (f) (īmel); ई-पत्र (m) (ī-patr)
+each # हर [har]
+eagle # गरुड (garuḍ), चील (ćīl) (g'hi)
+Ear # कान
+eardrum # ढोल (ḍhol)
+early # आरंभ का
+early  ; early on # प्रारंभ में [praarambh men]
+Earth # पृथ्वी
+Earth # श्रेणी:पृथ्वी
+Earth  ; earth  ; world  ; globe # पृथ्वी [pruthvee]
+earth  ; ground # पृथ्वी [pruthvee]
+Earthquake # भूकंप
+earthworm # केंचुआ (kenćuā)
+east  ; due east  ; eastward  ; E # पूर्व दिशा [poorv dishaa]
+East Sussex # ईस्ट ससेक्स
+East Timor # पूर्वी तिमोर
+Easter # ईस्टर
+easy # आसान [aasaan]
+eat # खाना [khaanaa]
+Eclipse # ग्रहण
+Ecology # पारिस्थितिकी
+Ecology # श्रेणी:पर्यावरण
+ecology  ; bionomics  ; environmental science # परिस्थिति विज्ञान पौधों तथा प्राणियों का आपस में तथा परिवेश से सम्बन्ध
+economic # किसी देश के आर्थिक भविष्य से संबंधित
+Economics # अर्थशास्त्र
+economy  ; economic system # अर्थव्यवस्था [arthavyavasthaa]
+Edgar Degas # एद्गर देगास
+edge  ; border # किनारा [kinaaraa]
+edible # खाद्य (khādya)
+Edinburgh # एडिनबरा
+edit # संपादन करना (sampādan karnā)
+Edmund Hillary # एडमंड हिलारी
+Education # शिक्षा
+education  ; instruction  ; teaching  ; pedagogy  ; didactics  ; educational activity # शिक्षा [shikshaa]
+Edvard Munch # एडवर्ड मुंख
+Edward Gibbon # एडवार्ड गिबन
+Edward Jenner # एडवार्ड जेनर
+effort  ; elbow grease  ; exertion  ; travail  ; sweat # कोशिश [koshish]
+egg # अंडा [andaa]
+Eggplant # बैंगन
+Egypt # मिस्र
+Egypt # श्रेणी:मिस्र
+eight # आठ (IPAchar'(āṭh)) (numeral: ८)
+eight  ; 8  ; viii # आठ [aath]
+eighteen # अठारह (aṭhārah)
+eighty # अस्सी (assee)
+eighty  ; 80  ; lxxx  ; fourscore # अस्सी [assee]
+either # दो में से कोई एक
+ejaculation # स्खलन (skhalan)
+El Salvador # एल-साल्वाडोर
+elbow # कुहनी (kuhnī)
+election # चुनाव [chunaav]
+electric  ; electrical # बिजली का [bijalee kaa]
+Electric current # विद्युत धारा
+Electric motor # विद्युत मोटर
+Electrical engineering # वैद्युत अभियांत्रिकी
+Electrical resistance # विद्युत प्रतिरोध
+Electricity # विद्युत
+Electricity # श्रेणी:विद्युत
+Electrocardiogram # इ॰ सी॰ जी॰
+Electrolyte # विद्युत अपघट्य
+Electromagnetic radiation # विद्युतचुंबकीय विकिरण
+Electromagnetic spectrum # विद्युतचुंबकीय वर्णक्रम
+Electromagnetism # विद्युतचुम्बकत्व
+Electron # विद्युद्णु
+Electronics # इलेक्ट्रॉनिक्स
+Elephant # हाथी
+elevator  ; lift # लिफ्ट [lipht]
+eleven # ग्यारह (gyārah)
+eleven  ; 11  ; xi # ग्यारह [gyaarah]
+elf # देव (m) (dev)
+Elias Canetti # एलायस कनेटी
+Ellipse # दीर्घवृत्त
+Elvis Presley # एल्विस प्रेस्ली
+E-mail # ईमेल
+embassy # दूतावास (m) (dūtāvās); राजदूतावास (m) (rājdūtāvās)
+embrace  ; encompass  ; comprehend  ; cover # समावेश करना [samaavesh karanaa]
+Emir # अमीर
+Emma Goldman # एमा गोल्डमन
+emotion # भावना (f) (bhāvnā)
+Empedocles # एंपेडोक्लीज़
+Empire State Building # एम्पायर स्टेट भवन
+empty # ख़ाली करना (<u>kh</u>ālī karnā)
+encourage # उत्साहित करना [utsaahit karanaa]
+Encyclopedia # विश्वज्ञानकोष
+end # ख़त्म करना (xatm karnā); अंत करना (anta karnā)
+end  ; stop  ; finish  ; terminate  ; cease # पूर्ण करना [poorn karanaa]
+Energy # ऊर्जा
+energy  ; free energy # ऊर्जा [oorjaa]
+Energy (society) # ऊर्जा
+Engine # इंजन
+Engineer # अभियन्ता
+Engineering # अभियान्त्रिकी
+Engineering # श्रेणी:अभियाँत्रिकी
+England # इंग्लैंड
+England # श्रेणी:इंग्लैंड
+English # अंग्रेज़ (ãṅgrez)
+English  ; English language # अंग्रेज़ी
+English Civil War # अंग्रेज़ी गृहयुद्ध
+English language # अंग्रेज़ी भाषा
+English people # श्रेणी:अंग्रेज़ी
+enhance  ; heighten  ; raise # बढ़ाना [badhaanaa]
+enjoy your meal # (sukh bhojan)(rfscript'Devanagari'lang=hi)
+enough # काफ़ी (kāfī)
+enough  ; plenty # पर्याप्त [paryaapt]
+Enrico Fermi # एन्रीको फर्मी
+enter # प्रवेश करना (praveś karnā); भीतर जाना (bhītar jāna)
+enter  ; come in  ; get into  ; get in  ; go into  ; go in  ; move into # भीतर आना
+entertainment  ; amusement # मनोरंजन [manoranjan]
+Entomology # कीटविज्ञान
+Entropy # उत्क्रम
+envelope # लिफ़ाफ़ा [lifaafaa]
+Environment # पर्यावरण
+epididymis # अधिवृषण (ādhivŕṣaṇ)
+equal # समान [samaan]
+equally  ; as  ; every bit # जैसे [jaise]
+Equation # समीकरण
+Equator # भूमध्य रेखा
+Equatorial Guinea # ईक्वीटोरियल गीनी
+Eratosthenes # इरैटोस्थनिज़
+erection # स्तंभन (m) (stãmbhan)
+Erik Axel Karlfeldt # एरिक एक्सेल कार्लफेल्ट
+Eritrea # इरीट्रिया (irīṭriyā)
+Ernest Hemingway # अर्नेस्ट हेमिंगवे
+Ernest Rutherford # अर्नेस्ट रदरफोर्ड
+Eros (mythology) # ईरोस
+Esfahan # इस्फ़हान
+Esperanto # एस्पेरान्तो
+Essay # निबंध
+Essex # एसेक्स
+estimate  ; gauge  ; approximate  ; guess  ; judge # अंदाज लगाना
+Estonia # एस्टोनिया (m) (esṭoniyā)
+Estonian # एस्टोनियाई (esṭoniyā'ī)
+et cetera # वग़ैरह (vaġairah)
+Ethics # नैतिकता
+Ethiopia # इथियोपिया (ithiyōpiyā)
+Etymology # व्युत्पत्ति
+Eugene O'Neill # यूजीन ओ'नील
+Eukaryote # यूकैरियोट
+Eurasia # यूरेशिया
+Euro # यूरो
+Europe # यूरोप
+Europe # श्रेणी:यूरोप
+European # युरोपियन (yuropiyan)
+European Union # यूरोपीय संघ
+European Union # श्रेणी:यूरोपीय संघ
+euthanasia # इच्छामृत्यु (icchāmŕtyu)
+even # दो से पूरी तरह विभाज्य
+evening # शाम (f) (śām)
+evening  ; eve  ; even  ; eventide # संध्या [sandhyaa]
+event # घटना [ghatanaa]
+every # प्रत्येक [pratyek]
+everybody # सब लोग (sab lōg)
+everybody  ; everyone # प्रत्येक व्यक्ति [pratyek vyakti]
+everyone # सब लोग (sab lōg)
+everything # सब कुछ [sab kuchh]
+evidence # साक्ष्य [saakshy]
+evil # दुष्ट (duṣṭa), बुरा (burā), पापी (pāpī)
+evolution  ; development # क्रम विकास
+exactly  ; precisely  ; just # ठीक-ठीक [theek-theek]
+examination  ; exam  ; test # परीक्षा [pareekshaa]
+example # नमूना (m) (namūnā); मिसाल (m) (misāl)
+example  ; illustration  ; instance  ; representative # उदाहरण [udaaharan]
+exceed  ; transcend  ; overstep  ; pass  ; go past  ; top # सिर से ऊपर चला जाना
+excellent  ; first-class  ; fantabulous  ; splendid # श्रेष्ठ [shreshth]
+Exchange rate # विनिमय दर
+excuse me # माफ़ कीजिए (māf kīji'ē)
+exist  ; be # अस्तित्व होना [astitv honaa]
+existence # अस्तित्व (astitva)
+existence  ; being  ; beingness # अस्तित्व [astitv]
+expect  ; look  ; await  ; wait # आशा रखना [aashaa rakhanaa]
+expensive # महँगा (mahãṅgā); महंगा (mahãṅgā); बहुमूल्य (bahumūlya)
+experience # अनुभव [anubhav]
+experience # अनुभव [anubhav]
+expert # निपुण [nipun]
+explain # समझाना (samjhānā)
+explain  ; explicate # समझाना [samajhaanaa]
+express  ; limited # एक्सप्रेस गाड़ी
+expression # bhavana
+expression  ; look  ; aspect  ; facial expression  ; face # दृष्टि [drushti]
+Eye # आंख
+eye  ; oculus  ; optic # आंख [aankh]
+eyebrow # अब्रू (abrū) (f), भव (bhav) (f)
+eyelash # पपनी (f) (papnī); पलक (m) (palak)
+eyelid # पपोटा (papōṭā)
+face # चेहरा (m) (ćehrā)
+face  ; human face # मुख [mukh]
+fact # तथ्य [tathy]
+factory  ; mill  ; manufacturing plant  ; manufactory # कारखाना [kaarakhaanaa]
+Fahrenheit # फॉरेन्हाइट
+fake  ; false  ; faux  ; imitation  ; simulated # झूठा [jhoothaa]
+falcon # बाज़ (bāz)
+Falkland Islands # माल्विनास द्वीपसमूह (m) (maalvinaas dweepsamuuh)
+fall # गिरना [giranaa]
+fall  ; spill  ; tumble # कब्जा [kabjaa]
+Fallacy # मिथ्या तर्क
+family # परिवार (m) (parivār); ख़ानदान (m) (xāndān)
+family  ; family unit # फ़ैमिली
+far # दूर [door]
+Far East # सुदूर पूर्व (sudūr pūrv)
+farm # खेत [khet]
+farmer # किसान (m) (kisān)
+Faroe Islands # फ़रो द्वीपसमूह
+fart # पादना (pādnā)
+Fascism # फ़ासी वाद
+fashion # फ़ैशन (m) (faiśan)
+fast # तीव्र [teevr]
+fat # चर्बी [charbee]
+fat # मोटा [motaa]
+fat  ; fatty # भरपूर या बड़ा
+Fatah # फ़तह
+father # पिता (m) (pitā); वालिद (m) (vālid); बाप (m) (bāp); पिदर (m) (pidar)
+father  ; male parent  ; begetter # पिता [pitaa]
+fatherland # जन्मभूमि (janmabhūmi), वतन (vatan), स्वदेश (svadeš) (g'hi)
+fax # फैक्स (phaiks)
+fear # डरना (ḍarnā)
+fear  ; fearfulness  ; fright # भय [bhay]
+feather # पंख (pankh) (m), पर (par) (m)
+feather  ; plume  ; plumage # पंख [pankh]
+feature  ; characteristic # विशिष्ट लक्षण
+February # फरवरी
+February  ; Feb # फ़रवरी
+February 12 # 12 फरवरी
+February 14 # 14 फरवरी
+February 2 # 2 फरवरी
+February 22 # 22 फरवरी
+February 29 # 29 फरवरी
+Federal Reserve System # फैडरल रिसर्व बैंक
+federation # महासंघ (m) (mahāsaṅgha); फ़ेडरेशन (feḍareśan)
+feed # खिलाना (khilānā)
+feeling # संवेदनशीलता [sanvedanasheelataa]
+Feminism # नारीवाद
+Ferdinand Magellan # फ़र्दिनान्द मैगलन
+Fermion # फर्मियान
+Fetus # भ्रूण
+Fever # ज्वर
+few # कुछ [kuchh]
+Fibonacci number # हेमचन्द्र श्रेणी
+Fidel Castro # फिदेल कास्ट्रो
+field # मैदान [maidaan]
+Field hockey # फील्ड हॉकी
+fifteen # पंद्रह (pa.ndrah) (m)
+fifteen  ; 15  ; xv # पंद्रह [pandrah]
+fifty # पचास (pachaas)
+fifty  ; 50  ; l # पचास [pachaas]
+fight # लड़ाई (laṛā'ī)
+fight  ; fighting  ; combat  ; scrap # युद्ध [yuddh]
+Fiji # फ़िजी
+file # फ़ाइल (fā'il)
+fill  ; fill up  ; make full # भरना [bharanaa]
+Film # श्रेणी:फ़िल्म
+Film # फ़िल्म
+Film director # फ़िल्म निर्देशक
+final  ; last  ; concluding  ; terminal # आखिरी [aakhiree]
+finally  ; last  ; lastly  ; in conclusion # अंत में [ant men]
+financial  ; fiscal # आर्थिक [aarthik]
+find # पाना (pānā)
+find  ; detect  ; observe  ; discover  ; notice # पकड़ पाना
+find  ; regain # पाना [paanaa]
+Finger # उंगली
+finish # ख़त्म करना (xatm karnā); अंत करना (anta karnā)
+finish  ; goal  ; destination # मंज़िल [manzil]
+Finland # फ़िनलैंड
+Finnish # फ़िनिश (finiś); फ़िनिश भाषा (f) (finiś bhāṣā)
+fire # आग (f) (āg)
+fire  ; flame  ; flaming # लपट [lapat]
+fire  ; open fire # गोली चलाना [golee chalaanaa]
+firm  ; house  ; business firm # व्यापारिक कंपनी
+firm  ; solid # स्थिर [sthir]
+first # पहला (pahlā)
+first  ; firstly  ; foremost  ; first of all  ; first off # आरम्भ में
+First aid # प्राथमिक चिकित्सा
+First language # मातृभाषा
+Fish # मछली
+five # पाँच (pāca) (numeral: ५)
+five  ; 5  ; v # पांच
+flag # झंडा
+flat  ; apartment # फ्लैट
+flat  ; level  ; plane # गिरा देना [giraa denaa]
+flight  ; flying # उड़ान [udaan]
+Flood # बाढ़
+floor # मंजिल (f) (manzil)
+floor  ; flooring # फर्श [pharsh]
+floor  ; level  ; storey  ; story # तल्ला मंजिल
+Florence # फ्लोरेन्स
+Florence Nightingale # फ्लोरेन्स नैटिन्गेल
+flour # आटा (m) (āṭā)
+flower # फूल [phool]
+fluorine # फ्लोरिन
+fly # उड़ना [udanaa]
+fly  ; wing # उड़ाना [udaanaa]
+fog # कोहरा [koharaa]
+follow # अनुसरण करना [anusaran karanaa]
+following  ; next # अनुगामी [anugaamee]
+Food # भोजन
+food  ; nutrient # आहार [aahaar]
+foot # मुंहपका-खुरपका रोग (munhapkā-khurapkā rog)
+Foot (unit of length) # फुट (लम्बाई की इकाई)
+football # फ़ुटबॉल (fuṭbol); फ़ुटबाल (fuṭbāl, fuṭbol); फुटबॉल (phuṭbol)
+Football (soccer) # फ़ुटबॉल
+for # के लिये [ke liye]
+for # क्योंकि [kyonki]
+for example # उदाहरण के लिए (udāharṇa ke li'e)
+force # ज़ोर (m) (zor)
+forehead # माथा (m) (māthā); माथ (m) (māth); ललाट (m) (lalāt')
+foreign # विदेशी (videśī)
+foreign  ; strange # विदेशी [videshee]
+foreign language # विदेशी भाषा (f) (videśī bhāṣā)
+foreigner # विदेशी (m) (videśī); अन्यदेशीय (an'yadeśīya); परदेशी (m) (pardeśī)
+forest # जंगल (m) (jangal); वन (van)
+forest  ; wood  ; woods # जंगल [jangal]
+forever # हमेशा के लिए (hameśā ke li'e); कभी के लिए (kabhī ke li'e)
+forget # भूल जाना [bhool jaanaa]
+forgive # क्षमा करना [kshamaa karanaa]
+fork # खाने का कांटा
+form # प्रारूप [praaroop]
+former  ; erstwhile  ; old  ; onetime  ; one-time  ; quondam  ; sometime # भूतपूर्व [bhootapoorv]
+fortress # गढी (gaḍhī)
+forty # चालीस (chaalees)
+forty  ; 40  ; xl  ; twoscore # चालीस [chaalees]
+fountain # सोता (sotā)
+four # चार (ćār) (numeral: ४)
+Fourier series # फुरिअर श्रेणी
+fourteen # चौदह (chaudah)
+fourteen  ; 14  ; xiv # चौदह [chaudah]
+fox # लोमड़ी (f) (lomaṛī)
+fragile  ; delicate  ; frail # उत्कृष्ट [utkrusht]
+frame # चौखट [chaukhat]
+France # फ़्राँस
+France  ; French Republic # फ़्रांस गणराज्य
+Francis Drake # फ़्रांसिस ड्रेक
+Francisco Goya # फ्रांसिस्को डि गोया
+Francisco Pizarro # पिज़ारो
+free # स्वतंत्र [svatantr]
+free  ; complimentary  ; costless  ; gratis  ; gratuitous # मुफ्त [mupht]
+free  ; liberate  ; release  ; unloose  ; unloosen  ; loose # मुक्त करना [mukt karanaa]
+Free will # मुक्त कर्म
+freedom # स्वतंत्रता (svatantratā); आज़ादी (f) (āzādī)
+Freedom (philosophy) # आज़ादी
+freedom of speech # अभिव्यक्ति की स्वतंत्रता (abhivyakti kī svatantratā)
+French # फ़्रेंच
+French Guiana # फ़्रेंच गयाना (frēnc gayānā); फ्रेंच गयाना (frēnc gayānā, phrēnc gayānā)
+French Revolution # फ़्रांसीसी क्रांति
+Frequency # आवृत्ति
+frequent # अक्सर [aksar]
+fresh # ताजा [taajaa]
+Friday # शुक्रवार
+Friday  ; Fri # शुक्रवार [shukravaar]
+Friedrich Engels # फ्रेडरिक एंजेल्स
+friend # मित्र [mitr]
+friendly # स्नेहशील [snehasheel]
+friendship # दोस्ती (f); मित्रता (f) (mitrtā)
+frog # मेंढक (mendhak) (m), मेंढकी (mendhki) (f), मेंडक (me.n.dak) (m), मेंडुक (me.n.duk) (m)
+from # से
+from # से
+front  ; front end  ; forepart # आगे [aage]
+frost  ; hoar  ; hoarfrost  ; rime # पाला [paalaa]
+Fruit # फल
+fuck # चोदना (codnā)
+full # भरा हुआ [bharaa huaa]
+full  ; total # सम्पूर्ण [sampoorn]
+Full moon # पूर्णिमा
+function  ; office  ; part  ; role # सामाजिक सम्मेलन
+Function (mathematics) # फलन
+funeral # क्रिया कर्म (kriyā-karm); (janāzā)
+Fungus # कवक
+Funicular # रज्जुरेल
+furniture  ; piece of furniture  ; article of furniture # फर्नीचर [pharneechar]
+further  ; farther # और आगे का
+future # भविष्य में [bhavishy men]
+future  ; hereafter  ; futurity  ; time to come # भविष्य [bhavishy]
+Gaborone # गोबोर्नी
+Gabriel Lippmann # गाब्रियल लिपमन
+Galileo Galilei # गालीलेओ गालीलेई
+gall bladder # पित्ताशय (pittāśay)
+Gallium # गैलिअम
+Game # खेल
+Gamma ray # गामा किरण
+Ganesha # गणेश
+Ganges # गंगा नदी
+Gansu # गांसू
+garage # गैरेज [gairej]
+garbage # कचरा (kačrā)
+garden # उद्यान [udyaan]
+garlic # लसन (lasan)
+garlic  ; ail # लहसुन [lahasun]
+gas # गैस (gais)
+gas chamber # गैस चैम्बर (gais caimbar)
+gasoline # पेट्रोल (peṭrōl); गैसोलीन (gaisolīn); बेंज़ीन (benzīn)
+gate # द्वार [dvaar]
+Gautama Buddha # गौतम बुद्ध
+gay # गे (ge); समलिंगी (m) (samliṅgī)
+Gaza # गज़ा
+Gaza Strip # ग़ज़ा पट्टी (ġazā paṭṭī)
+gem # मणि (m) (maṇi); रत्न (rátna); पत्थर (m) (patthar)
+Gemini (constellation) # मिथुन
+gene  ; cistron  ; factor # जीन [jeen]
+general # साधारण [saadhaaran]
+general  ; full general # सेनापति [senaapati]
+Genetics # आनुवंशिकी
+Geneva # जनीवा
+Genghis Khan # चंगेज़ ख़ान (m) (caṅgēz ḵẖān)
+Genoa # जेनोआ
+Geography # भूगोल
+Geography # श्रेणी:भूगोल
+Geography # प्रवेशद्वार:भूगोल
+Geometry # ज्यामिति
+Geometry # श्रेणी:रेखागणित
+Geopolitics # भूराजनीति
+Georg Wilhelm Friedrich Hegel # जार्ज विल्हेम फ्रेडरिच हेगेल
+George Bernard Shaw # जार्ज बर्नार्ड शा
+George Boole # जॉर्ज बूल
+George Harrison # जार्ज हरिसन
+George Lucas # ज्योर्ज लुकास
+George Orwell # जॉर्ज ऑरवेल
+George Paget Thomson # जार्ज पेजेट थामसन
+George W. Bush # जॉर्ज वॉकर बुश
+George Washington # जार्ज वाशिंगटन
+Georgia # जॉर्जिया (jorjiyā)
+Georgia (country) # जोर्जिया
+Georgia (U.S. state) # जार्जिया (अमरीकी राज्य)
+Georgian # ज्योर्जियन (jyorjiyan)
+Gerald Ford # जेरल्ड फोर्ड
+German # जरमन (jarman)
+German  ; High German  ; German language # जर्मन [jarman]
+German language # जर्मन भाषा
+Germanium # जर्मेनियम
+Germany # जर्मनी
+Germany  ; Federal Republic of Germany  ; Deutschland  ; FRG # जर्मनी संघीय गणराज्य
+Geyser # उष्णोत्स
+Ghana # घाना
+ghost # भूत (bhūt) (g'hi), आत्मा, जीव, प्रेत, छाया
+Gibraltar # जिब्राल्टर (jibrālṭar)
+ginger # अदरक (f) (adrak)
+giraffe # जिराफ़
+girl # लड़की (f) (laṛkī)
+girl  ; miss  ; missy  ; young lady  ; young woman  ; fille # लड़की [ladakee]
+girlfriend # गर्लफ़्रेंड (f) (garlfreṇḍ); गर्लफ्रेंड (f) (garlfreṇḍ, garlphreṇḍ)
+give # देना [denaa]
+give birth # जन्म देना (janma denā)
+give me # मुझे ... दो (mujhe ... do); मुझे ... दीजिए (mujhe ... dīji'e)
+Glacier # हिमनद
+glans penis # शिश्नमुंड (śiśnamũd)
+Glasgow # ग्लासगो
+glass # कांच [kaanch]
+glass  ; drinking glass # पीने का बर्तन
+Global warming # भूमंडलीय ऊष्मीकरण
+globalisation # हलिमिकरण (halimikaraṇ); वैश्वीकरण (vaiśvīkaraṇ)
+Gloucestershire # ग्लॉस्टरशायर
+glove # दस्ताना (m) (dastānā)
+glue  ; gum  ; mucilage # सरेस [sares]
+go # जाना (jānā)
+Goa # गोआ
+goal # गोल [gol]
+goat  ; caprine animal # बकरा [bakaraa]
+God # ईश्वर
+Gold # सोना
+gold  ; Au  ; atomic number 79 # सोना [sonaa]
+Golda Meir # गोल्डा मेयर
+golf # गोल्फ़ (m) (golf); गोल्फ (m) (golph)
+golf  ; golf game # गोल्फ [golph]
+gonorrhea # प्रमेह (prameh); गोनोरिया (gonoriyā)
+good # सही [sahee]
+good afternoon # नमस्ते (namastē); गुड आफ़्टरनून (guḍ āfṭarnūn)
+good day # नमस्त
+good evening # नमस्ते (namastē); गुड ईवनिंग (guḍ īvniṅg)
+Good Friday # गुड फ़्राइडे
+good luck # शुभ कामना
+good morning # नमस्ते (namasté); नमस्कार (namaskār); गुड मॉर्निंग (guḍ morniṅg)
+good morning  ; morning # नमस्ते ((to one person) ; नमस्कार ((to several persons))
+good night # शुभ रात्रि (śubh rātri); गुड नाइट (guḍ nā'iṭ)
+goodbye # नमस्ते (namaste); ख़ुदा हाफ़िज़ (xudā hāfiz); सत श्री अकाल (sat śrī akāl)
+Google # गूगल
+Google # श्रेणी:गूगल
+goose # हंस (m) (hans)
+gorilla # गोरिल्ला (m) (gorillā)
+Government # सरकार
+government  ; authorities  ; regime # शासन [shaasan]
+grade  ; mark  ; score # परीक्षा आदि में स्थान
+Gram # ग्राम
+Grammar # व्याकरण
+Grammar # श्रेणी:व्याकरण
+Grand Canyon # ग्रैन्ड कैन्यन
+granddaughter # पोती ('son's daughter'), नाती ('daughter's daughter')
+grandfather  ; gramps  ; granddad  ; grandad  ; granddaddy  ; grandpa # दादा [daadaa]
+grape # अंगूर (aṅgūr)
+grapefruit # मौसमी (mausamī), छोटा चकोतरा (chōṭā cakōtarā)
+grass # घास [ghaas]
+graveyard # क़ब्रिस्तान (qabristān) (m), गोरिस्तान (goristān) (m), समाधिक्षेत्र (samādhikṣetra) (m)
+gray  ; grey  ; greyish  ; grayish # धूसर [dhoosar]
+great # बेहतर गुणवत्ता वाली चीज
+great  ; bang-up  ; bully  ; corking  ; cracking  ; dandy  ; groovy  ; keen  ; neat  ; nifty  ; not bad  ; peachy  ; slap-up  ; swell  ; smashing # बहुत सुखद
+Great Britain # ग्रेट ब्रिटेन (greṭ briṭen)
+Great Lakes # महान संयुक्त झीलें
+Great Wall of China # चीन की महान दीवार
+Greater London # ग्रेटर लंदन
+Greece # ग्रीस
+Greek # यूनानी (yūnānī)
+Greek mythology # यूनानी धर्म
+Greek mythology # श्रेणी:यूनानी धर्म
+Green # हरा
+green  ; greenish  ; light-green  ; dark-green # कच्चा [kachchaa]
+Greenhouse effect # ग्रीन हाउस प्रभाव
+greenhouse effect  ; greenhouse warming # ग्रीनहाउस प्रभाव [greenahaaus prabhaav]
+Greenland # ग्रीनलैण्ड (grīnlaiṇḍ)
+Greenpeace # ग्रीनपीस
+Greenwich # ग्रेनिच बरो
+Greenwich Mean Time # जी एम टी
+Gregorian calendar # ग्रेगोरी कैलंडर
+Grenada # ग्रेनेडा (grēnēḍā)
+Grenoble # ग्रेनोब्ल
+grey # धूसर (dhūsar)
+Greylag Goose # ग्रेलैग हंस
+Gross domestic product # सकल घरेलू उत्पाद
+group  ; grouping # झुण्ड [jhund]
+grow # बढ़ना [badhanaa]
+Guadeloupe # गुआदेलूप
+Guangdong # ग्वांगदूंग
+Guatemala # ग्वाटेमाला (gvāṭēmālā)
+guava # अमरूद
+guest # (m) (mehmān)अतिथि (atithi)
+guest  ; invitee # अतिथि [atithi]
+Guglielmo Marconi # गुल्येल्मो मार्कोनी
+Guillotine # गिलोटिन
+guilt # अपराध (m) (aprādh); क़सूर (m) (qasūr)
+Guinea # गिनी
+Guinea-Bissau # गिनी-बिसाऊ
+Guitar # गिटार
+Gujarat # गुजरात
+Gujarati # गुजराती (f) (gujarātī)
+Gulf Stream # गल्फ स्ट्रीम
+gun # तोप [top]
+Gunpowder # बारूद
+Guyana # गुयाना (guyānā)
+gypsy # यायावार (yāyāvār); जिप्सी (jipsī)
+Hades # हेडीस
+Haiku # हाइकु
+hair # बाल [baal]
+hair  ; pilus # बाल [baal]
+Haiti # हैती
+hajj # हज्ज (m) (hajj)
+half # आधा (m) (ādhā)
+half  ; one-half # आधा [aadhaa]
+hall  ; anteroom  ; antechamber  ; entrance hall  ; foyer  ; lobby  ; vestibule # प्रतीक्षा-कक्ष [prateekshaa-kaksh]
+Halloween # हैलोवीन (hailovīn)
+halva # हल्वा (halvā)
+hamburger # हैमबर्गर (haimbargar)
+Hammer # हथौड़ा
+hammock # दो खूँटियों से बंधा जालीदार झूला
+Hammurabi # हाम्मुरबी
+Hampshire # हैम्पशायर
+hand # हाथ (m) (hāth)
+hand  ; manus  ; mitt  ; paw # हाथ [haath]
+handball # हेन्डबोल (hēnḍbōl)
+handle  ; grip  ; handgrip  ; hold # मूठ [mooth]
+handsome # ख़ूबसूरत (xūbsūrat)
+Hannibal # हान्निबल
+Hanoi # हनोई
+Hans Bethe # हांस अल्ब्रेक्त बेटू
+Hanukkah # हनुका
+Hanuman # हनुमान
+happen # बीतना (bītnā)
+happen  ; hap  ; go on  ; pass off  ; occur  ; pass  ; fall out  ; come about  ; take place # घटित होना [ghatit honaa]
+happiness # ख़ुशी (f) (xuśī)
+happy # सुखी [sukhee]
+happy birthday # जन्मदिन पर हार्दिक शुभकामनाएं (janmadina par hārdik śubhkāmnāyeṅ); जन्मदिन मुबारक हो (janmadina mubārak ho); जन्मदिन मुबारक (janmadina mubārak); सालगिरह मुबारक (sālgirah mubārak)
+Happy Easter # हैप्पी ईस्टर (haippī īsṭar!)
+Happy New Year # नया साल मुबारक (nayā sāl mubārak)
+Harare # हरारे
+hard # मुश्किल (muśkil); कठिन (kaṭhin)
+hare # खारगोश (m) (khargoś); खरहा (m) (kharhā)
+Harriet Tubman # हेरिएट टबमान
+hashish # गांजा (m) (gā̃ñjā)
+hat # टोपी (f) (ṭopī); टोप (ṭōp)
+hat  ; chapeau  ; lid # टोपी [topee]
+hate # घृणा करना (ghŕṇā karnā)
+hate  ; detest # घृणा करना [ghrunaa karanaa]
+hate  ; hatred # नापसंद
+hatred # घृणा (f) (ghŕṇā); घिन (f) (ghin); दुश्मनी (f) (duśmanī); नफ़रत (f) (nafrat)
+Havana # हवाना (havānā)
+have # रखना (rakhnā); पास (...ke pās); के (...ke)
+Hawaii # हवाई
+he # वह (vah); (yah)
+head # मुखिया (mukhiyā)
+head  ; caput # सिर [sir]
+headache # सिरदर्द (m) (sirdard); सरदर्द (m) (sardard)
+Health # स्वास्थ्य
+healthy  ; salubrious  ; good for you # स्वस्थ [svasth]
+hear # सुनना [sunanaa]
+Heart # हृदय
+heart  ; pump  ; ticker # हृदय [hruday]
+Heat # ऊष्मा
+heaven # स्वर्ग (m) (svarga)
+heavy # भारी [bhaaree]
+Heavy water # भारी जल
+Hebei # होबेइ
+Hebrew # इब्रानी (m) (ibrānī)
+heel # एड़ी
+Helen Keller # हेलेन केलर
+helicopter # हेलिकॉप्टर (helikopttar)
+Helium # हीलियम
+hell # नरक (narak); जहन्नम (m) (jahannam)
+hello # हलो (halo); हेलो (helo)
+hello  ; hullo  ; hi  ; howdy  ; how-do-you-do # स्वागत [svaagat]
+help # बचाओ! (bacā'o!)
+help  ; aid  ; assist  ; assistance # मदद [madad]
+help  ; assist  ; aid # मदद करना [madad karanaa]
+Helsinki # हेलसिंकी (hēlsiṅkī)
+hemisphere # गोलार्ध (gōlārdh)
+Henri Becquerel # ऑँरी बेकेरेल
+Henri Bergson # आन्रि बर्गसां
+Henrik Ibsen # हेनरिक इबसन
+Henry (unit) # हेनरी (इकाई)
+Henry Ford # हेनरी फ़ोर्ड
+Hephaestus # हैफ़ीस्टस
+her # उसका [usakaa]
+Hera # हीरा (देवी)
+Herat # हेरात
+Herbert Hoover # हर्बर्ट हूवर
+here # इस समय [is samay]
+here  ; hither # इस स्थान पर
+Hermann Hesse # हर्मान हेस्से
+Hermes # हरमीस
+hero # नायक (m) (nāyak)
+Herod the Great # हेरोद महान
+Herodotus # हिरोडोटस
+heroin # हेरोइन (hero'in)
+heron # वगुला (vagulā)
+herself # खुद को
+Hertfordshire # हर्टफ़र्डशायर
+Hertz # हर्ट्ज़
+Hestia # हेस्टिया
+heterosexuality # विषमलैंगिकता (f) (viṣmalaĩṅgiktā)
+Hezbollah # हिजबुल्लाह (hijbullāh)
+hi # नमस्ते (namastē); सलाम (salām); हाइ (hā'i)
+hide  ; conceal # छिपाना [chhipaanaa]
+high # ऊंचा (ū̃cā); (ū̃cā)
+hill # पहाड़ी (m) (pahāṛī); पसंद (m) (pahāṛ)
+him # इस
+Himalayas # हिमालय
+hinder # रोकना (roknā)
+Hindi # हिंदी [hindee]
+Hindu Kush # हिन्दु कुश
+Hinduism # हिन्दू धर्म
+Hinduism # श्रेणी:हिन्दू धर्म
+Hippocrates # हिप्पोक्रेटस
+Hirohito # हिरोहितो
+Hiroshima # हिरोशिमा
+his # उसका [usakaa]
+History # इतिहास
+History # श्रेणी:इतिहास
+hit # मारना (mārnā)
+hit  ; hitting  ; striking # प्रहार [prahaar]
+hit  ; smash  ; smasher  ; strike  ; bang # लोकप्रिय [lokapriy]
+Hitler # हिटलर (m) (hiṭlar); हिटलर (m) (eḍolf hiṭlar)
+HIV # एचआईवी
+Ho Chi Minh # हो चि मिन्ह्
+Hokkaido # होक्काइडो
+hold  ; take hold # मजबूती से पकड़ना
+hole # छेद [chhed]
+holiday # चुट्टी (f) (chuTTi)
+holiday  ; vacation # अवकाश के दिन
+Holland # हॉलैंड (holaiṇḍ); नीदरलैण्ड (nīdarlaiṇḍ)
+Hollywood # हॉलीवुड
+Holocaust # यहूदी अग्निकांड
+Holy Spirit # पवित्र आत्मा (pavitr ātmā)
+home # घर (m) (ghar)
+home  ; place # घर [ghar]
+homeland # स्वदेश (svadeš), वतन (vatan)
+Homeopathy # होम्योपैथी
+Homer # होमर
+Homosexuality # समलैंगिकता
+Honduras # हॉण्डुरास
+honey # मधु (madhu) (m), शहद (šahd) (m)
+Hong Kong # हांग कांग
+Hookah # हुक्का
+Hooke's law # हुक का नियम
+hope # आशा करना [aashaa karanaa]
+horn # सींग (m) (sī̃g)
+Horn (anatomy) # सींग
+horny # कामोत्तेजित (kāmottejit); उत्तेजित (uttejit)
+Horoscope # कुण्डली
+horse # घोड़ा (m) (ghoṛā); अश्व (m) (aśva); तुरग (m) (turag)
+horse  ; Equus caballus # घोड़ा
+Horus # होरस
+hospital # रुग्णालय (m) (rugṇālay); अस्पताल (m) (aspatāl)
+hospital  ; infirmary # चिकित्सालय [chikitsaalay]
+hot # गरम [garam]
+Hotel # होटल
+Hour # घंटा
+hour  ; hr  ; 60 minutes # घंटा [ghantaa]
+house # गृह [gruh]
+House (TV series) # हाउस
+House Sparrow # घरेलू गौरैया
+Houston # ह्युस्टन
+how # कैसे (kaise)
+how are you # आप कैसे हैं
+how many # कितने (kitne)
+how much # कितना (kitnā)
+how much does it cost # कितना है (kitnā hai?); (yah kitnē kā hai?)
+how old are you # आपकी आयु कितनी है (āpkī āyu kitnī hai?); आपकी उम्र कितनी है (āpkī umr kitnī hai?)
+Howard Carter (archaeologist) # हावर्ड कार्टर
+however  ; nevertheless  ; withal  ; still  ; yet  ; all the same  ; even so  ; nonetheless  ; notwithstanding # फिर भी [phir bhee]
+HTML # एच.टी.एम.एल.
+Hudson River # हडसन नदी
+human # मानवीय
+human  ; homo  ; man  ; human being # मानव [maanav]
+human being # मनुष्य (manuṣya); इंसान (m) (insān); आदमी (m) (ādmī)
+human rights # मानव अधिकार (mānav adhikār)
+humanism # मानवतावाद (m) (mānvatāvād)
+Humidity # आर्द्रता
+Hunan # हूनान
+hundred # सौ (sau); १००; सैकड़ा (saikṛā)
+Hungarian # हंगेरियाई (haṅgēriyā'ī)
+Hungary # हंगरी
+hunger # भूख (f) (bhūkh)
+hungry # भूखा [bhookhaa]
+hunt # शिकार (m) (šikār)
+hurricane # अंधड़ (andhaṛ)
+husband # पति (m) (pati); शौहर (m) (śauhar)
+husband  ; hubby  ; married man # पति [pati]
+Hyderabad # हैदराबाद
+Hydrocarbon # हाइड्रोकार्बन
+Hydrogen # हाइड्रोजन
+Hydrosphere # जलमण्डल
+hyena # लकड़बग्घा (m) (lakaṛbagghā)
+Hyperbola # अति परवलय
+I # मैं (maĩ)
+I am English # मैं अंग्रेज़ हूँ (mɛ̃ ãṅgrez hū̃)
+I don't know # मुझे पता नहीं
+I have a question # मुझे सवाल है (mujhe savāl hai)
+I love you # मैं तुमसे प्यार करता (maĩ tumsē pyār kartā); मैं तुमसे प्यार करती हूँ (maĩ tumsē pyār kartī hū̃); मैं तुम्हैं बहुत चाहता हुँ (m) (maĩ tumhē̃ bahut cāhtā hū̃); मैं तुम्हैं बहुत चाहता चाहती हुँ (f) (maĩ tumhē̃ bahut cāhtī hū̃)
+I need a doctor # मुझे डॉक्टर की ज़रुरत है (mujhē ḍokṭar kī zarurat hai)
+I need an interpreter # मुझे अनुवादक की ज़रुरत है (mujhē anuvādak kī zarurat hai)
+Ice # बर्फ
+ice  ; water ice # बरफ़ (baraf)
+iceberg # हिमशैल (himaśail)
+Iceland # आइसलैंड
+idea # विचार (vichaar)
+idea  ; thought # विचार [vichaar]
+identify  ; place # पहचानना [pahachaananaa]
+idiom # मुहावरा (muhāvarā)
+idiot # मूर्ख (mūrakh); पागल (pāgal); बेवकूफ (bēvakūph)
+if # अगर [agar]
+Iliad # इलियाड
+ill # बीमार (bīmār)
+ill  ; sick # अस्वस्थ [asvasth]
+Illinois # इलिनॉय
+illness # bimari
+illusion # भ्रम (bhrama)
+image # छवि [chhavi]
+Immanuel Kant # इमानुएल कांट
+immediately # तत्काल (tatkāl); तुरंत (turant)
+immediately  ; instantly  ; straightaway  ; straight off  ; directly  ; now  ; right away  ; at once  ; forthwith  ; like a shot # सीधे [seedhe]
+immigration # आप्रवासन (āpravāsan)
+impatient # अधीर [adheer]
+important # महत्वपूर्ण (mahatvapūrṇ); अहम (aham)
+important  ; significant # महत्वपूर्ण [mahatvapoorn]
+impossible # असंभव (asambhav); (asambhav)नामुमकिन (nāmumkin); अनहोनी (anhonī)
+in # अन्दर (andar); में (... mẽ)
+in  ; inwards  ; inward # में [men]
+include # सम्मिलित करना [sammilit karanaa]
+income # आय [aay]
+increase  ; increment # बढ़ती
+increase  ; increment  ; growth # वृद्धि [vruddhi]
+indeed  ; so # सचमुच [sachamuch]
+Independence # स्वतन्त्रता
+India # भारत
+India # श्रेणी:भारत
+India  ; Republic of India  ; Bharat # भारत गणराज्य
+Indian # भारतीय (bhārtīy); हिन्दुस्तानी (hindustānī)
+Indian Ocean # हिन्द महासागर
+Indiana # इंडियाना
+Indiana # श्रेणी:इंडियाना
+Indira Gandhi # इन्दिरा गांधी
+Indium # इण्डियम
+individual # विशिष्ट [vishisht]
+Indochina # हिन्दचीन
+Indonesia # इंडोनेशिया
+Indonesian # इन्डोनेशियन (inḍoneśiyan); इन्डोनेशियाई (f) (inḍoneśiyā'ī)
+Indra # इन्द्र
+Indus River # सिन्धु नदी
+industrial # औद्योगिक [audyogik]
+Industrial Revolution # औद्योगिक क्रांति
+industry  ; manufacture # व्यवसाय [vyavasaay]
+Infectious disease # औपसर्गिक रोग
+Inflation # मुद्रा स्फीति
+information # जानकारी (f) (jānkārī)
+information  ; info # सूचना [soochanaa]
+Information technology # सूचना प्रौद्योगिकी
+Infrared # अधोरक्त
+Ingmar Bergman # इंगमार बर्गमान
+injure  ; wound # घायल करना [ghaayal karanaa]
+injury # चोट (ćot') (f)
+ink # स्याही [syaahee]
+Inner Mongolia # आंतरिक मंगोलिया
+Innovation # नवाचार
+insect # कीड़ा [keedaa]
+inside  ; within # अंदर की ओर [andar kee or]
+instead  ; alternatively  ; or else # के बदले में [ke badale men]
+institution  ; establishment # संस्था भवन
+instrument # उपकरण [upakaran]
+insulin # इंसुलिन (insulin)
+insurance # बीमा [beemaa]
+Integer # पूर्ण संख्या
+Intellectual property # बौद्धिक सम्पदा
+intelligent # बुद्धिमान [buddhimaan]
+interest # हित [hit]
+interest  ; involvement # रस [ras]
+interesting # रोचक [rochak]
+Interlingua # इंटरलिंगुआ (in.tarli.nguā)
+internal combustion engine # अन्तर्दहन इंजन (antardahan in̄jan)
+international # अन्तर्राष्ट्रीय
+International Atomic Energy Agency # अंतर्राष्ट्रीय परमाणु ऊर्जा अधिकरण
+International Court of Justice # अंतर्राष्ट्रीय न्यायालय
+International Phonetic Alphabet # अन्तर्राष्ट्रीय ध्वन्यात्मक लिपि
+International System of Units # अन्तर्राष्ट्रीय इकाई प्रणाली
+Internet # अंतरजाल
+Internet # श्रेणी:अंतरजाल
+internet  ; net  ; cyberspace # अंतरजाल
+interpreter # अनुवादक (m) (anuvādak); दुभाषिया (dubhāṣiyā)
+interview # भेंट [bhent]
+into # अंदर को
+introduce  ; present  ; acquaint # परिचय कराना [parichay karaanaa]
+invoice  ; bill  ; account # विवरण [vivaran]
+Iran # ईरान
+Iran # श्रेणी:ईरान
+Iraq # इराक़
+Ireland # आयरलैंड (āyarlaiṇḍ)
+Iron # लोहम्
+iron  ; Fe  ; atomic number 26 # लोहा [lohaa]
+Iron Age # लौह युग
+is # है (hai)
+Isaac Newton # सर आइज़क न्यूटन
+Isis # ईसिस
+Islam # इस्लाम
+Islam # श्रेणी:इस्लाम धर्म
+Islamabad # इस्लामाबाद
+Islamic calendar # हिजरी
+Islamic Republic of Pakistan # पाकिस्तान इस्लामिक गणतंत्र; इस्लामी जम्हूरिया ए पाकिस्तान
+Island # द्वीप
+Isle of Man # आइल ऑफ मान
+Isle of Wight # आइल ऑफ़ वाइट
+Israel # इस्राइल
+Istanbul # इस्तांबुल
+it # वह (vah); यह (yah)
+Italian # इतालवी
+Italy # इटली
+Italy  ; Italian Republic  ; Italia # इटली
+Ivan Turgenev # इवान तुर्गेन्येव
+ivory # हाथीदांत (hāthīdānt); हाथी दांत (hāthī dānt)
+Jack London # जैक लंडन
+jackal # सियार (m) (siyār)
+jacket # जाकेट [jaaket]
+Jacques Cartier # ज़ाक कार्तिए
+Jacques Derrida # डेरिडा
+Jade # हरिताश्म
+Jainism # जैन धर्म
+Jakarta # जकार्ता
+Jamaica # जमैका (jamaikā)
+James Bond # जेम्स बॉन्ड
+James Clerk Maxwell # जेम्स क्लर्क माक्सवेल
+James Monroe # जेम्स मनरो
+Jammu and Kashmir # जम्मू और कश्मीर
+January # जनवरी (janvarī)
+January  ; Jan # जनवरी [janavaree]
+January 1 # 1 जनवरी
+January 19 # 19 जनवरी
+January 20 # 20 जनवरी
+January 6 # 6 जनवरी
+Japan # जापान
+Japan # श्रेणी:जापान
+Japan  ; Nippon  ; Nihon # जापान [jaapaan]
+Japanese # जापानी [jaapaanee]
+Java # जावा द्वीप
+Jawaharlal Nehru # जवाहरलाल नेहरू
+Jazz # जैज़
+Jean-Jacques Rousseau # रूसो
+Jean-Paul Sartre # ज्यां-पाल सार्त्र
+jellyfish # जेलिफ़िश (jelifiś)
+Jerusalem # येरुशलम
+Jesus # ईसा मसीह
+Jesus Christ # ईसा मसीह (m) (īsā masīh); यीशु मसीह (m) (yīśu masīh); जीजस क्राइस्ट (m) (jījas krā'isṭ)
+Jew # यहूदी
+jewel  ; gem  ; precious stone # मणि [mani]
+Jewish # यहूदी ('yahūdī')
+Jihad # जेहाद
+Jimmy Carter # जिमी कार्टर
+job # काम (m) (kām)
+job  ; task  ; chore # काम [kaam]
+Johann Sebastian Bach # योहान सेबास्तियन बाख़
+Johann Wolfgang von Goethe # योहान वुल्फगांग फान गेटे
+Johannes Gutenberg # जोहान गुटेनबर्ग
+Johannes Kepler # योहानेस केप्लर
+Johannes Vilhelm Jensen # योहानेस विल्हेल्म जेन्सेन
+John Adams # जाह्न एडम्स
+John Bardeen # जॉन बर्दीन
+John Galsworthy # जाह्न गाल्सवर्दी
+John Keats # जान कीट्स
+John Major # जॉन मेजर
+John Maynard Keynes # जोन मेनार्ड केन्स
+John Steinbeck # जाह्न स्टैनबेक
+Johnny Cash # जॉनी कैश
+join  ; bring together # संयुक्त करना [sanyukt karanaa]
+Jordan # यार्दन
+Joseph Stalin # जोसेफ़ स्टालिन
+joule # जौल (jaul)
+Journalism # पत्रकारिता
+journalist # पत्रकार [patrakaar]
+journey # यात्रा (f) (yātrā); सफ़र (m) (safar)
+journey  ; journeying # यात्रा [yaatraa]
+joy # हर्ष (m) (harṣ)
+Judaism # यहूदी धर्म
+Judaism # श्रेणी:यहूदी धर्म
+Judas # यहूदा (yahūdā)
+judge  ; justice  ; jurist # निर्णायक [nirnaayak]
+juice # रस (f) (rasa)
+Julian calendar # जूलियन कैलंडर
+Julius Caesar # जुलियस सीसर
+July # जुलाई [julaaee]
+July 1 # 1 जुलाई
+jump # कूदना (kūdnā)
+jump  ; leap  ;  saltation # कूद [kood]
+jump  ; leap  ; bound  ; spring # उछलना [uchhalanaa]
+June # जून
+June 14 # 14 जून
+June 21 # 21 जून
+June 23 # 23 जून
+June 24 # 24 जून
+June 29 # 29 जून
+June 3 # 3 जून
+jungle # जंगल (jangal) (m)
+Juno (mythology) # जूनो
+Jupiter # बृहस्पति
+Jupiter (mythology) # जुपिटर
+just # ज़रा (zarā)
+Kabul # काबुल
+Kaliningrad # कालिनिनग्राद (kāliningrād)
+Kamchatka # कमचात्का (kamcatkā); कमचट्का (kamcaṭkā)
+Kandahar # कांधार
+Kangaroo # कंगारू
+Kannada # कन्नड (kannaɖa); कन्नड़ भाषा (kannaɖa bhāṣā)
+Kansas # कैंसस
+Karachi # कराची
+Karl Marx # कार्ल मार्क्स
+Karma # कर्म
+Karnataka # कर्नाटक
+Kathmandu # काठमांडू
+Kazakhstan # क़ाज़ाक़्स्तान
+keep  ; maintain  ; hold # किसी विशेष स्थिति में बनाए रखना
+Kelvin # कैल्विन
+Kent # केंट
+Kenya # कीनिया
+ketchup # केचप (m) (kecap)
+key # कुंजी [kunjee]
+Khmer # ख्मेर (khmēr)
+Khrushchev # ख्रुश्चेव
+kick # लात मारना [laat maaranaa]
+kick  ; boot  ; kicking # लात [laat]
+kidney # गुर्दा (m) (gurdā)
+Kiev # कीव
+kill # मारना [maaranaa]
+killer # हत्यारा (hatyārā)
+Kilogram # किलोग्राम
+kilometre # किलोमीटर (kilōmīṭar)
+kind # दयालु [dayaalu]
+kind  ; sort  ; form  ; variety # शब्द रूप [shabd roop]
+king # राजा (m) (rājā)
+king  ; male monarch  ; Rex # राजा [raajaa]
+Kinshasa # किन्शासा
+kiss # चूमना (cūmnā); चुम्बन करना (cumban karnā)
+kiss  ; buss  ; osculation # चुम्बन [chumban]
+kiss  ; snog  ; buss  ; osculate # चूमना [choomanaa]
+kiss me # मुझे चूम (mujhē cūm); मुझे चूमो (mujhē cūmō)
+kitchen # रसोईघर [rasoeeghar]
+kite # पतंग (f) (pataṅga)
+knee # घुटना (ghuṭanā)
+knee  ; knee joint  ; human knee  ; articulatio genus  ; genu # घुटना [ghutanaa]
+knife # चाकू [chaakoo]
+knight # घोड़ा (m) (gho.rā)
+knot # गांठ [gaanth]
+Knot (speed) # नॉट (इकाई)
+know # जानना (jānnā)
+Knowledge # ज्ञान
+knowledge  ; cognition  ; noesis # जानकारी [jaanakaaree]
+Knut Hamsun # क्नूट हामसन
+koala # कोअला
+Kobe # कोबे
+Kolkata # कोलकाता
+Korea # कोरिया (m) (koriyā)
+Korean # कोरियाई (kōriyā'ī)
+Korean War # कोरिया युद्ध
+Kosovo # कोसोवो गणराज्य
+Krakatoa # एनैक क्राकाटाओ
+Krishna # श्रीकृष्ण
+Krypton # क्रिप्टन
+Kuala Lumpur # क्वाला लमपुर
+Kuomintang # गुओमिंदांग
+Kurdish # कुर्दी (f) (kurdī)
+Kurdistan # क़ुर्दिस्तान
+Kuwait # कुवैत
+Kyrgyzstan # किर्गिज़स्तान (kirgizastān)
+ladybird # सोनपाखरा (sonapākharā), सोनपंखी (sonapa.nkho), सुररखी (surarkhī)
+ladybug # सोनपाखरा (sonapākharā), सोनपंखी (sonapa.nkho), सुररखी (surarkhī)
+Lagos # लागोस
+Lahore # लाहौर
+Lake # झील
+Lake Erie # ईरी
+Lake Huron # ह्यूरॉन
+Lake Michigan # मिशिगन झील
+Lake Ontario # ओन्टारियो झील
+Lake Superior # सुपीरियर झील
+Lakshmi # लक्ष्मी
+lamb # बर्रा (f) (barrā); मेमना (f) (memnā)
+Lancashire # लैंकाशायर
+land # भूमि (f) (bhūmi)
+land  ; dry land  ; earth  ; ground  ; solid ground  ; terra firma # जमीन [jameen]
+land  ; set down # उतरना [utaranaa]
+Language # भाषा
+language  ; linguistic communication # भाषा [bhaashaa]
+language  ; natural language  ; tongue # भाषा [bhaashaa]
+Laos # लाओस
+Laptop # लैपटॉप
+Laser # लेसर विज्ञान
+last # अन्तिम [antim]
+last night # कल रात (kal rāt)
+last year # पिछले साल (pichle sāl)
+late # देरी [deree]
+late  ; belatedly  ; tardily # देर रात [der raat]
+Latin # लातिनी भाषा
+Latin alphabet # रोमन लिपि
+Latin America # लैटिन अमेरिका (f) (laiṭin amērikā)
+Latitude # अक्षांश रेखाएं
+Latvia # लातविया
+Latvian # लातवियाई (f) (lātviyā'ī)
+laugh # हँसना (hãsnā); (hãsnā)
+laugh  ; express joy  ; express mirth # हंसना [hansanaa]
+Law # विधि
+lawyer # वकील (m) (vakīl)
+lazy # आलसी (ālasī)
+lead  ; Pb  ; atomic number 82 # सीसा [seesaa]
+lead  ; take  ; direct  ; conduct  ; guide # चलाना [chalaanaa]
+leader # पथ-प्रदर्शक
+leaf # पत्ता (m) (pattā)
+leaf  ; leafage  ; foliage # पत्ता [pattaa]
+leap # कूदना
+Leap year # अधिवर्ष
+learn # सीखना 
+learn  ; larn  ; acquire # सीखना [seekhanaa]
+least  ; to the lowest degree # कम से कम मात्रा में
+leather # खाल [khaal]
+leave # छोड़ जाना
+leave  ; leave of absence # छुट्टी [chhuttee]
+Lebanon # लेबनान
+leech # जोंक (jōṅk)
+left # वाम पंथ
+leg # टांग
+legal # कानूनी [kaanoonee]
+lemon # नींबू [neemboo]
+Lenin # लेनिन (lēnin)
+Leninism # लेनिनवाद (m) (lēninvād)
+Lens (optics) # लेंस
+Leo (constellation) # सिंह
+Leon Trotsky # त्रोत्स्की
+Leonardo da Vinci # लियोनार्दो दा विन्ची
+Leonhard Euler # लियोनार्ड ओइलर
+Leprosy # कुष्ठ
+lesbian # लेस्बियन (f) (lesbiyan)
+Lesotho # लेसोथो
+lesson # पाठ (m) (pāṭh)
+let # किराये पर देना [kiraaye par denaa]
+letter # ख़त (m) (xat); पत्र (m) (patra); चिट्टी (f) (ciṭṭī); (f) (ciṭṭhī)
+letter  ; letter of the alphabet  ; alphabetic character # अक्षर [akshar]
+letter  ; missive # पत्र [patr]
+lettuce # लेटिष (lēṭiṣ); सलाद पत्ता (salād pattā)
+Lever # उत्तोलक
+Lewis Carroll # लुइस कैरल
+LGBT # एल जी बी टी (el jī bī ṭī)
+liar # झूठा (jhūṭhā) (m)
+Liberation Tigers of Tamil Eelam # लिबरेशन टाइगर्स आफ तमिल ईलम
+Liberia # लाइबेरिया
+liberty # आज़ादी
+Library # पुस्तकालय
+Libya # लीबिया
+lick # चाटना (cāṭnā)
+lie # लेटना [letanaa]
+lie  ; prevarication # झूठ [jhooth]
+Liechtenstein # लीख़्टेनश्टाइन
+life # जीवन [jeevan]
+lift  ; raise  ; elevate  ; get up  ; bring up # ऊपर उठाना [oopar uthaanaa]
+light # हलका [halakaa]
+light  ; visible light  ; visible radiation # प्रकाश [prakaash]
+light year # प्रकाश-वर्ष (prakāś-varṣ)
+lighthouse # रोशनीघर (rośanīghar), दीपगृह (dīpagraha)
+lightning # बिजली [bijalee]
+Light-year # प्रकाश-वर्ष
+like # पसंद करना [pasand karanaa]
+Lille # लील
+lily # कुमुदिनी (kumudinī)
+limit  ; bound  ; boundary # सीमा [seemaa]
+limit  ; restrict  ; restrain  ; trammel  ; bound  ; confine  ; throttle # सीमा बद्ध करना
+Limit (mathematics) # सीमा (गणित)
+Lincolnshire # लिंकनशायर
+line # रेखा [rekhaa]
+Linear equation # रेखीय समीकरण
+Linguistics # भाषाविज्ञान
+Linguistics # श्रेणी:भाषा-विज्ञान
+Linux # लिनक्स
+lion # शेर (šer), सिंह (si.nh)
+lion  ; king of beasts  ; Panthera leo # शेर [sher]
+lip # होंठ [honth]
+liquid # द्रव [drav]
+liquid # द्रव [drav]
+Lisbon # लिस्बन
+list # लिस्ट (f) (lisṭ)
+list  ; listing # सूची [soochee]
+listen # सुनना (sunnā); कान लगाना (kān lagānā)
+listen  ; hear  ; take heed # सुनाई देना [sunaaee denaa]
+Literature # साहित्य
+Literature # श्रेणी:साहित्य
+Lithium # लिथियम
+Lithuania # लिथुआनिया
+Litre # लीटर
+little # छोटा [chhotaa]
+Little Red Riding Hood # लिटिल रेड राईडिंग हूड (liṭil rēḍ rā'īḍiṅg hūḍ)
+live # रहना (rahnā)
+liver # कलेजा (m) (kalejā); जिगर (m) (jigar)
+lizard # छिपकली (čipkalī)
+load  ; charge # जिम्मेदारी सौंपना [jimmedaaree saumpanaa]
+local # स्थानीय [sthaaneey]
+lock # तालयन्त्र
+Logarithm # लघुगणक
+Logic # तर्कशास्त्र
+Lolita # लोलिता
+London # लंदन
+London # श्रेणी:लंदन
+long # लम्बा (lambā); (lambā)
+Long Beach # लॉंग बीच, केलिफ़ोर्निया
+look # देखना [dekhanaa]
+look  ; appear  ; seem # तलाशना
+look for # ढूँढ़ना (ḍhū̃ṛhnā); ढूँढना (ḍhū̃ḍhnā)
+Los Angeles # लॉस ऐन्जेलिस
+lose # खो देना [kho denaa]
+lose # मिट जाना [mit jaanaa]
+loss # अभाव [abhaav]
+lotus # कमल (m) (kamal)
+Louisiana # लुईज़ियाना
+louse # जूँ (f) (jū̃)
+love # पसन्द करना [pasand karanaa]
+love # प्रेम [prem]
+low # नीचा [neechaa]
+lucky # भाग्यवान
+Lucrezia Borgia # लुक्रेजिया बोर्गिया
+Luigi Pirandello # लुइगि पिरण्डेलो
+Lunar eclipse # चन्द्र ग्रहण
+lunch  ; luncheon  ; tiffin  ; dejeuner # दोपहर का खाना
+lung # फेफड़ा (m) (phephṛā)
+Lux # लक्स
+Luxembourg # लक्सेम्बर्ग
+Lyon # ल्यों
+Macau # मकाओ (makā'o)
+Macedonia # मेसेडोनिया (mēsēḍōniyā)
+machine # मशीन [masheen]
+Machine code # मशीनी भाषा
+machine language # मशीनी भाषा (maśīnī bhāṣā)
+Machine translation # मशीनी अनुवाद
+mad # पागल (pāgal)
+Madagascar # मेडागास्कर
+Madison # मैडिसन
+Madrid # मैड्रिड
+magazine  ; mag # पत्रिका [patrikaa]
+Maghreb # मग़रेब
+Magic (paranormal) # जादू
+Magna Carta # मैग्ना कार्टा
+Magnesium # मेगनीसियम
+Maharashtra # महाराष्ट्र
+Mahatma Gandhi # महात्मा गांधी
+Mahayana # महायान
+mail  ; mail service  ; postal service  ; post # डाक [daak]
+main  ; chief  ; primary  ; principal  ; master # मुख्य [mukhy]
+Maine # मेन
+Maize # मक्का (फसल)
+major # बड़ा [badaa]
+majority  ; bulk # अधिकतर [adhikatar]
+make  ; do # करना (karnā)
+Malachite # ताप्रांगीयिज
+Malaria # मलेरिया
+Malayalam # मलयालम (malayālam)
+Malaysia # मलेशिया
+Maldives # मालदीव
+male # नर [nar]
+male  ; manful  ; manlike  ; manly  ; virile # नर [nar]
+Mali # माली
+Malta # माल्टा
+Mammal # स्तनधारी
+man # आदमी (m) (ādmī); मानव (m) (mānav); मनुष्य (m) (manuṣya)
+man  ; adult male # पुरूष [puroosh]
+manage  ; deal  ; care  ; handle # चलाना [chalaanaa]
+Management # प्रबन्धन
+management  ; direction # निर्देशन [nirdeshan]
+Manchuria # मंचूरिया
+Mandarin # मेंडरिन भाषा (f) (meṇḍarin bhāṣā)
+Manganese # मंगनीज
+mango # आम (m) (ām)
+Manipur # मणिपुर
+Manitoba # मनितोबा (manitōbā)
+manner  ; mode  ; style  ; way  ; fashion # विशेष प्रकार की आकृति प्रदान करना
+Mantra # मन्त्र
+many # अनेक [anek]
+Mao Zedong # माओ त्सेतूंग
+Map # मानचित्र
+Marble # संगमर्मर
+March # मार्च (mārch)
+March 17 # 17 मार्च
+March 19 # 19 मार्च
+March 2 # 2 मार्च
+March 25 # 25 मार्च
+Marco Polo # मार्को पोलो
+Margaret Thatcher # मारगरेट थाचर
+Marie Curie # मेरी क्युरी
+marijuana # गांजा (m) (gān̄jā); मारिजुआना (māriju'ānā)
+Marilyn Monroe # मर्लिन मुनरो
+Mark Twain # मार्क ट्वैन
+marker  ; marking  ; mark # मार्कर
+Market # बाज़ार
+market  ; marketplace  ; market place # बाज़ार [baazaar]
+marriage # शादी (f) (śādī)
+marriage  ; matrimony  ; union  ; spousal relationship  ; wedlock # विवाह [vivaah]
+married # विवाहित [vivaahit]
+marry  ; get married  ; wed  ; conjoin  ; hook up with  ; get hitched with  ; espouse # विवाह करना [vivaah karanaa]
+Mars # मार्स (m) (mārs); मंगल (m) (mangal)
+Mars (mythology) # मार्स
+Marseille # मार्सैय
+Martin Luther # मार्टिन लुथर
+Martin Luther King # मार्टिन लूथर किंग
+Martin Scorsese # मार्टिन स्कोर्सेसे
+Martina Navratilova # मार्टिना नवरातिलोवा
+Martinique # मार्तिनीक
+Mary Wollstonecraft # मेरी वुलस्टोनक्राफ़्ट
+Mashhad # मशहद
+mass # परिमाण [parimaan]
+mass  ; bulk  ; volume # विशाल [vishaal]
+mass media # मास मीडिया (mās mīḍiyā)
+Massachusetts Institute of Technology # मसाचुसेट्स तकनीकी संस्थान
+masturbate # हस्तमैथुन करना (hastmaithun karnā)
+masturbation # हस्तमैथुन (m) (hastmaithun)
+match # मैच [maich]
+match  ; lucifer  ; friction match # दियासलाई [diyaasalaaee]
+material  ; stuff # सामग्री [saamagree]
+maternal uncle # मामा (māmā)
+Mathematics # गणित
+Mathematics # प्रवेशद्वार:गणित
+matter # विषय [vishay]
+matter  ; affair  ; thing # द्रव्य [dravy]
+Matthew # मॅथियु
+Mauna Loa # मौनालोआ
+Mauritius # मॉरिशस
+Max Born # माक्स बोर्न
+Max Planck # माक्स प्लान्क
+Maxwell's equations # मैक्सवेल के समीकरण
+May # मई
+May 1 # 1 मई
+mayonnaise # मेयोनेज़ (meyonez)
+Mayor # महापौर
+me # मुझको [mujhako]
+meal # भोजन (bhojan)
+meal  ; repast # भोजन [bhojan]
+mean  ; hateful # साधन [saadhan]
+mean  ; intend  ; think # इरादा रखना [iraadaa rakhanaa]
+mean  ; mean value # पैसा [paisaa]
+measure  ; mensurate  ; measure out # नापना [naapanaa]
+Measurement # मापन
+measurement  ; measuring  ; measure  ; mensuration # माप करना
+meat # मांस [maans]
+Mecca # मक्का (makkā)
+Mechanical engineering # यान्त्रिकी
+Mechanical engineering # श्रेणी:यान्त्रिकी
+medical # आयुर्विज्ञान संबन्धी
+Medicine # आयुर्विज्ञान
+Medicine # श्रेणी:आयुर्विज्ञान
+Medina # मदीना
+Meditation # ध्यान
+Mediterranean Sea # भूमध्य सागर
+meet # मिलना (... (se) milnā)
+meet  ; run into  ; encounter  ; run across  ; come across  ; see # सामना होना [saamanaa honaa]
+meeting  ; coming together # मीटिंग [meeting]
+Mekong # मेकांग नदी
+member  ; fellow member # सदस्य [sadasy]
+memory # याद [yaad]
+memory  ; retention  ; retentiveness  ; retentivity # स्मृति [smruti]
+Mental disorder # मानसिक रोग
+mention  ; advert  ; bring up  ; cite  ; name  ; refer # उल्लेख करना [ullekh karanaa]
+Mercury # बुध (budh)
+Mercury (mythology) # मरक्युरी
+Mercury (planet) # बुध
+mermaid # मत्स्यांगना (matsyāṅganā)
+Merry Christmas # शुभ बड़ा दिन (śubh baṛā din); शुभ क्रिस्मस (śubh krismas); मेरी क्रिसमस (merī krismas); क्रिसमस मुबारक (krismas mubārak)
+Merry Christmas and a Happy New Year # क्रिसमस और नया साल मुबारक (krismas aur nayā sāl mubārak!)
+Mesopotamia # मेसोपोटामिया
+message # संदेश (m) (sandeś); मेसेज (m) (mesej)
+Metal # धातु
+metal  ; metallic # धातु जैसा
+metallic element  ; metal # धातु [dhaatu]
+Metallurgy # धातुकर्म
+Metaphysics # तत्त्वमीमांसा
+meter # मीटर (mītər)
+method # प्रणाली [pranaalee]
+Metre # मीटर
+Mexico # मेक्सिको
+Mexico City # मेक्सिको नगर (mēksikō nagar)
+Michigan # मिशिगन
+Michigan # श्रेणी:मिशिगन
+microbe # सूक्ष्मजीव (sūkṣmajīv)
+microorganism # सूक्ष्मजीव (sūkṣmajīv)
+Microprocessor # माइक्रोप्रोसेसर
+Microscope # सूक्ष्मदर्शी यंत्र
+middle # मध्य (f) (madhya)
+Middle East # मध्यपूर्व
+midnight # आधी रात [aadhee raat]
+midwife # प्रसाविका (prasāvikā)
+Mikhail Gorbachev # मिखाइल गोर्बाचोफ
+Milan # मिलानो
+military # सेना [senaa]
+Milk # दूध
+milkshake # खीर (f) (khīra)
+Millard Fillmore # मिलर्ड फिलमोर
+millimetre # मिलीमीटर (milīmīṭar)
+million # दस लाख (das lākh); १००००००
+million  ; 1000000  ; one thousand thousand  ; meg # दस लाख [das laakh]
+millipede # गोजर
+Minaret # मीनार
+mind # मन (m) (man)
+mind  ; head  ; brain  ; psyche  ; nous # मन [man]
+mine # खान [khaan]
+Mineral # खनिज
+Minerva # मिनर्वा
+minion # wafadar
+minister  ; government minister # शिक्षा मंत्री
+Minnesota # श्रेणी:मिनेसोटा
+Minsk # मिन्स्क (minsk)
+Minute # मिनट
+minute  ; min # मिनट [minat]
+Mirror # दर्पण
+Miss # सुश्री (suṣrī); मिस (f) (mis); कुमारी (f) (kumārī)
+mistake # ग़लत (m) (ġalat); ग़लती (f) (ġalatī); ग़लत फ़हमी (f) (ġalat fahmī); भूल (f) (bhūl)
+mistake  ; error  ; fault # गलती [galatee]
+mister # श्री (śrī); जी (jī); साहिब (m) (sāhib); साहब (m) (sāhab)
+misunderstand # ग़लत समझना (<u>g</u>alat samajhnā)
+Mobile phone # मोबाइल फोन
+model # नमूना [namoonaa]
+modern # आधुनिक [aadhunik]
+Mogadishu # मोगादीशू
+moisture  ; wet # नमी [namee]
+Moldova # मोल्दाविया
+Mole (unit) # मोल (इकाई)
+molecule # अणु (aṇu); व्यूहाणु (vyūhāṇu)
+Molybdenum # मोलिब्डेनम
+moment # पल (m) (pal)
+moment  ; minute  ; second  ; instant # इसी क्षण
+Monaco # मोनैको
+Monarchy # राजतन्त्र
+monastery # मठ (m) (maṭh); मन्दिर (m) (mandir)
+Monday # सोमवार
+Monday  ; Mon # सोमवार
+Money # पैसा
+Mongolia # मंगोलिया
+Monica Seles # मोनिका सेलेस
+monkey # बंदर
+Monotheism # एकेश्वरवाद
+Monsoon # मॉनसून
+Monte Carlo # मोंटी कार्लो
+Montenegro # मोंटेनीगरो (monṭenīgro)
+Month # मास
+month  ; calendar month # महिना (mahinā)
+Montreal # मॉन्ट्रियल (monṭriyal)
+Montserrat # मोंट्सेराट
+Moon # चन्द्रमा
+Moon  ; moon # चन्द्रमा [chandramaa]
+more  ; more than # ज्यादा [jyaadaa]
+morning # सुबह (f) (subah); सवेरा (m) (saverā)
+morning  ; morn  ; morning time  ; forenoon # सुबह [subah]
+Morocco # मोरक्को
+Morse code # मोर्स कोड
+Moscow # मास्को
+Moses # मूसा
+Mosque # मस्जिद
+moth # पतंगा (patangā), परवाना (parvāna)
+mother # माता (f) (mātā); मां (f) (mā̃); मादर (f) (mādar); वालिदा (f) (vālidā)
+mother  ; female parent # माता [maataa]
+Mother Teresa # मदर टेरेसा
+mother tongue # मातृभाषा (mātr̥bhāṣā)
+motherfucker # मादरचोद (madarchod); कमीने (kamīnē)
+Mount Etna # माउण्ट एटना
+Mount Everest # माउंट एवरेस्ट
+Mount Fuji # फ्यूजीयामा
+Mount Pinatubo # माउण्टपिनाटुबो
+Mount St. Helens # माउण्ट सेण्ट हेलेन्स
+Mount Vesuvius # विसूवियस
+Mountain # पर्वत
+Mountain pass # दर्रा
+mouse # चूहा (m) (cūhā)
+moustache # मूँछ (f) (mūñch); मूछ (f) (mūch)
+mouth # मुँह (m) (mũh); मुंह (m) (mũh); मुख (m) (mukh)
+mouth  ; oral cavity  ; oral fissure  ; rima oris # मुंह
+move # चलना (calnā)
+move  ; displace # चलना [chalanaa]
+movement  ; motion # गति [gati]
+movie # फ़िल्म (film)
+movie  ; film  ; picture  ; moving picture  ; moving-picture show  ; motion picture  ; motion-picture show  ; picture show  ; pic  ; flick # झिल्ली [jhillee]
+Mozambique # मोस़ाम्बीक
+Mr # जी (jī); श्री (śrī); साहिब (m) (sāhib); साहब (sāhab)
+Mr. # जी (jī); श्री (śrī); साहिब (m) (sāhib); साहब (sāhab)
+Mrs # जी (jī); श्रीमती (śrīmatī)
+much # अधिक (adhik); बहुत (bahut)
+mud # कीचड़
+Muhammad # मुहम्मद
+mulberry # तूत (tūt)
+mum # माँ (f) (mā̃); माताजी (f) (mātājī); अम्मी (f) (ammī); अम्माँ (f) (ammā̃)
+Mumbai # मुम्बई
+murder # हत्या (hatya)
+murderer # हत्यारा (hatyārā)
+Murray Gell-Mann # मरे गेलमन
+Muscat # मस्कट (Maskat')
+muscle  ; musculus # पेशी [peshee]
+museum # संग्रहालय [sangrahaalay]
+Mushroom # कुकुरमुत्ता
+Music # संगीत
+Musician # संगीतकार
+musician  ; instrumentalist  ; player # संगीतकार [sangeetakaar]
+Muslim # मुस्लिम (muslim), मुसलमान (musalmān), मुसलमानी (musalmānī)
+must # चाहिए (cāhiē); पड़ना (paṛnā); (hōgā)
+mustard # सरसों (sarasōṁ)
+my # मेरा [meraa]
+my name is # मेरा नाम ... है
+Myanmar # म्यानमार (myānmār); ब्रह्मदेश (brahmadeś); बरमा (barmā)
+Mycology # कवक विज्ञान
+mysterious # rashasyapurna; guptartha
+mystery # रहस्य (f) (rahasya)
+Nadine Gordimer # नेडीन गोर्डिमर
+Nagasaki # नागासाकी
+Nagorno # नागोर्नो-काराबाख़ (nāgorno-kārābāx)
+Nahuatl # नावातल
+nail # कील [keel]
+nail # नाखून [naakhoon]
+naked # नंगा (nãṅgā); नग्न (nagna)
+name # नाम [naam]
+name  ; call # नाम रखना [naam rakhanaa]
+Namibia # नामीबिया
+Nancy # नांसी
+Nanotechnology # नैनोतकनीकी
+Nantes # नांत
+Naples # नापोलि
+narrow # संकीर्ण [sankeern]
+Nation # राष्ट्र
+nation  ; land  ; country # राष्ट्र [raashtr]
+national # राष्ट्रीय [raashtreey]
+NATO # नैटो
+natural # प्राकृतिक [praakrutik]
+Natural science # प्राकृतिक विज्ञान
+nature # प्रकृति
+Nauru # नाउरु
+Nautical mile # नॉटिकल मील
+navel # नाभि (f) (nābhi); नाफ़ (f) (nāf)
+Navigation # दिक्चालन
+Navy # नौसेना
+Naypyidaw # नाएप्यीडॉ (nā'epyīḍo)
+near # नज़दीक (nazdīk)
+near  ; close  ; nigh # निकट [nikat]
+Nebraska # नेब्रास्का
+nebula # नीहारिका (f) (nīhārikā)
+necessary # आवश्यक [aavashyak]
+neck # गरदन (gardan); गर्दन (gardan)
+neck  ; cervix # गरदन [garadan]
+need # ज़रूरत (f) (zarurat)
+need  ; necessitate  ; ask  ; postulate  ; require  ; take  ; involve  ; call for  ; demand # मांगना [maanganaa]
+needle # सुई [suee]
+Nefertiti # नेफरतिति
+neighbor  ; neighbour # पड़ोसी [padosee]
+neighbour # पड़ोसी (m) (paṛosī); पड़ोसिन (f) (paṛosin)
+Nelson Mandela # नेल्सन मंडेला
+Neon # नियोन
+Nepal # नेपाल
+Nepal # श्रेणी:नेपाल
+nephew # भतीजा (m) (bhatījā)
+Nephthys # नेफ़्थिस
+Neptune # वरुण (Varuṇa)
+nerve  ; nervus # नस [nas]
+nest # घोंसला (ghōnsalā)
+net  ; network  ; mesh  ; meshing  ; meshwork # जाल [jaal]
+Netherlands # नीदरलैंड
+Neutron # न्यूट्रॉन
+Nevada # नेवाडा
+never # कभी नहीं (kabhī nahī̃)
+new # नया [nayaa]
+New Delhi # नई दिल्ली (f) (naī dillī)
+New Hampshire # नया हेम्पशायर
+New Jersey # नया जर्सी
+New Mexico # नया मेक्सिको
+New Orleans # न्यू आर्लीन्स
+New South Wales # न्यू साउथ वेल्स
+New Testament # नया नियम
+New Year # नया साल
+New York # नया यॉर्क
+New York City # न्यूयॉर्क शहर
+New Zealand # न्यूज़ीलैंड
+Newport # न्यूपोर्ट
+news # ख़बर (f) (xabar); समाचार (m) (samācār); संदेश (m) (sandeś)
+newspaper # अख़बार (m) (axbār); समाचारपत्र (samācār-patr); वृत्तपत्र (vruttpatra)
+newspaper  ; paper # समाचार पत्र
+next # अगला (aglā)
+next  ; adjacent  ; side by side # निकटवर्ती [nikatavartee]
+Nicaragua # निकारागुआ
+Nice # नीस
+Nickel # निकेल
+Nicosia # निकोसिया
+niece # भतीजी (f) (bhatījī)
+Niels Bohr # नील्स बोह्र
+Niger # नाइगर
+Nigeria # नाईजीरिया
+night # रात (rāt)
+night  ; nighttime  ; dark # रात [raat]
+nightmare # दुःस्वप्न (m) (duḥsapn); कुस्वप्न (m) (kusapn)
+Nikola Tesla # निकोला टेस्ला
+Nile # नील नदी
+nine # नौ (nau) (numeral: ९)
+nine  ; 9  ; ix # नौ [nau]
+nineteen # उन्नीस (unnīs)
+nineteen  ; 19  ; xix # उन्नीस [unnees]
+ninety # नब्बे (nabbe); नव्वे (navve)
+ninety  ; 90  ; xc # नब्बे [nabbe]
+Niobium # नायोबियम
+nipple # चूची (f) (cūcī)
+Nitrogen # नाइट्रोजन
+Nizhny Novgorod # निज़्नी नॉवग्रोद (niznī nŏvagrōd)
+no # नहीं [naheen]
+no one # कोई नहीं (ko'ī nahī̃)
+no smoking # सिगरेट पीना मना है (sigrēṭ pīnā manā hai)
+Noah # नूह (nūh)
+Noam Chomsky # नोआम चाम्सकी
+Nobel Prize # नोबेल पुरस्कार
+Nobel Prize # श्रेणी:नोबेल पुरस्कार
+nobody # कोई नहीं (ko'ī nahī̃)
+non # अशासकीय संस्था
+nonsense # बकवास (f) (bakvās)
+noon # दोपहर (m) (dopahar)
+Norfolk # नॉर्फ़क
+normal # सामान्य [saamaany]
+North # उत्तर
+north  ; due north  ; northward  ; N # उत्तर [uttar]
+North America # उत्तरी अमरीका
+North America # श्रेणी:उत्तरी अमरीका
+North Carolina # उत्तर केरोलाइना
+North Dakota # उत्तर डेकोटा
+North Korea # उत्तरी कोरिया
+North Sea # उत्तरी सागर
+North Yorkshire # नॉर्थ यॉर्कशायर
+Northern Ireland # उत्तरी आयरलैंड
+Norway # नॉर्वे
+Norwegian # नार्वेजियन (nārvējiyan)
+nose # नाक (f) (nāk); नासिका (nāsikā)
+nose  ; olfactory organ # नाक [naak]
+not # नहीं (nahī̃); न (na); मत (mat)
+not  ; non # नहीं [naheen]
+note  ; annotation  ; notation # नोट [not]
+note  ; musical note  ; tone # स्वर [svar]
+nothing # कुछ नहीं (kuch nahī̃)
+nothing  ; nil  ; nix  ; nada  ; null  ; aught  ; cipher  ; cypher  ; goose egg  ; naught  ; zero  ; zilch  ; zip  ; zippo # कुछ नहीं [kuchh naheen]
+noun # संज्ञा (m) (sangyaa)
+novel # कथा (kathā); कहानी (kahānī); उपन्यास (upanyās)
+November # नवम्बर (navambar)
+November  ; Nov # नवंबर [navambar]
+November 1 # 1 नवंबर
+November 11 # 11 नवंबर
+November 2 # 2 नवंबर
+November 5 # 5 नवंबर
+now # अब [ab]
+now  ; at present # अभी [abhee]
+Nuclear physics # नाभिकीय भौतिकी
+nudity # नंगापन (nãṅgāpan)
+Number # अंक
+Nuremberg # नूर्नबर्ग (nūrnabarg); न्युरेंबर्ग (n'yurembarg)
+nurse # नर्स [nars]
+nut # लोहे की ढिबरी
+nut # सुपारी [supaaree]
+nutcracker # सरौता (marotaa)
+Oahu # ओहाऊ
+oak tree # शाहबलूत (m)
+oat # जई (jaī)
+obedience # agya palana, pharmabaradari
+Obesity # मेदुरता
+object # चीज़ (f) (cīz)
+obviously  ; evidently  ; manifestly  ; patently  ; apparently  ; plainly  ; plain # स्पष्ट रूप से [spasht roop se]
+occupation  ; business  ; job  ; line of work  ; line # व्यवसाय [vyavasaay]
+Ocean # महासागर
+Ocean current # महासागरीय धारा
+Oceania # ओशीनिया
+Oceanography # श्रेणी:समुद्र विज्ञान
+October # अक्तूबर (m) (aktūbar)
+October  ; Oct # अक्टूबर [aktoobar]
+October Revolution # अक्तूबर समाजवादी क्रांति
+octopus # ऑक्टोपस (okṭopas); अष्टबाहु (aṣṭabāhu)
+Odyssey # ओडेसी
+of # के (...ke); का (m) (... kā); की (f) (... kī)
+of course # ज़रूर (zarūr)
+offer # प्रदान करना [pradaan karanaa]
+offer  ; offering # प्रस्ताव [prastaav]
+office # दफ़तर (m) (daftar); ऑफ़िस (m) (ofis)
+officer  ; officeholder # अफ़सर [afasar]
+often # अक्सर (aksar)
+oh my God # हे भगवान (he bhagvān)
+Ohm # ओह्म
+Ohm's law # ओम का नियम
+oil # तेल [tel]
+oil  ; petroleum  ; crude oil  ; crude  ; rock oil  ; fossil oil # पेट्रोलियम [petroliyam]
+Oklahoma # ओक्लाहोमा
+old # पुराना [puraanaa]
+Old Testament # पुराना नियम
+olive # जैतून (jaitūn) ; ज़ैतून (zaitūn)
+Oliver Cromwell # ऑलिवर क्रॉमवेल
+Olivine # ओलीवाइन
+Olympic Games # ओलम्पिक खेल
+Oman # ओमान
+on # पर
+on # पर
+once  ; one time  ; in one case # एक बार [ek baar]
+once upon a time # किसी ज़माने में (kimī jaṃāne meṃ)
+one # एक (ek) (numeral: १)
+one  ; 1  ; i  ; ane # एक (ek) (numeral: १)
+Onion # प्याज़
+onion  ; onion plant  ; Allium cepa # प्याज [pyaaj]
+Ontario # ओन्टारियो
+Opel # ओपल
+open # खुला (khulā)
+open  ; open up # खोलना [kholanaa]
+Opera (Internet suite) # ओपेरा
+Operating system # प्रचालन तंत्र
+operation # प्रक्रिया [prakriyaa]
+operation  ; functioning  ; performance # संचालन [sanchaalan]
+operation  ; surgery  ; surgical operation  ; surgical procedure  ; surgical process # अभियान [abhiyaan]
+opinion # विचार (m) (vicār); राय (f) (rāy); ख़याल (m) (xayāl)
+opinion  ; sentiment  ; persuasion  ; view  ; thought # विचार [vichaar]
+opium # अफ़ीम (afīm)
+opposite # विरुद्ध [viruddh]
+opposite  ; reverse  ; contrary # विरोधी [virodhee]
+Optics # श्रेणी:दर्पण
+option  ; alternative  ; choice # विकल्प [vikalp]
+or # या [yaa]
+oral sex # मुखाभिगम (m) (mukhābhigam)
+orange # नारंगी [naarangee]
+orange  ; orangish # नारंगी [naarangee]
+Orange (colour) # नारंगी (रंग)
+orchestra # वादक समूह
+order # आदेश [aadesh]
+Oregon # औरिगन
+organ # अंग (m) (aṅga)
+Organ (anatomy) # अंग (शरीर रचना)
+Organic chemistry # कार्बनिक रसायन
+Organization # व्यवस्था
+organization  ; organisation # संगठन [sangathan]
+orgasm # ओगाज़्म (m) (ogāzm); चरमोत्कर्ष (carmotkarṣ)
+original # मूल [mool]
+Orissa # उड़ीसा
+orphan # अनाथ (m) (anāth); यतीम (m) (yatim)
+Osaka # ओसाका
+Osama bin Laden # ओसामा बिन लादेन
+Oscar # ऑस्कर (m) (oskar)
+Oscar Wilde # ऑस्कर वाइल्ड
+Osiris # ओसिरिस
+Oslo # ओस्लो
+other # अन्य (anya); दूसरा (dūsrā)
+otter # ऊदबिलाव (ūd-bilāv)
+Otto von Bismarck # ओटो फोन बिस्मार्क
+Ottoman Empire # उस्मानी साम्राज्य
+our # हमारा [hamaaraa]
+outburst  ; burst  ; flare-up # अचानक बौछार
+outside # बाहर [baahar]
+ovary # डिम्बग्रंथि (f)
+oven # भट्टी [bhattee]
+owl # उल्लू (m) (ullū)
+own  ; ain # निजी [nijee]
+own  ; have  ; possess # स्वामी होना
+owner  ; possessor # स्वामी [svaamee]
+Oxygen # आक्सीजन
+Ozone # ओजोन
+Pablo Neruda # पाबलो नेरुडा
+Pablo Picasso # पाब्लो पिकासो
+Pacific Ocean # प्रशान्त महासागर
+package  ; bundle  ; packet  ; parcel # पार्सल [paarsal]
+page # पृष्ठ [prushth]
+pain # दर्द (dard)
+pain  ; hurting # दर्द [dard]
+paint  ; pigment # रंग [rang]
+painter # चित्रकार (m) (citrakār)
+painting  ; picture # चित्र [chitr]
+Pakistan # पाकिस्तान
+Pakistan # श्रेणी:पाकिस्तान
+palace # महल (m) (mahal)
+Palermo # पलेर्मो
+Palestine # फ़िलस्तीन
+Pali # पालि
+Palladium # पलाडियम
+palm # हथेली (f) (hathelī)
+Palm Sunday # पाम रविवार
+Panama # पनामा (panāmā)
+pancreas # अग्न्याशय
+papaya # पपीता (papītā)
+paper # कागज [kaagaj]
+Papua New Guinea # पापुआ न्यू गिनी
+Parabola # परवलय
+Paradox # परोक्षक
+Parallax # दिग्भेद
+parallel # साथ-साथ [saath-saath]
+Paramaribo # पारामरीबो
+parents # माता-पिता (mātā-pitā); मां-बाप (mā̃-bāp)
+Paris # पेरिस
+park # बाग़ (m) (bāġ)
+park  ; commons  ; common  ; green # उद्यान [udyaan]
+Parliament # संसद
+parrot # तोता (m) (totā); तोती (f) (totī); शुक (m) (shuk)
+Parsec # पारसैक
+parsnip  ; Pastinaca sativa # चुकंदर [chukandar]
+part # हिस्सा (m) (hissā); भाग (m) (bhāg)
+part  ; section  ; division # अंग [ang]
+part  ; share  ; portion  ; percentage # भाग [bhaag]
+particular # विशेष [vishesh]
+particularly  ; peculiarly  ; especially  ; specially # विशेष रूप से [vishesh roop se]
+party # दावत [daavat]
+Parvati # पार्वती
+Pascal (unit) # पास्कल (इकाई)
+pasha # पाशा (m) (pāśā)
+pass  ; hand  ; reach  ; pass on  ; turn over  ; give # सौंपना [saumpanaa]
+pass  ; laissez passer # पास [paas]
+passenger  ; rider # यात्री [yaatree]
+passport # पासपोर्ट [paasaport]
+past # पिछला [pichhalaa]
+past  ; past times  ; yesteryear # अतीत [ateet]
+Patent # पेटेन्ट
+patient # धैर्यवान [dhairyavaan]
+patient # मरीज़ [mareez]
+Patrick White # पेट्रिक व्हैट
+Paul # पॉल (pol)
+Paul Johann Ludwig von Heyse # पाल हेज़े
+pause  ; intermission  ; break  ; interruption  ; suspension # मध्यान्तर [madhyaantar]
+pay # दाम चुकाना [daam chukaanaa]
+payment # शोधन [shodhan]
+pea # मटर (mat'ar)
+peace # अमन [aman]
+peach # आड़ू [aadoo]
+peacock # मोर (m) (mor)
+Peanut # मूँगफली
+pear # नाशपाती [naashapaatee]
+pearl # मोती (m) (motī)
+peel  ; skin  ; pare # छीलना [chheelanaa]
+Peloponnesian War # पेलोपोनेशियन युद्ध
+pen # कलम [kalam]
+Pencil # रानी (रंग)
+penguin # पेंगुइन (pēṅgu'in)
+Penicillin # पेनिसिलिन
+penis # शिश्न (m) (śiśn); लिंग (m) (liṅg)
+Pennsylvania # पेन्सिलवेनिया
+people # जनता [janataa]
+People's Republic of China # जनवादी गणराज्य चीन
+percent # फ़ीसदी 
+percent  ; percentage  ; per centum  ; pct # हिस्सा [hissaa]
+Percy Bysshe Shelley # पर्सी बिश शेली
+peregrine falcon # शाहीन (šāhīn)
+perestroika # पेरेस्ट्रोइका (peresṭrō'ikā)
+perhaps # शायद (śāyad)
+perineum # मूलाधार (m) (mūlādhār)
+period # ।; दंड (m) (da.n.d); पूर्ण विराम (pūrṇa virām)
+period  ; time period  ; period of time # काल [kaal]
+Periodic table # आवर्त सारणी
+Persephone # पर्सिफ़ोनी
+Persian # फ़ारसी (f) (fārsī); पारसी (f) (pārsī)
+Persian Empire # फ़ारस
+person # मनुष्य (m) (manuṣya); शख़्स़ (m) (śaxsa); (m) (śakhsa)जन (m) (jana); व्‌यक्‌ति (m) (vyakti); व्यक्ति (m) (vyakti)
+person  ; individual  ; someone  ; somebody  ; mortal  ; soul # व्यक्ति [vyakti]
+personal # निजी [nijee]
+personality # व्यक्तित्व
+Perth # पर्थ
+Peru # पेरू
+Pesticide # कीटनाशक
+Peter Sellers # पीटर सेलर्स
+petrol # पेट्रोल (peṭrōl); गैसोलीन (gaisolīn); बेंज़ीन (benzīn)
+petroleum # पेट्रोलियम (peṭroliyam)
+Pharaoh # फारो
+pharmacy # दवाख़ाना (m) (davāxānā); फ़ार्मेसी (f) (fārmesī)
+phase  ; stage # चरण [charan]
+Philipp Lenard # फिलिप लेनार्ड
+Philippines # फ़िलिपीन्स
+Philosophy # दर्शन
+phoenix # अमरपक्षी (amarapakṣī)
+Phoenix (spacecraft) # फ़ीनिक्स (अंतरिक्ष यान)
+phone # फ़ोन करना (fon karnā)
+Phosphorus # फास्फोरस
+photo # फ़ोटो (m); तस्वीर (f) (tasvīr)
+photograph # फ़ोटो (m); तस्वीर (f) (tasvīr)
+photographer  ; lensman # छाया चित्रकार
+photography # छायाचित्र (chāyācitr); फ़ोटोग्राफ़ी (f) (foṭogrāfī)
+Photosynthesis # प्रकाश संश्लेषण
+physical # भौतिक [bhautik]
+Physician # चिकित्सक
+Physics # भौतिक शास्त्र
+Physics # श्रेणी:भौतिकी
+piano # पियानो (m) (piyāno)
+Pichilemu # पीचिलीम्यू (m) (Phichillemu)
+picture # तस्वीर (f) 
+picture  ; image  ; icon  ; ikon # प्रतिबिंब [pratibimb]
+pie # पाई (saī)
+piece # कोई एक एकल चीज या उदाहरण
+Pierre Curie # पिएर क्युरी
+pig # सूअर (m) (sū'ar)
+pig  ; hog  ; grunter  ; squealer  ; Sus scrofa # सुअर [suar]
+pigeon # कबूतर (m) (kabūtar)
+piglet # घेंटा (m) (ghēṇṭā)
+pillow # तकिया (m) (takiyā)
+pilot  ; airplane pilot # विमान चालक [vimaan chaalak]
+pin # पिन [pin]
+pine # चिड़ (ciṛ)
+pineapple # अनानास (anānās)
+pineapple  ; ananas # अनन्नास [anannaas]
+pink # गुलाबी (gulābī)
+pink  ; pinkish # गुलाबी रंग का
+pipe  ; pipage  ; piping # नलिका [nalikaa]
+pirate # जलडाकू
+Pisa # पीसा
+pistachio # पिस्ता (m) (pistā)
+Pittsburgh # पिट्सबर्ग, पेन्सिलवेनिया
+Pixel # पिक्सल
+Pizza # पिज्जा
+place # जगह (f) (jagah)
+place  ; topographic point  ; spot # स्थान [sthaan]
+plain  ; field  ; champaign # मैदानी इलाका
+plan  ; program  ; programme # योजना [yojanaa]
+plane  ; airplane  ; aeroplane # वायुयान
+Planet # ग्रह
+planetary nebula # ग्रहीय नीहारिका
+plant # पौधा (paudhā)
+plant  ; flora  ; plant life # वनस्पति [vanaspati]
+plate # प्लेट [plet]
+Plate tectonics # प्लेट विवर्तिनिकी
+Plato # प्लेटो
+play # खेलना [khelanaa]
+please # कृपया (kŕpayā); मेहरबानी करके (meharbānī karke); प्लीज़ (plīz)
+pleasure # आनंद (m) (ānand)
+pleasure  ; pleasance # आनन्द [aanand]
+plough # हल चलाना (hal calānā)
+plum # बेर का फल
+Pluto # यम ग्रह
+Plutonium # प्लुटोनियम
+pocket # जेब (f) (jeb)
+poem # कविता (f) (kavitā); पद्य (padya)
+poem  ; verse form # कविता [kavitaa]
+poet # कवि (kavi); कवयित्री (f) (kavayitree)
+Poetry # काव्य
+Poetry # श्रेणी:काव्य
+poetry  ; poesy  ; verse # कविता [kavitaa]
+point  ; dot # बिन्दु [bindu]
+poison # विष देना [vish denaa]
+poison  ; toxicant  ; poisonous substance # विष [vish]
+Poland # पोलैंड
+polar bear # ध्रुवीय भालू (m) (dhruvīy bhālū)
+Pole # पोल (pōl)
+Police # पुलिस
+police  ; police force  ; constabulary  ; law # सिपाहियों का दल
+policeman # पुलिसवाला (m) (pulisvālā)
+policeman  ; police officer  ; officer # पुलिसमैन [pulisamain]
+policy # नीति [neeti]
+Polish # पोलिश (poliś)
+polish  ; smooth  ; smoothen  ; shine # चमकाना [chamakaanaa]
+polite # सभ्य (sabhya)
+politician # राजनीतिज्ञ (m) (rājnītijgya)
+politician  ; politico  ; pol  ; political leader # राजनीतिज्ञ [raajaneetigya]
+Politics # राजनीति
+Pollution # प्रदूषण
+polygon # बहुभुज (bahubhuja)
+polytheism # बहुदेववाद
+Pomegranate # अनार
+Pompeii # पोम्पेइ
+poor # गरीब (garib) ; दीन (deen)
+poor  ; hapless  ; miserable  ; misfortunate  ; pathetic  ; piteous  ; pitiable  ; pitiful  ; wretched # घृणित [ghrunit]
+Pope # पोप
+popular  ; pop # सस्ता [sastaa]
+Population # जनसंख्या
+porcelain # चीनी मिट्टी के बरतन (cīnī miṭṭī kē baratan)
+pork # सुअर का मांस (m) (su'ar kā mā̃s); सुअर का गोश्त (m) (su'ar kā gośt)
+pornography # अश्लील (aślīl)
+port # बंदरगाह (m) (bandargāh); पोर्ट (porṭ)
+Port Louis # पोर्ट लुई
+Portugal # पुर्तगाल
+Portuguese # पोरच्युगीज (porcyugīz); पुर्तगाली (f) (purtagālī)
+Poseidon # वरुण (ग्रह)
+position  ; place # स्थिति [sthiti]
+positron # पोज़िट्रॉन (poziṭron)
+possible # संभव [sambhav]
+possibly  ; perchance  ; perhaps  ; maybe  ; mayhap  ; peradventure # शायद [shaayad]
+post office # डाकघर (m) (ḍākghar); पोस्ट-ऑफ़िस (m) (posṭ-ofis)
+postage stamp # डाक का टिकट (m) (ḍāk kā ṭikaṭ); टिकट (m); डाक-टिकट (m)
+postcard # पोस्टकार्ड (f) (posṭkārḍ)
+postcode # पोस्टकोड (posṭkoḍ)
+Potassium # पोटासियम
+Potato # आलू
+potato  ; white potato  ; Irish potato  ; murphy  ; spud  ; tater # आलू [aaloo]
+pound # पाउंड (pā'uṇḍ)
+pour # बहना (bahnā)
+poverty # ग़रीबी (f) (ġarībī)
+powder  ; pulverization  ; pulverisation # चूर्ण [choorn]
+power # शक्ति (f) (śakti)
+power  ; powerfulness # शक्ति [shakti]
+practice # व्यवहार [vyavahaar]
+Prague # प्राग (prāg)
+praise # तारीफ़ करना (tārīf karnā)
+pray # प्रार्थना करना (prārthanā karnā)
+prayer # प्रार्थना (prārthanā); नमाज़ (f) (namāz)
+prefix # उपसर्ग (m) (upsarg)
+Pregnancy # गर्भावस्था
+pregnant # गर्भवती (garbhavatī)
+prepare  ; fix  ; set up  ; ready  ; gear up  ; set # तैयार होना [taiyaar honaa]
+present # उपस्थित [upasthit]
+present # पेश करना [pesh karanaa]
+present  ; nowadays # वर्तमान [vartamaan]
+President # राष्ट्रपति
+press # दबाना [dabaanaa]
+Pressure # दबाव
+pressure  ; pressure level  ; force per unit area # दबाव या दाब का बोझ या मात्रा या भार
+pretty # सुंदर (sundar); ख़ूबसूरत (xūbsūrat)
+prevent  ; forestall  ; foreclose  ; preclude  ; forbid # रोकना [rokanaa]
+previous  ; old # पूर्ववर्ती [poorvavartee]
+priapism # प्रायापिज़्म (prāyāpizm)
+price # मूल्य (mūly); दाम (m) (dām); क़ीमत (f) (qīmat)
+price  ; cost  ; toll # मूल्य [mooly]
+Prime Meridian # मध्याह्न रेखा
+Prime minister # प्रधानमन्त्री
+prime number # अभाज्य संख्या
+print # छापना (chāpnā)
+print  ; impress # छापना [chhaapanaa]
+prison # जेल (jel)
+prison  ; prison house # कारागार [kaaraagaar]
+private # व्यक्तिगत [vyaktigat]
+private  ; individual # विशिष्ट [vishisht]
+probable  ; likely # संभव [sambhav]
+probably  ; likely  ; in all likelihood  ; in all probability  ; belike # संभवत [sambhavat]
+problem  ; job # समस्या [samasyaa]
+procedure  ; process # कार्यविधि [kaaryavidhi]
+process  ; physical process # प्रक्रिया [prakriyaa]
+process  ; treat # संसाधित करना [sansaadhit karanaa]
+production # उत्पादन [utpaadan]
+profession # पेशा (m) (peśā)
+professional # व्यावसायिक [vyaavasaayik]
+professional  ; professional person # व्यवसायी [vyavasaayee]
+Professor # प्रोफ़ेसर
+profit # फ़ायदा (m) (fāydā); (m) (fā'idā)
+profit  ; net income  ; net  ; net profit  ; lucre  ; profits  ; earnings # लाभ [laabh]
+program  ; programme  ; computer program  ; computer programme # योजना [yojanaa]
+Programmer # प्रोग्रामर
+Programming language # प्रोग्रामिंग भाषा
+project  ; projection # परियोजना [pariyojanaa]
+project  ; undertaking  ; task  ; labor # काम [kaam]
+pronoun # सर्वनाम (m)
+pronunciation # उच्चारण [uchchaaran]
+Propaganda # दुष्प्रचार
+property  ; belongings  ; holding # सम्पत्ति [sampatti]
+proposal # प्रस्ताव [prastaav]
+Prose # गद्य
+prostate # प्रोस्टेट (m) (prosṭeṭ)
+prostitute # वेश्या (veshya)
+prostitution # वेश्यावृत्ति (veśyāvŕtti)
+protect # रक्षा करना (rakṣā karanā)
+protest # विरोध प्रकट करना [virodh prakat karanaa]
+protest  ; protestation # नकार पत्र
+Protestant Reformation # धर्मसुधार
+Proton # प्रोटॉन
+prove  ; testify  ; bear witness  ; evidence  ; show # सिद्ध करना [siddh karanaa]
+proverb # लोकोक्ति
+Psoriasis # सोरियासिस
+Psychology # मानस शास्त्र
+Ptah # पिताह
+Ptolemy # क्लाडियस टॉलमी
+public # जघन
+public  ; populace  ; world # जन साधारण [jan saadhaaran]
+publish  ; bring out  ; put out  ; issue  ; release # प्रकाशित करना [prakaashit karanaa]
+Puerto Rico # प्युर्तोरिको
+pull  ; draw  ; force # खींचना [kheenchanaa]
+pump # पम्प [pamp]
+pumpkin # कद्दू (m) (kadū, kaddū)
+punishment  ; penalty  ; penalization  ; penalisation # दण्ड का तरीका
+Punjab (India) # पंजाब
+purple # बैंगनी (baiṅganī); बैगनी (baiganī)
+purpose  ; function  ; role  ; use # उद्देश्य [uddeshy]
+pus # पीब (pīb); मवाद (mavād)
+push # धकेलना (dhakelanā)
+push  ; force # दबाना [dabaanaa]
+put # रखना (rakhnā)
+put  ; set  ; place  ; pose  ; position  ; lay # रखना [rakhanaa]
+pyjamas # पाजामा (pājāmā); पैजामा (paijāmā)
+Pyongyang # प्योंगयांग
+Pythagoras # पाइथागोरस
+Qatar # क़तर
+Quadratic equation # वर्ग समीकरण
+Quadrilateral # चतुर्भुज
+quality # गुण [gun]
+quark # क्वार्क (kvārk)
+quartz # क्वार्टज़ (kvārṭz)
+Queensland # क्वीन्सलैण्ड
+question # सवाल (m) (savāl); प्रश्न (m) (praśn)
+question  ; inquiry  ; enquiry  ; query  ; interrogation # प्रश्न [prashn]
+quickly # जल्दी (jaldī se); जल्दी (jaldī)
+quickly  ; rapidly  ; speedily  ; chop-chop  ; apace # फुर्ती से
+quiet # शांत [shaant]
+quiet  ; repose  ; placidity  ; serenity  ; tranquillity  ; tranquility # शांति [shaanti]
+Ra # रा
+rabbi # रबी (m) (rabī)
+rabbit # ख़रगोश (m) (xargoś); ख़रगोशनी (f) (xargośanī)
+Rabindranath Tagore # रवीन्द्रनाथ ठाकुर
+raccoon # रैकून (raikūn)
+Rachel Carson # रेचल कार्सन
+racism # जातिवाद (m) (jātivād)
+radio # रेडियो (m) (reḍiyo)
+radish # मूली [moolee]
+Radon # रेडन
+railway # रेलवे (relve)
+railway station # रेलवे स्टेशन (relve sṭeśan)
+Rain # वर्षा
+rain  ; rainfall # मेह
+rainbow # इन्द्रधनुष [indradhanush]
+raise  ; rear  ; bring up  ; nurture  ; parent # पालन-पोषण करना [paalan-poshan karanaa]
+ram # मेंढ़ा (menḍhā) (m)
+Rama # राम
+Ramayana # रामायण
+range  ; scope  ; reach  ; orbit  ; compass  ; ambit # दायरा [daayaraa]
+rape # बलात्कार (balātkār)
+raspberry # रसभरी [rasabharee]
+rate  ; charge per unit # दर [dar]
+rate  ; rank  ; range  ; order  ; grade  ; place # दर नियत करना [dar niyat karanaa]
+Ravenna # रवेन्ना
+Rawalpindi # रावलपिंडी
+reach  ; make  ; attain  ; hit  ; arrive at  ; gain # पहुंचना [pahunchanaa]
+reaction # प्रतिक्रया
+read # पढ़ना
+ready # तैयार [taiyaar]
+real  ; existent # यथार्थ [yathaarth]
+really  ; actually # वास्तव में [vaastav men]
+really  ; truly  ; genuinely # सचमुच [sachamuch]
+reason # कारण (m) (kāraṇ); वजह (f) (wajah)
+reason  ; ground # कारण [kaaran]
+receive  ; have # लेना [lenaa]
+recent # हाल का [haal kaa]
+recently  ; late  ; lately  ; of late  ; latterly # हाल में [haal men]
+recipe # नुस्खा (m) (nuskhā)
+record # किसी वस्तु या व्यक्ति के सम्बन्धित अतीत का ज्ञान
+record  ; tape # अंकित करना [ankit karanaa]
+Rectangle # आयत
+recycling # पुनर्चक्रण
+Red # लाल
+reduce  ; cut down  ; cut back  ; trim  ; trim down  ; trim back  ; cut  ; bring down # कम करना [kam karanaa]
+reflect  ; reverberate # प्रतिबिम्बित करना [pratibimbit karanaa]
+refuse  ; reject  ; pass up  ; turn down  ; decline # मना करना [manaa karanaa]
+regular # स्थायी [sthaayee]
+relation # लोगों और देशों के बीच में संपर्क एवं संवाद
+relationship  ; human relationship # सम्बन्ध [sambandh]
+relative # रिश्तेदार (m)
+Religion # धर्म
+Religion # श्रेणी:धर्म
+religion  ; faith  ; organized religion # धर्म [dharm]
+religion  ; faith  ; religious belief # धर्म [dharm]
+remember # याद करना (yād karnā)
+remember  ; retrieve  ; recall  ; call back  ; call up  ; recollect  ; think # याद आना [yaad aanaa]
+remove  ; take  ; take away  ; withdraw # हटा देना [hataa denaa]
+Renaissance # पुनर्जागरण
+render  ; return # पुरानी स्थिति में लौट जाना
+repeat # दोहराना (dōhrānā); फिर से कहना (phir sē kahnā)
+reply  ; answer  ; respond # उत्तर देना [uttar denaa]
+report # हाल लिखना
+represent  ; stand for  ; correspond # प्रतिनिधित्व करना [pratinidhitv karanaa]
+representative # प्रतिनिधि [pratinidhi]
+Reproduction # प्रजनन
+Reptile # सरीसृप
+Republic # गणराज्य
+Republic of Albania # अल्बानिया गणराज्य
+Republic of China # चीनी गणराज्य
+request  ; asking # अनुरोध [anurodh]
+request  ; bespeak  ; call for  ; quest # अनुरोध करना [anurodh karanaa]
+research # शोध [shodh]
+research  ; inquiry  ; enquiry # पूछताछ [poochhataachh]
+respect # सम्मान (m) (sammān); आदर (m) (ādar)
+respect  ; honor  ; honour  ; abide by  ; observe # सम्मान करना [sammaan karanaa]
+responsibility # ज़िम्मेदारी (f) (zimmedārī)
+responsibility  ; responsibleness # उत्तरदायित्व [uttaradaayitv]
+responsible # उत्तरदायी [uttaradaayee]
+rest  ; ease  ; repose  ; relaxation # आराम [aaraam]
+rest  ; remainder  ; balance  ; residual  ; residue  ; residuum # बाकी [baakee]
+restaurant # रेस्टोरेन्ट (m) (resṭorenṭ); रेस्त्रां (m) (resṭrā̃); जलपानगृह (m) (jalapānagṛha)
+restaurant  ; eating house  ; eating place  ; eatery # रेस्त्रां
+result  ; resultant  ; final result  ; outcome  ; termination # परिणाम [parinaam]
+return  ; homecoming # वापसी [vaapasee]
+reveal  ; unwrap  ; disclose  ; let on  ; bring out  ; discover  ; expose  ; divulge  ; break  ; give away  ; let out # खोलना [kholanaa]
+revenge # बदला (badalā)
+revolution # क्रांति (krānti)
+Reykjavik # रेक्जाविक (rekjāvik)
+Rhine # राइन (rā'in)
+rhinoceros # गैंडा
+Rhode Island # रोड आइलैंड
+rhythm  ; beat  ; musical rhythm # धड़कन [dhadakan]
+Rhythm and blues # आर और बी संगीत
+Rice # चावल
+rich # सम्पन्न [sampann]
+Richard # रिचर्ड
+Richard Feynman # रिचर्ड फिलिप्स फाइनमेन
+Richard Nixon # रिचर्ड निक्सन
+rifle # राइफल (rā'iphala)
+right # अधिकार [adhikaar]
+rigid  ; stiff # कड़ा [kadaa]
+ring  ; band # अंगूठी [angoothee]
+Rio de Janeiro # रीओ दी जैनेरो
+rise  ; rising  ; ascent  ; ascension # चढ़ाई [chadhaaee]
+risk  ; gamble  ; chance  ; hazard  ; take chances  ; adventure  ; run a risk  ; take a chance # संयोगवश हो जाना
+risk  ; hazard  ; jeopardy  ; peril  ; endangerment # खतरा [khataraa]
+River # नदी
+River Thames # टेम्स नदी
+road # सड़क (f) (saṛak); रास्ता (m) (rāstā); मार्ग (m) (mārg)
+road  ; route # सड़क [sadak]
+Roald Amundsen # रुआल एद्मुंदसन
+robot # रोबोट (m) (rōbōṭ)
+Rocky Mountains # रॉकी पर्वत
+Rodent # गिलहरी
+Roman Empire # रोमन साम्राज्य
+Roman mythology # श्रेणी:रोमन धर्म
+Romania # रोमानिया
+Romanian # रोमानियाई (f) (romāniyā'ī)
+Rome # रोम
+Ronald Reagan # रोनाल्ड रीगन
+roof # छत [chhat]
+rook # हाथी (m) (hāthī)
+room # कमरा [kamaraa]
+rooster # मुर्ग़ा (murǥā) (m)
+root # जड़ [jad]
+rope # रस्सी [rassee]
+Rosa Parks # रोजा पार्क्स
+rose # गुलाबी (gulābi) (pink) (g'hi)
+Rosetta Stone # रोज़ेटा शिला
+Rosh Hashanah # रौशन-शनाह
+rough  ; unsmooth # अशान्त [ashaant]
+round  ; circular # गोल [gol]
+royal  ; imperial  ; majestic  ; purple  ; regal # वैभवपूर्ण [vaibhavapoorn]
+Rubidium # रुबिडियम
+ruble # रूबल (m) (rūbal)
+Rudyard Kipling # रुडयार्ड किपलिंग
+rule  ; govern # शासन करना [shaasan karanaa]
+rule  ; regulation # नियमावली [niyamaavalee]
+rum # रम (ram)
+run # दौड़ाना [daudaanaa]
+rupee # रुपया (m) (rupyā)
+Russia # रुस
+Russia # श्रेणी:रूस
+Russian # रूसी [roosee]
+Russian Federation # रूसी महासंघ (rūsī mahāsaṅgha); रशियन फ़ेडरेशन (raśiyan feḍareśan)
+Russo-Japanese War # रूस-जापान युद्ध
+Ruthenium # रुथेनियम
+Rwanda # रवांडा
+sad # उदास [udaas]
+Saddam Hussein # सद्दाम हुसैन
+safe # सही-सलामत [sahee-salaamat]
+saffron # केसर (kesar) (f)
+Sail # पाल
+sail  ; canvas  ; canvass  ; sheet # पाल [paal]
+sailor  ; crewman # नाविक [naavik]
+Saint Kitts and Nevis # सेंट किट्स और नेविस
+Saint Petersburg # सेंट पीटर्सबर्ग (seṇṭ pīṭarsbarg)
+Saint Vincent and the Grenadines # सेंट विन्सेंट और ग्रेनाडीन्स
+Sakhalin # सखालिन (sakhālin)
+salad # सलाद [salaad]
+Saladin # सलाउद्दीन
+salary # तनख़्वाह (tanaḵẖvāha); वेतन (vētana); मासिक वेतन (māsika vētana)
+sale # बिक्री [bikree]
+saliva # लार (f) (lār); राल (f) (rāl)
+salmon # सामन (sāman)
+salt # नमक (m) (namak)
+salt  ; table salt  ; common salt # नमक [namak]
+Salt Lake City # सॉल्ट लेक सिटी, यूटा
+salty # नमकीन (namakīn)
+same # समान रूप से [samaan roop se]
+Samuel Beckett # सेम्युल बेकेट
+Samuel Taylor Coleridge # सेम्येल टेलर कोलरिज
+Samurai # सामुराई
+San Marino # सान मारिनो
+sand # रेत [ret]
+sandwich # सैंडविच [saindavich]
+Sanskrit # संस्कृत भाषा
+Santa Claus # सांता क्लॉस (m) (sāntā klŏs)
+Santiago # सेंटियागो
+Sapphire # नीलम
+Sardinia # सारडीनिया
+Sari # सारि, ईरान
+Satan # शैतान
+Satanism # शैतानी धर्म
+Satellite # उपग्रह
+Saturday # शनिश्चरवार
+Saturday  ; Sabbatum  ; Sat # शनिश्चरवार
+Saturn # शनि
+sauce # चटनी [chatanee]
+Saudi Arabia # साउदी अरब
+Saul Bellow # सौल बेल्लो
+sausage # सॉसेज (maumoja)
+save # बचाना (bacānā)
+save  ; preserve # बचाना [bachaanaa]
+save  ; salvage  ; salve  ; relieve # उबारना [ubaaranaa]
+say # कहना (kahnā)
+say  ; tell  ; state # कहना [kahanaa]
+scabbard # मियान (f) (miyān)
+scales # तराज़ू (m) (tarāzū); तुला (f) (tulā)
+Scandium # स्काण्डियम
+schizophrenia # मनोविदालिता (f)
+School # विद्यालय
+school  ; schoolhouse # विद्यालय [vidyaalay]
+Science # विज्ञान
+Science # श्रेणी:विज्ञान
+science  ; scientific discipline # विज्ञान [vigyaan]
+scientist # वैज्ञानिक [vaigyaanik]
+scissors  ; pair of scissors # कैंची
+scorpion # बिच्छू (m) (bicchū); बिच्छी (f) (bichī)
+Scotland # स्कॉटलैंड
+Screw # पेच
+scrotum # अंडकोष (m) (ãṇḍakoṣ)
+Sea # सागर
+Sears Tower # सियर्स मीनार
+Season # ऋतु
+Seattle # सीऐटल
+Second # सैकण्ड
+second  ; 2nd  ; 2d # सेकण्ड [sekand]
+second  ; sec  ; s # क्षण [kshan]
+secret # भेद [bhed]
+secret  ; clandestine  ; cloak-and-dagger  ; hole-and-corner  ; hugger-mugger  ; hush-hush  ; surreptitious  ; undercover  ; underground # छिपा हुआ [chhipaa huaa]
+secretary  ; secretarial assistant # मुंशी
+sect # मज़हब (m) (mazhab); मजहब (m) (maj'hab)
+see # देखना [dekhanaa]
+see  ; consider  ; reckon  ; view  ; regard # करार देना
+Seed # बीज
+seem # लगना (lagnā); दिखना (dikhnā)
+seldom # कभी कभी (m)
+Selenium # सेलेनियम
+sell # बेचना [bechanaa]
+semen # वीर्य (m) (vīrya); शुक्र (m) (śukra)
+send # भेजना (bhejnā)
+send  ; mail  ; post # भेजना [bhejanaa]
+Senegal # सेनेगल
+sentence # वाक्य [vaaky]
+Seoul # सियोल
+separate # अलग [alag]
+September # सितम्बर (sitambar)
+September  ; Sep  ; Sept # सितंबर [sitambar]
+September 11 # 11 सितंबर
+Serb # सर्ब (sarb)
+Serbia # सर्बिया (sarbiyā)
+Serbia and Montenegro # सर्बिया और मोंटेनीग्रो
+Serbian # सर्ब (sarb)
+Sergei Eisenstein # सेर्गे आइसेन्स्टाइन
+Series (mathematics) # श्रेणी (गणित)
+serious # विचारशील [vichaarasheel]
+servant  ; retainer # नौकर [naukar]
+service # कार्य सेवा
+set # समूह [samooh]
+set  ; laid # निश्चित [nishchit]
+Set (mythology) # सेत
+Set theory # समुच्चय सिद्धान्त
+seven # सात (sāt) (numeral: ७)
+seventeen # सत्रह (satrah)
+seventy # सत्तर (sattar)
+seventy  ; 70  ; lxx # सत्तर [sattar]
+several # अनेक [anek]
+sew  ; run up  ; sew together  ; stitch # सीना [seenaa]
+sex # मैथुन (maithun); सेक्स (seks)
+Sexual intercourse # मैथुन
+Seychelles # सेशल्स
+shadow # परछाई, छाया, मरीचिका
+shame # लज्जा (f) (lajjā); शर्म (śarm)
+Shanghai # शंघाई
+share # साझेदार [saajhedaar]
+Share (finance) # शेयर
+shark # शार्क मछली
+sharp  ; astute  ; shrewd # समझदार [samajhadaar]
+she # वह स्त्री
+sheep # भेड़ [bhed]
+shelf # ताक [taak]
+shepherd # गड़ेरिया (m) (gaṛeriyā); चूपान (m) (cūpān)
+Sheremetyevo # शेरेमेत्येवो (śērēmētyēvō)
+Sherlock Holmes # शर्लक होम्स
+Shikoku # शिकोकू
+Shinto # शिन्तो धर्म
+Ship # जलयान
+shirt # कमीज
+shit # ख़ारिज करना (xārija karnā); हगना (hagnā)
+Shiva # शिव
+shock  ; daze  ; stupor # सदमा [sadamaa]
+shoe # जूता [jootaa]
+shop # दुकान (f) (dukān); दूकान (f) (dūkān)
+shop  ; store # दुकान [dukaan]
+shore # किनारा (m) (kinārā); कनारा (m) (kanārā)
+short # छोटा [chhotaa]
+shout # चिल्लाना (cillānā)
+shout  ; shout out  ; cry  ; call  ; yell  ; scream  ; holler  ; hollo  ; squall # चिल्लाना [chillaanaa]
+show # दिखाना (dikhānā)
+show  ; demo  ; exhibit  ; present  ; demonstrate # दिखाना [dikhaanaa]
+shower # फुहार में स्नान करना
+shrine # मन्दिर (m) (mandir); दरगाह (dargāh)
+shut # बंद करना (band karnā)
+Siberia # साइबेरिया (sā'iberiyā)
+Sichuan # सीश्वान
+sick # बीमार (bīmār)
+sickle # सिकल (sikal)
+side # तरफ [taraph]
+Siemens (unit) # साइमन्स (इकाई)
+Sierra Leone # सिएरा लियोन
+Sigmund Freud # सिग्मुंड फ़्रोइड
+Sigrid Undset # सिग्रिड उंडसेट
+Sikhism # सिख धर्म
+Sikkim # सिक्किम
+silence # ख़ामोशी (f) (khāmošī)
+silence  ; quiet # शांति [shaanti]
+silent  ; soundless  ; still # शांत [shaant]
+Silicon # सिलिकॉन
+Silicon Valley # सिलिकॉन वैली
+Silk # रेशम
+Silk Road # रेशम मार्ग
+Silver # रूप्यम्
+silver  ; Ag  ; atomic number 47 # चांदी
+simple # सरल (saral); आसान (āsān)
+simple  ; elementary  ; uncomplicated  ; unproblematic # आसान [aasaan]
+simply  ; merely  ; just  ; only  ; but # केवल [keval]
+sin # पाप (m) (pāp); गुनाह (m) (gunāh); ख़ता (m) (xatā)
+since # से के बाद से
+sincere # सच्चा [sachchaa]
+Sinclair Lewis # सिंकलेर लुइस
+sing # गाना गाना [gaanaa gaanaa]
+Singapore # सिंगापुर
+singer # गायक (m) (gāyak); गायिका (f) (gāyikā)
+singer  ; vocalist  ; vocalizer  ; vocaliser # गायक [gaayak]
+single # एक [ek]
+single  ; unmarried # अविवाहित [avivaahit]
+sink # हौदी [haudee]
+sister  ; sis # बहन [bahan]
+sit # बैठना (baiṭhnā); बैठा (baiṭhā honā)
+sit  ; sit down # बैठना [baithanaa]
+sit down # बैठना (baiṭhnā)
+Sitting Bull # सिटिंग बुल
+situation  ; state of affairs # स्थिति [sthiti]
+six # छह (chah); छः (chaḥ)
+six  ; 6  ; vi  ; half dozen  ; half-dozen # छः [chhah]
+sixteen # सोलह (solah)
+sixteen  ; 16  ; xvi # सोलह [solah]
+sixty # साठ (saaTh)
+sixty  ; 60  ; lx  ; threescore # साठ [saath]
+size # आकार [aakaar]
+skilful  ; adept  ; expert  ; good  ; practiced  ; proficient  ; skillful # माहिर [maahir]
+skill  ; science # कौशल [kaushal]
+skin # त्वचा (f) (tvacā)
+skin  ; tegument  ; cutis # त्वचा
+skirt # घाघरा [ghaagharaa]
+Skopje # स्कोप्जे (skōpjē)
+skull # कपाल
+sky # आसमान [aasamaan]
+Skyscraper # गगनचुम्बी इमारत
+Slav # स्लाव (m) (slāv)
+Slavery # ग़ुलामी
+Slavic # स्लाव (slāv)
+sleep # नींद (Nīnd)
+sleep  ; slumber # सोना [sonaa]
+Slovak # स्लोवाक् (slovāk)
+Slovakia # स्लोवाकिया
+Slovakia # श्रेणी:स्लोवाकिया
+Slovene # स्लोवेनियन (sloveniyan); स्लोवेनियाई (f) (sloveniyā'ī)
+Slovenia # स्लोवेनिया
+slow # धीमा [dheemaa]
+slowly # आहिस्ता (āhistā); धीरे (dhīre); धीरे-धीरे (dhīre-dhīre)
+slowly  ; slow  ; easy  ; tardily # धीरे-धीरे [dheere-dheere]
+small # छोटा (choṭā)
+small  ; little # छोटा [chhotaa]
+smartphone # स्मार्टफ़ोन (m) (smārṭfon); स्मार्टफोन (m) (smārṭphon)
+smell # गंध (f) (gandh)
+smell  ; olfactory property  ; aroma  ; odor  ; odour  ; scent # गन्ध [gandh]
+smile # मुस्कराना [muskaraanaa]
+smile  ; smiling  ; grin  ; grinning # मुस्कान [muskaan]
+smoke # पीना (pīnā)
+smooth # चिकना [chikanaa]
+snail # घोंगा (ghõṅgā)
+Snake # सांप
+snake  ; serpent  ; ophidian # सर्प [sarp]
+sneeze # छींक (chka)
+Snow # हिमपात
+so # वैसा
+Soap # साबुन
+soccer # फ़ुटबॉल (fuṭbol); फ़ुटबाल (fuṭbāl, fuṭbol); फुटबॉल (phuṭbol)
+Sochi # सोची (sōcī)
+Socialism # समाजवाद
+Socialist Party (France) # समाजवादी दल (फ़्राँस)
+Society # समाज
+sock # मोजा [mojaa]
+Sodium # सोडियम
+sofa # सोफ़ा (m) (sofā)
+Sofia # सोफ़िया (Sofiyā)
+soft # नरम [naram]
+Solar eclipse # सूर्यग्रहण
+Solar System # सौर मंडल
+solar wind # सौर वायु (saur vāyu); सोलर विंड (solar viṇḍ)
+soldier # सैनिक [sainik]
+solid # ठोस [thos]
+Solomon Islands # सोलोमन द्वीप
+Somalia # सोमालिया
+Somerset # समरसेट
+something # कुछ (kuchh)
+sometimes # अक्सर [aksar]
+son # बेटा (m) (beṭā)
+son  ; boy # पुत्र [putr]
+song # गाना (m) (gānā)
+song  ; vocal # गाना [gaanaa]
+soon # जल्दी (jaldī)
+soon  ; shortly  ; presently  ; before long # शीघ्रता से [sheeghrataa se]
+sorry # माफ़ कीजिए
+soul # आत्मा (f) (ātmā)
+sound # घोष [ghosh]
+soup # शोरबा [shorabaa]
+sour # खट्टा (khaṭṭā)
+South # दक्षिण
+south  ; due south  ; southward  ; S # दक्षिण [dakshin]
+South Africa # दक्षिण अफ़्रीका (dakṣiṇ afrīkā)
+South America # दक्षिणी अमरीका
+South Asia # दक्षिण एशिया (n) (dakṣiṇ eśiyā)
+South Australia # साउथ आस्ट्रेलिया
+South Korea # दक्षिण कोरिया
+South Ossetia # दक्षिण ओसेटिया (dakṣiṇ oseṭiyā)
+South Sudan # दक्षिण सूडान (dakṣiṇ sūḍān)
+Southeast Asia # दक्षिण पूर्व एशिया
+Southern Ocean # दक्षिणध्रुवीय महासागर (dakṣiṇdhruvīya mahāsāgar)
+Sovereignty # सार्वभौम राष्ट्र
+Soviet # सोवियत (soviyat)
+Soviet Union # सोवियत संघ (soviyat saṅgh); सोवियत यूनियन (soviyat yūniyan)
+Soyuz # सोयुज़ (soyuz); सोयूज़ (soyūz)
+Spacecraft # अंतरिक्ष यान
+spaceship # अंतरिक्ष यान (antarikṣ yān); अंतरिक्ष-जहाज़ (antarikṣ-jahāz)
+Spain # स्पेन
+Spain # श्रेणी:स्पेन
+Spain  ; Kingdom of Spain  ; Espana # किंगडम ऑफ़ स्पेन
+Spanish # स्पैनिश
+Spanish Civil War # स्पेनी गृहयुद्ध
+Spanish-American War # स्पेन अमेरिका का युद्ध
+sparrow # गौरैया (m) (gauraiyā)
+sparse  ; thin # छितरा [chhitaraa]
+speak # बोलना (bolnā)
+special # ख़ास (xās); विशेष (viśeṣ)
+special  ; especial  ; exceptional  ; particular # विशेष [vishesh]
+specific # विशेष [vishesh]
+spectacles # ऐनक (f) (ainak); चश्मा (m) (caśma)
+speech  ; speech communication  ; spoken communication  ; spoken language  ; language  ; voice communication  ; oral communication # भाषा [bhaashaa]
+spelling # वर्तनी [vartanee]
+spend  ; pass # समय गुजारना
+Spice # मसाला
+spider # मकड़ी (f) (makṛī); मकड़ा (m) (makṛā)
+spit # थूकना (thūknā)
+spleen # तिल्ली
+spoon # चम्मच [chammach]
+sport # वर्ज़िश (f) (varziś); खेल (m) (khel); खेल-कूद (m) (khel-kūd)
+spring # स्प्रिंग [spring]
+spring  ; fountain  ; outflow  ; outpouring  ; natural spring # सोता
+spring  ; springtime # वसन्त [vasant]
+Spring (season) # वसन्त ऋतु
+spy # जासूस (m) (jāsūs)
+square # वर्गाकार [vargaakaar]
+square  ; foursquare # वर्ग [varg]
+Square (geometry) # वर्गाकार
+Sri Lanka # श्रीलंका
+Sri Lanka # श्रेणी:श्रीलंका
+staff # स्टाफ [staaph]
+stage # मंच [manch]
+Stalin # स्टालिन (sṭālin)
+stamp # मोहर [mohar]
+stamp  ; postage  ; postage stamp # डाक शुल्क
+stand # खड़ा होना (khaṛā honā)
+stand  ; stand up # खड़ा रहना [khadaa rahanaa]
+standard # सामान्य [saamaany]
+standard  ; criterion  ; measure  ; touchstone # कसौटी [kasautee]
+star # तारा [taaraa]
+state # अवस्था [avasthaa]
+state # सार्वभौमिक राष्ट्र
+statement # (varnana)
+station # केन्द्र [kendr]
+Statistics # सांख्यिकी
+statue # प्रतिमा (pratimā)
+stay # ठहरना (ṭhaharnā); रहना (rahnā)
+stay  ; remain  ; rest # बने रहना [bane rahanaa]
+steak # स्टेक (sṭek)
+steal # चोरी करना [choree karanaa]
+steam # भाप [bhaap]
+Steam engine # भाप का इंजन
+steel # इस्पात [ispaat]
+Steffi Graf # स्टेफी ग्राफ
+stem  ; stalk # डंठल [danthal]
+step  ; footstep  ; pace  ; stride # कदम [kadam]
+step  ; stair # कार्य [kaary]
+Steven Spielberg # स्टीवेन स्पीलबर्ग
+stick # लकड़ी [lakadee]
+sticky  ; gluey  ; glutinous  ; gummy  ; mucilaginous  ; pasty  ; viscid  ; viscous # चिपचिपा [chipachipaa]
+still # अभी तक [abhee tak]
+stitch # टांका
+stock exchange # शेयर बाजार (śēyar bājār)
+Stockholm # स्टॉकहोम
+stomach # पेट (m) (pēṭ)
+stomach  ; tummy  ; tum  ; breadbasket # आमाशय
+stone # पत्थर (m) (patthar)
+stone  ; rock # पत्थर [patthar]
+Stone Age # पाषाण युग
+stop # रुकना (ruknā)
+stop  ; halt # बंद कर देना [band kar denaa]
+storm  ; violent storm # तूफान [toophaan]
+story # कहानी (f) (kahāni)
+straight # सीधा [seedhaa]
+Strait of Gibraltar # जिब्राल्टर जलसन्धि
+Strait of Hormuz # होर्मुज जलसन्धि
+Strait of Magellan # मैगेलन जलसन्धि
+Strait of Messina # मेसिना जलसन्धि
+Straits # श्रेणी:विश्व की प्रमुख जलसन्धियाँ
+strange # अजीब (ajīb)
+strange  ; unusual # असामान्य [asaamaany]
+Strasbourg # स्ट्रासबर्ग
+strawberry # हिसालू [hisaaloo]
+stream  ; flow  ; current # धारा [dhaaraa]
+street # स्ट्रीट का संक्षेप
+strength # शक्ति (f) (śakti); ज़ोर (m) (zor)
+strength  ; force  ; forcefulness # बल [bal]
+string # तार (tāra)
+Stroke # पक्षाघात
+strong # तेज [tej]
+Strontium # स्ट्रोन्सियम
+structure  ; construction # निर्माण [nirmaan]
+student # विद्यार्थि (m); छात्र (m)
+student  ; pupil  ; educatee # छात्र [chhaatr]
+study # पढ़ना
+stupid # मूर्ख [moorkh]
+style # ढंग [dhang]
+stylish  ; fashionable # फैशनेबुल [phaishanebul]
+subject  ; topic  ; theme # प्रजा [prajaa]
+Submarine # पनडुब्बी
+Subversion (software) # सबवर्ज़न
+subway  ; metro  ; tube  ; underground  ; subway system # सुरंग-रेल [surang-rel]
+such # ऐसा [aisaa]
+suck # चूसना (cūsnā)
+Sudan # सूडान
+sudden # अचानक [achaanak]
+suddenly # अचानक (acānak)
+suddenly  ; all of a sudden  ; of a sudden # अचानक (achānak)
+Sudoku # सु डोकु
+Suez Canal # नहर सूएज़ (nahar sū'ēz)
+Suffix # प्रत्यय
+Sufism # सूफ़ीवाद
+sugar # चीनी (f) (cīnī); शर्करा (f) (śarkarā); शक्कर (f) (śakkar)
+sugar  ; refined sugar # चीनी [cheenee]
+sugar cane # ईख (m) (īkh); ऊख (m) (ūkh)
+suggest  ; propose  ; advise # प्रस्ताव रखना या करना
+suggestion  ; proposition  ; proffer # प्रस्ताव [prastaav]
+Suharto # सुहार्तो
+suitcase # सूटकेस (sūṭkēs)
+suitcase  ; bag  ; traveling bag  ; travelling bag  ; grip # सूटकेस [sootakes]
+Sukarno # सुकर्णो
+Sulfur # गन्धक
+Sulfur dioxide # सल्फर डाइआक्साइड
+Sumatra # सुमात्रा
+Sumer # सुमेर
+Summer # ग्रीष्म ऋतु
+summer  ; summertime # ग्रीष्म
+Sun # सूर्य
+sun  ; Sun # सूरज [sooraj]
+Sunday # रविवार
+Sunday  ; Lord's Day  ; Dominicus  ; Sun # रविवार [ravivaar]
+sunflower # सूर्यमुखी (f) (sūryamukhī); सूरजमुखी (f) (sūrajmukhī)
+Sunni Islam # सुन्नी
+Superconductivity # अतिचालकता
+supply  ; provide  ; render  ; furnish # आवश्यक सामग्री देना
+support # आधार [aadhaar]
+support  ; back up # समर्थन करना [samarthan karanaa]
+Sura # सूरा
+surely  ; certainly  ; sure  ; for sure  ; for certain  ; sure enough  ; sure as shooting # निश्चित रूप से [nishchit roop se]
+surface # ऊपरी तल
+Suriname # सूरिनाम
+surname # कुलनाम (m) (kulnām); कुल नाम (m) (kul nām)
+surprise # आश्चर्य [aashchary]
+surprise # आश्चर्यचकित करना [aashcharyachakit karanaa]
+Surrey # सरी
+survive  ; last  ; live  ; live on  ; go  ; endure  ; hold up  ; hold out # जीवित रहना [jeevit rahanaa]
+Swahili # स्वाहिली (f) (svāhīlī)
+swallow # निगलना (nigalnā)
+swan # हंस (haṅs) (m)
+swastika # स्वस्तिक (m) (svastik)
+Swaziland # स्वाजीलैंड
+sweat # पसीना आना (pasīnā ānā)
+Sweden # स्वीडन
+Swedish # स्वीडिश (svīḍiś)
+sweet # मीठा [meethaa]
+sweet  ; sweetness  ; sugariness # मीठापन [meethaapan]
+sweet potato # शकरकन्द (m) (śakarkand)
+swim # तैरना (tairnā)
+swimming pool # स्विमिंग पूल (svimiṅg pūl)
+Switzerland # स्विट्ज़रलैंड
+sword # तलवार; शमशेर (śamśer)
+Sydney # सिडनी
+Synagogue # यहूदी मंदिर
+synonym # पर्याय (m) (paryāy)
+Syria # सीरिया
+syringe # सुई (f) (su'ī)
+System # तंत्र
+system  ; scheme # निकाय [nikaay]
+T. S. Eliot # टी एस एलियट
+table # मेज [mej]
+table  ; tabular array # सारणी [saaranee]
+Table tennis # टेबल टेनिस
+tadpole # इल्ली (g'hi)
+tail # पिछला हिस्सा [pichhalaa hissaa]
+tailor # दर्ज़ी (m) (darzī)
+Taipei # ताइपे
+Taiwan # ताइवान
+Taj Mahal # ताजमहल
+Tajikistan # ताजिकिस्तान (m) (tājikistān)
+take # लेना (lenā)
+take  ; get hold of # लेना [lenaa]
+Taliban # तालेबान आन्दोलन
+talk # बात करना (bāt karnā); बोलना (bolnā)
+talk  ; speak  ; utter  ; mouth  ; verbalize  ; verbalise # कहना [kahanaa]
+tall # लम्बा [lambaa]
+Tallinn # ताल्लिन
+Tamil Nadu # तमिल नाडु
+tank # टैंक (ṭaink)
+Tanzania # तंज़ानिया
+Taoism # ताओ धर्म
+Tasmania # टासमानिया
+taste # स्वाद (m) (swād)
+taste  ; gustation  ; sense of taste  ; gustatory modality # स्वाद [svaad]
+tattoo # गोदना (godnā)
+tax  ; taxation  ; revenue enhancement # कर [kar]
+taxi # टैक्सी (ṭaiksī)
+Tbilisi # थ्बिलीसी
+Tea # चाय
+teach # सिखाना (sikhānā); शिक्षा देना (śikṣā denā); पढ़ाना (paṛhānā)
+teach  ; learn  ; instruct # शिक्षा देना [shikshaa denaa]
+teacher # अध्यापक (m) (adhyāpak); अध्यापिका (f) (adhyāpikā); टीचर (m) (ṭīcar); शिक्षक (m) (śikṣak); गुरु (m) (guru)
+teacher  ; instructor # शिक्षक [shikshak]
+team  ; squad # टीम [teem]
+tear # आँसू (m) (ā̃sū)
+Technetium # टेक्निशियम
+Technology # तकनीकी
+technology  ; engineering # प्रौद्योगिकी [praudyogikee]
+Tehran # तेहरान
+Tel Aviv # तेल अवीव (tel avīv)
+Telecommunication # दूरसंचार
+telephone # फ़ोन करना (fōn karnā)
+Telescope # दूरदर्शी
+Television # दूरदर्शन
+television  ; tv set  ; television receiver  ; television set  ; tv  ; idiot box  ; boob tube  ; telly  ; goggle box # टेलीविजन
+television camera  ; tv camera  ; camera # कैमरा [kaimaraa]
+Tellurium # टेलुरियम
+Telugu # तेलुगू (telugu); तेलुगु भाषा (telugu bhāṣā)
+Temperature # तापमान
+Temple # मन्दिर
+ten # दस (das) (numeral: १०)
+ten  ; 10  ; x # दस (das)
+Tennessee # टेनेसी
+Tennis # टेनिस
+tennis  ; lawn tennis # टेनिस [tenis]
+tent # ख़ैमा (<u>kh</u>éma) (m)
+territory # प्रदेश (m) (pradēśa)
+terrorism # आतंकवाद (m) (ātaṅkvād)
+terrorist # आतंकवादी (ātaṅkavādī)
+test  ; prove  ; try  ; try out  ; examine  ; essay # जांच करना [jaanch karanaa]
+Texas # टेक्सास
+text # पाठ (pāṭh)
+textbook # पाठ्यपुस्तक (pāṭhyapustak)
+Thai # थाई (thā'ī)
+Thailand # थाईलैंड
+Thames # टेम्स (ṭems)
+than # से [se]
+thank  ; give thanks # धन्यवाद देना [dhanyavaad denaa]
+thank you # धन्यवाद (dhanyavād); शुक्रिया (śukriyā); थैंक्यू (thaiṅkyū)
+thank you very much # बहुत बहुत धन्यवाद
+thanks # धन्यवाद (dhanyavād); शुक्रिया (shukriyā); (thaiṅks)
+the # ''not used''
+The Gambia # गाम्बिया
+The Hague # हेग (hēg)
+theater  ; theatre  ; house # रंगशाला [rangashaalaa]
+theft # चोरी (f) (ćorī)
+their # उनका
+them # उन्हें [unhen]
+then # तो (to)
+then  ; so  ; and so  ; and then # तब [tab]
+Theocracy # धर्मतंत्र
+Theodor Mommsen # थियोडोर मोम्मसेन
+Theodore Roosevelt # थियोडोर रोज़वेल्ट
+theology # धर्ममीमांसा (dharmamīmānsā); धर्मशास्त्र (dharmaśāstra)
+Theorem # प्रमेय
+theory # सिद्धांत [siddhaant]
+Theory of relativity # सापेक्षिकता का सिद्धांत
+Theravada # थेरवाद
+there # वहाँ (vahā̃)
+there is # है (... hai); हैं (... h͠ai)
+therefore # इसलिए (isli'e); इसलिये (isli'e)
+therefore  ; hence  ; thence  ; thus  ; so # इसलिए [isalie]
+Thermodynamics # उष्मागतिशास्त्र
+they # वे [ve]
+thick # घन [ghan]
+thief # चोर (m) (ćor)
+thimble # टोप
+thin # पतला [patalaa]
+thing # वस्तू (vastū) ; चीज़ (chīz)
+think # सोचना (socnā)
+third # तीसरा (tīsrā)
+third  ; 3rd  ; tertiary # तीन [teen]
+thirst # प्यास (f) (pyās)
+thirsty # प्यासा [pyaasaa]
+thirteen # तेरह् (terah) (numeral: १३)
+thirteen  ; 13  ; xiii # तेरह [terah]
+thirty # इकतीस (iktīs); इकत्तीस (ikattīs)
+thirty  ; 30  ; xxx # तीस [tees]
+this # यह
+thither # उधर (udhar)
+Thomas Aquinas # थामस एक्विनास
+Thomas Mann # थामस मान
+Thorium # थोरियम
+thorn # काँटा (m) (kāṅṭā)
+Thoth # थोथ
+thou # तुम (tum); तू (tū)
+thousand # हज़ार (m) (hazār); सहस्र (sahasra); १०००
+thousand  ; one thousand  ; 1000  ; m  ; k # हजार [hajaar]
+thousand  ; one thousand  ; 1000  ; M  ; K  ; chiliad  ; G  ; grand  ; thou  ; yard # हजार [hajaar]
+three # तीन (tīn) (numeral: ३)
+three  ; 3  ; iii # तीन [teen]
+throat # गला (m) (galā)
+throat  ; pharynx # गला [galaa]
+throw # फेंकना [phenkanaa]
+throw # फेंकना [phenkanaa]
+Thumb # अंगुष्ठ
+thumb  ; pollex # अंगूठा
+thunder # गड़गड़ाहट बिजली की
+Thursday # गुरूवार (gurūvār); बृहस्पतिवार (brhaspativār)
+Thursday  ; Th # गुरुवार [guruvaar]
+Tianjin # तिआंजिन
+Tiberius # टैबीरियस
+Tibet # तिब्बत
+ticket # टिकट [tikat]
+Tide # ज्वार-भाटा
+tie  ; necktie # टाई [taaee]
+tiger # बाघ (m); (m)
+tight # मजबूत [majaboot]
+Time # काल
+time  ; fourth dimension # कुछ समय तक
+Time zone # समय मण्डल
+Timur # तैमूरलंग
+Tin # त्रपु
+tired # थका हुआ [thakaa huaa]
+Titanium # टाइटानियम
+title  ; entitle # उपाधि देना [upaadhi denaa]
+to # को
+toad # भेक (bhēk)
+today # आज [aaj]
+together # एक साथ [ek saath]
+Togo # टोगो
+toilet # शौचालय (m) (śaucālay); टॉयलेट (m) (ṭoylēṭ)
+toilet  ; lavatory  ; lav  ; can  ; john  ; privy  ; bathroom # शौचालय [shauchaalay]
+Tokyo # टोक्यो
+Tomato # टमाटर
+tomorrow # कल आने वाला
+tongue # जीभ (jībh) (f), ज़बान (zabān) (f)
+tongue  ; lingua  ; glossa  ; clapper # जीभ [jeebh]
+Toni Morrison # टोनी मारिसन
+tonight # आज रात को (āj rāt ko)
+tonight  ; this evening  ; this night # आज की रात [aaj kee raat]
+Tony Blair # टोनी ब्लेयर
+too # बहुत (bahut)
+too  ; besides  ; also  ; likewise  ; as well # भी [bhee]
+tooth # दांत [daant]
+top  ; peak  ; summit  ; acme  ; height  ; elevation  ; pinnacle  ;  superlative  ; meridian  ; tiptop # दूरी [dooree]
+torch # मशाल (maśāl); टार्च (m) (ṭārc)
+tornado # तूफान (tūphān)
+total  ; sum  ; amount # रकम [rakam]
+touch # छूना (chūnā)
+touch  ; touching # स्पर्श [sparsh]
+Toulon # तुलों
+Toulouse # तुलूज़
+Tour de France # टुअर दि फ़्राँस
+Tourism # पर्यटन
+Tower of London # टावर ऑफ़ लंदन
+Town # शहर
+toy # खिलौना (m) (khilaunā)
+trace  ; draw  ; line  ; describe  ; delineate # चित्र बनाना [chitr banaanaa]
+track  ; rail  ; rails  ; runway # पटरी [pataree]
+Tractor # ट्रैक्टर
+trade # व्यापार [vyaapaar]
+trade  ; merchandise # व्यापार करना [vyaapaar karanaa]
+Train # रेलगाडी
+train  ; develop  ; prepare  ; educate # शिक्षा देना [shikshaa denaa]
+train  ; railroad train # रेलगाड़ी [relagaadee]
+training  ; preparation  ; grooming # प्रशिक्षण [prashikshan]
+tram # ट्राम (f) (ṭrām)
+Transformer # ट्रान्सफार्मर
+Transistor # ट्रांज़िस्टर
+translate # अनुवाद करना (anuvād karnā)
+translation # अनुवाद (m) (anuvād)
+translator # अनुवादक (m) (anuvādak)
+Transliteration # लिप्यन्तरण
+Transnistria # ट्रान्सनिस्ट्रिया (m) (ṭrānsnisṭriyā)
+transparent # पारदर्शक; पारदर्शी; स्वच्छ; शुद्ध
+transport  ; shipping  ; transportation # यातायात [yaataayaat]
+Transportation # श्रेणी:यातायात
+travel # यात्रा करना (yātrā karnā)
+travel  ; go  ; move  ; locomote # जाना [jaanaa]
+treasure # खजाना (khajānā)
+treat  ; care for # व्यवहार करना [vyavahaar karanaa]
+treatment  ; handling # बर्ताव [bartaav]
+tree # पेड़ [ped]
+trend  ; tendency # प्रवृति [pravruti]
+triangle # त्रिकोण (trikōṇ)
+trick # ट्रिक
+Trigonometry # त्रिकोणमिति
+Trinidad # ट्रिनिडाड
+Trinidad and Tobago # ट्रिनिडाड और टोबागो
+Trojan War # ट्रॉय का युद्ध
+Tropic of Cancer # कर्क रेखा
+trouble  ; problem # परेशानी [pareshaanee]
+Truck # ट्रक
+trumpet # तुरही (turahī)
+truth # सच (m) (sac)
+try # कोशिश करना (kośiś karnā)
+try  ; seek  ; attempt  ; essay  ; assay # प्रयास करना [prayaas karanaa]
+tsar # ज़ार (m) (zār); त्सार (m) (tsār)
+Tsunami # सूनामी
+Tuberculosis # तपेदिक
+Tuesday # मंगलवार
+Tuesday  ; Tues # मंगलवार [mangalavaar]
+tulip # ट्यूलिप (t'yūlip)
+Tunisia # टुनिशिया
+turban # पगड़ी (f) (pagr.ī); उश्णीष (m) (uśṇīṣ)
+Turin # टोरीनो
+Turkey # तुर्की
+Turkmenistan # तुर्कमेनिस्तान (m) (turkamenistān)
+Turmeric # हल्दी
+turn # घुमाना [ghumaanaa]
+twelve # बारह (bārah) (numeral: १२)
+twenty # उनतीस (untīs)
+twin # जुड़वाँ (m) (juṛvā̃); यमज (yamaj)
+two # दो (do)
+two  ; 2  ; ii # दो (do)
+Tycho Brahe # टैको ब्राहे
+type # प्रकार [prakaar]
+typhoon # आंधी (āndhī); तूफ़ान (m) (tūfān)
+udder # थन (than)
+Uganda # युगांडा
+ugly # कुरूप [kuroop]
+Ukraine # उक्राइना
+Ukrainian # यूक्रेनी (f) (yūkrenī); यूक्रेनियन (yūkreniyan)
+Ultraviolet # पराबैंगनी
+Ulyanovsk # उल्यानोव्स्क (ulyānovsk)
+umbrella # छाता (m) (chātā)
+uncle # चाचा (m) (cācā); ताया (m) (tāyā); मामा (māmā); अंकल (m) (aṅkal)
+under  ; nether # नीचे [neeche]
+understand # समझना [samajhanaa]
+unemployment # बेरोज़गारी (f) (berozgārī); बेकारी (f) (bekārī)
+union # मेल [mel]
+unit  ; unit of measurement # इकाई [ikaaee]
+United Arab Emirates # संयुक्त अरब इमारात
+United Kingdom # संयुक्त राजशाही (ब्रिटेन)
+United Kingdom # श्रेणी:संयुक्त राजशाही
+United Kingdom  ; UK  ; U.K.  ; Britain  ; United Kingdom of Great Britain and Northern Ireland  ; Great Britain # संयुक्त राजशाही
+United Nations # संयुक्त राष्ट्र
+United States # संयुक्त राज्य अमेरिका
+United States  ; United States of America  ; America  ; the States  ; US  ; U.S.  ; USA  ; U.S.A. # संयुक्त राज्य अमेरिका
+United States dollar # अमरीकी डॉलर
+United States of America # संयुक्त राज्य अमरीका (sanyukta rājya amrīkā); संयुक्त राष्ट्र अमरीका (sanyukta rāṣṭra amrīkā)
+United States Virgin Islands # सं. रा. वर्जिन द्वीप-समूह
+Universe # ब्रह्माण्ड
+University # विश्वविद्यालय
+until # तक [tak]
+unusual # असामान्य [asaamaany]
+Upanishad # उपनिषद् सूची
+Ural Mountains # यूराल
+Uranus # इन्द्र (m) (Indra); अरुण (m) (Aruṇa)
+Urdu # उर्दू भाषा
+urethra # मूत्रमार्ग (mūtramārg)
+urine # पेशाब (m) (peśāb); मूत (m) (mūt); मूत्र (m) (mūtra)
+us # हमें [hamen]
+USA # अमेरिका (amērikā)
+use # इस्तेमाल करना (istemāl karnā)
+use  ; usage  ; utilization  ; utilisation  ; employment  ; exercise # प्रयोग [prayog]
+use  ; utilize  ; utilise  ; apply  ; employ # प्रयोग में लाना [prayog men laanaa]
+useful # upayogi
+user # उपभोक्ता [upabhoktaa]
+USSR # सोवियत संघ (soviyat saṅgh); सोवियत यूनियन (soviyat yūniyan)
+usual  ; common # सार्वजनिक [saarvajanik]
+usually  ; normally  ; unremarkably  ; commonly  ; ordinarily # लम्ब रूम में
+Utah # यूटा
+Uterus # गर्भ
+Uttar Pradesh # उत्तर प्रदेश
+Uzbekistan # उज़्बेकिस्तान
+vagina # यॊऩि (yoṉi); (bura)योनि (f) (yoni); चूत (f) (cūt)
+Valence # वलांस
+Valentine's Day # वैलेंटाइन्स दिवस
+valley # घाटी (f) (ghāṭī); वादी (f) (vādī)
+value # मूल्य [mooly]
+Vanadium # वनडियम
+various  ; diverse # भिन्न-भिन्न
+Vatican City # वैटिकन शहर
+Vector (spatial) # सदिश राशि
+vegetable # सब्ज़ी (f) (sabzī)
+Vegetarianism # शाकाहार
+Velocity # वेग
+Venezuela # वेनेज़ुएला (venezu'elā)
+Venice # वेनिस
+Venus # वीनस
+verb # क्रिया
+Vermont # वर्मांट
+Verona # वेरोना
+vertebrate # कशेरुकी जीव
+very # बहुत (bahut)
+very  ; really  ; real  ; rattling # यथार्थ में
+Victor Hugo # विक्टर ह्यूगो
+Victoria (Australia) # विक्टोरिया (ऑस्ट्रेलिया)
+victory # विजय (vijay); ज़फ़र (m) (zafar)
+Victory Day # विजय दिवस ( vijay divas)
+Vienna # वियना
+Vietnam # वियतनाम
+Vietnam War # वियतनाम युद्ध
+Vietnamese # वियतनामी (f) (viyatnāmī)
+Viking # वाइकिंग
+village # गांव (m) (gānv)
+Vilnius # विनियस (viniyas)
+violent # हिंसात्मक [hinsaatmak]
+violet  ; purple  ; purplish # बैगनी
+Violin # वायलिन
+Virgil # वर्जिल
+virgin # कुँआरी (kunvārī); कुंवारी (kunvārī)
+Virgo (constellation) # कन्या
+Virus # वायरस
+visa # वीज़ा (m) (vīzā); (m) (vījā)वीसा (m) (vīsā)
+Vishnu # विष्णु
+visit # मुलाकात [mulaakaat]
+visit  ; see # देखने जाना [dekhane jaanaa]
+Vittorio De Sica # वित्तोरियो दे सिका
+Vladimir # व्लादिमिर (vlādimir)
+Vladimir Lenin # व्लाडिमिर लेनिन
+Vladimir Nabokov # व्लदीमिर नाबोकोव
+Vladimir Putin # व्लादिमीर पुतिन
+vodka # वोदका (f) (vodkā); वोडका (f) (voḍkā)
+vogue  ; trend  ; style # फैशन [phaishan]
+voice  ; vocalization  ; vocalisation  ; vocalism  ; phonation  ; vox # आवाज [aavaaj]
+Volcano # ज्वालामुखी
+Volga # वोल्गा (volgā)
+volleyball # वॉलीबॉल (volībol)
+volt # वोल्ट (vālṭ)
+Volume # आयतन
+Voodoo # वूडू
+Vowel # स्वर वर्ण
+Vulcan (mythology) # वुल्कन
+vulva # rrtr (f)
+wage # तनख़्वाह (tanaḵẖvāha); वेतन (vētana); मासिक वेतन (māsika vētana)
+wages  ; reward  ; payoff # पारितोषिक [paaritoshik]
+wait # इंतज़ार करना (intazār karnā)
+wait  ; hold off  ; hold back # प्रतीक्षा करना [prateekshaa karanaa]
+waiter # वेटर (m) (vēṭar)
+waitress # वेट्रेस (f) (vēṭrēs)
+wake up # जागना (jāgnā)
+Wales # वेल्स
+walk # टहलाना [tahalaanaa]
+wall # दीवार [deevaar]
+walnut # अखरोट (akhro.t) (m)
+walrus # वालरस (vālras)
+Walt Disney # वाल्ट डिज्नी
+want # चाहना (cāhnā)
+War # संग्राम
+warm # गरम [garam]
+Warsaw # वारसॉ (vārso)
+wart # मस्सा (massā)
+wash # धोना (dhonā)
+wash  ; launder # धोना [dhonaa]
+Washington # डिस्ट्रिक्ट ऑफ कोलंबिया
+Washington # वाशिंगटन
+waste  ; waste material  ; waste matter  ; waste product # कचरा [kacharaa]
+watch # घड़ी (f) (ghaṛī)
+watch  ; see  ; view  ;  catch  ; take in # दृष्टि डालना [drushti daalanaa]
+watch  ; ticker # घड़ी [ghadee]
+Water # पानी
+water  ; H2O # पानी [paanee]
+Waterfall # झरना
+Watermelon # तरबूज
+watt # वॉट (voṭ); वाट (vāṭ)
+Watt-hour # वॉट-आवर
+wave # लहर (f) (lahar)
+wave  ; moving ridge # लहर [lahar]
+wax # मोम (mom)
+way # तरह (f) (tarah)
+we # हम [ham]
+weak # कमजोर [kamajor]
+Weapon # शस्त्र
+wear # कमजोरी [kamajoree]
+wear  ; have on # पहनना [pahananaa]
+Weather # मौसम
+weather  ; weather condition  ; conditions  ; atmospheric condition # मौसम [mausam]
+Web page # जालपृष्ठ
+web site # वेब साइट (vēb sā'iṭ); वेबसाइट (vēbsā'iṭ); साइट (sā'iṭ)
+wedding  ; marriage  ; marriage ceremony # शादी [shaadee]
+Wednesday # बुधवार
+Wednesday  ; Midweek  ; Wed # बुधवार [budhavaar]
+Week # सप्ताह
+week  ; calendar week # सप्ताह [saptaah]
+weekend # सप्ताहांत [saptaahaant]
+weigh # वजन [vajan]
+Weight # भार
+welcome # स्वागतम (svāgatam); स्वागत है (svāgat hai)
+well # कुंआं
+well  ; good # सही [sahee]
+Wellington # वेलिंग्टन
+west  ; due west  ; westward  ; W # पश्चिम [pashchim]
+West Bengal # पश्चिम बंगाल
+West Sussex # वेस्ट ससेक्स
+Western Australia # वेर्स्टन आस्ट्रेलिया
+wet # गीला [geelaa]
+whale # व्हेल (vhel); ह्वेल (hvel); ह्वेल मछली (hvel machlī)
+what # क्या [kyaa]
+what time is it # समय क्या है (samay kyā hai?); कितने बजे हैं (kitne baje h͠ai?); टाइम क्या है (ṭā'im kyā hai?)
+Wheat # गेहूँ
+Wheel # चक्र
+when # जब [jab]
+where # जहाँ (jahā̃)
+where is the toilet # जहां शौचालय है? (jahā̃ śaucālaya hai?); टॉयलेट कहाँ है (ṭoylēṭ kahā̃ hai?)
+which # जो (jo)
+while  ; piece  ; spell  ; patch # समय [samay]
+whip # कोड़ा [kodaa]
+whiskey # व्हिस्की (f) (whiskī)
+white # सफेद [saphed]
+White House # व्हाइट हाउस (vhā'iṭ hā'us)
+White Sea # सफ़ेद सागर (m) (safed sāgar)
+who # कौन [kaun]
+whole # पूरा [pooraa]
+whole # सम्पूर्ण [sampoorn]
+whom # जिसको
+whore # वेश्या
+whose # किसका
+why # क्यों [kyon]
+wide # चौड़ा (cauṛā)
+wide  ; broad # विस्तृत [vistrut]
+widow # विद्वा (vidva)
+wife # पत्नी (f) (patnī); बीवी (f) (bīvī)
+wife  ; married woman # पत्नी [patnee]
+Wikipedia # विकिपीडिया (vikipīḍiyā)
+Wiktionary # विक्षनरी (vikśanrī)
+Wiktionary:Usability/flag # झंडा
+will # इच्छा [ichchhaa]
+will  ; testament # विधान [vidhaan]
+will you marry me # क्या तुम मुझसे शादी करोगी (kyā tum mujhsē śādī karōgī?)
+William Butler Yeats # विलियम बटलर येट्स
+William Faulkner # विलियम फाकनर
+William Gladstone # विलियम ग्लाडस्टोन
+William Golding # विलियम गोल्डिंग
+William Howard Taft # विलियम टाफ्ट
+William II # कैसर विल्हेम द्वितीय (जर्मनी)
+William McKinley # विलियम मकिन्ली
+William Shakespeare # विलियम शेक्सपीयर
+William Shockley # विलियम शोक्ली
+William Wordsworth # विलियम वर्ड्सवर्थ
+win # जीत [jeet]
+win # जीतना [jeetanaa]
+wind # हवा (f) (havā)
+wind  ; air current  ; current of air # हवा [havaa]
+window # खिड़की [khidakee]
+wine # शराब (f) (śarāb); वाइन (vā'in); मद्य (madya)
+wine  ; vino # अंगूरी शराब
+wing # पंख [pankh]
+Winston Churchill # विंस्टन चर्चहिल
+Winter # शीत ऋतु
+winter  ; wintertime # जाड़ा [jaadaa]
+wipe # मिटाना (miṭānā)
+wire # तार [taar]
+Wisconsin # विस्कांसिन
+wise # अक्लमंद [aklamand]
+wish # चाहना [chaahanaa]
+wish  ; wishing  ; want # आवश्यकता [aavashyakataa]
+with # साथ से
+with # साथ से
+without # के रहित
+wolf # भेड़िया (m) (bheṛiyā)
+Wolfgang Amadeus Mozart # वोल्फ़गांक आमडेयुस मोत्सार्ट
+Wolfgang Pauli # वुल्फगांग पौली
+Woman # नारी
+woman  ; adult female # औरत [aurat]
+womb # गर्भ (m) (garbh)
+wood # लकड़ी [lakadee]
+Woodrow Wilson # वूड्रो विलसन
+wool # ऊन
+Worcestershire # वॉस्टरशायर
+word # शब्द [shabd]
+work # काम [kaam]
+worker # मजदूर [majadoor]
+world # धरती [dharatee]
+World Bank # विश्व बैंक
+World Health Organization # विश्व स्वास्थ्य संगठन
+World Trade Organization # विश्व व्यापार संगठन
+World war # विश्वयुद्ध
+World War I # प्रथम विश्वयुद्ध
+World War II # द्वितीय विश्वयुद्ध
+World Wide Web # विश्व व्यापी वेब
+worm # कीड़ा (m) (kīṛā)
+wrist # कलाई (f) (kalā'ī)
+write # लिखना [likhanaa]
+writer # लेखक (m) (lekhak); लेखिका (f) (lekhikā)
+writer  ; author # लेखक [lekhak]
+writing # लेखन [lekhan]
+Writing system # लिपि
+wrong # ग़लत (ġalat)
+wrong  ; incorrect # अशुद्ध [ashuddh]
+Xenon # ज़ेनान
+xenophobia # अज्ञातव्यक्तिभीति (f) (agyātavyaktibhīti)
+Xinjiang # शिंज्यांग
+X-ray # एक्स किरण
+Yalta # याल्टा (yālṭā)
+Yangon # यांगून
+Yangtze # चांग ज्यांग (jyāṅg cāṅg)
+Yangtze River # चांग ज्यांग
+Yaroslavl # यारोस्लाव्ल (yāroslāvl); यारोस्लाव (yāroslāv)
+Yasser Arafat # यासिर अराफ़ात (फिलिस्तीनी नेता)
+yawn # जंभना (jambhanā)
+yeah # हाँ (hā̃)
+year # साल (m) (sāl); वर्ष (m) (varṣ, varṣa); सन (m) (san)
+year  ; twelvemonth  ; yr # वर्ष [varsh]
+yeast # ख़मीर (m) (xamīr)
+Yekaterinburg # येकातेरिनबर्ग (m) (yekāterinbarg)
+Yellow # पीला
+yellow  ; yellowish  ; xanthous # पीला [peelaa]
+Yellow River # ह्वांगहो
+Yemen # यमन
+yes # हां [haan]
+yesterday # कल (kal)
+Yiddish # यहूदी (yahūdī)
+Yoga # योग
+yoghurt # दही (dahī)
+Yom Kippur # योम किपुर
+you # तू (tū); तुम (tum); आप (āp)
+young # जवान (javān)
+young  ; immature # युवक [yuvak]
+your # आपका (āpka)
+you're welcome # कुछ नहीं
+yourself # तुम [tum]
+youth # जवानी (f) (javānī)
+Yttrium # इत्रियम
+Yugoslavia # यूगोस्लाविया (yūgōslāviyā)
+Yunnan # यून्नान
+Zachary Taylor # ज़ेकरी टेलर
+Zagreb # ज़ाग्रेब
+Zambia # ज़ाम्बिया
+zero # शून्य (m) (śūnya); (sifar)
+Zeus # ज़्यूस
+Zimbabwe # ज़िम्बाबवे
+Zinc # जस्ता
+zip fastener # ज़िपर (zipar)
+Zirconium # जर्कोनियम
+Zoology # प्राणी विज्ञान
+Zoology # श्रेणी:पशु विज्ञान
+Zoroaster # ज़रथुश्त्र
+Zoroastrianism # पारसी धर्म
+Zürich # ज़्यूरिख़ (zyūrix)

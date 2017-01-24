@@ -1,0 +1,1441 @@
+April  ; Apr	अप्रैल [aprail]	time
+August  ; Aug	अगस्त [agast]	time
+China  ; People's Republic of China  ; mainland China  ; Communist China  ; Red China  ; PRC  ; Cathay	चीन [cheen]	country
+Chinese	चीनी [cheenee]	language
+Czech Republic	चेक गणराज्य	country
+December  ; Dec	दिसम्बर	time
+Earth  ; earth  ; world  ; globe	पृथ्वी [pruthvee]	geography
+English  ; English language	अंग्रेज़ी	language
+February  ; Feb	फ़रवरी	time
+France  ; French Republic	फ़्रांस गणराज्य	country
+French	फ़्रेंच	language
+Friday  ; Fri	शुक्रवार [shukravaar]	time
+German  ; High German  ; German language	जर्मन [jarman]	language
+Germany  ; Federal Republic of Germany  ; Deutschland  ; FRG	जर्मनी संघीय गणराज्य	country
+Hindi	हिंदी [hindee]	language
+I don't know	मुझे पता नहीं	conversation
+India  ; Republic of India  ; Bharat	भारत गणराज्य	country
+Italian	इतालवी	language
+Italy  ; Italian Republic  ; Italia	इटली	country
+January  ; Jan	जनवरी [janavaree]	time
+Japan  ; Nippon  ; Nihon	जापान [jaapaan]	country
+Japanese	जापानी [jaapaanee]	language
+July	जुलाई [julaaee]	time
+June	जून [joon]	time
+May	मई [maee]	time
+Monday  ; Mon	सोमवार	time
+Moon  ; moon	चन्द्रमा [chandramaa]	geography
+November  ; Nov	नवंबर [navambar]	time
+October  ; Oct	अक्टूबर [aktoobar]	time
+Russian	रूसी [roosee]	language
+Saturday  ; Sabbatum  ; Sat	शनिश्चरवार	time
+September  ; Sep  ; Sept	सितंबर [sitambar]	time
+Spain  ; Kingdom of Spain  ; Espana	किंगडम ऑफ़ स्पेन	country
+Spanish	स्पैनिश	language
+Sunday  ; Lord's Day  ; Dominicus  ; Sun	रविवार [ravivaar]	time
+Thursday  ; Th	गुरुवार [guruvaar]	time
+Tuesday  ; Tues	मंगलवार [mangalavaar]	time
+United Kingdom  ; UK  ; U.K.  ; Britain  ; United Kingdom of Great Britain and Northern Ireland  ; Great Britain	संयुक्त राजशाही	country
+United States  ; United States of America  ; America  ; the States  ; US  ; U.S.  ; USA  ; U.S.A.	संयुक्त राज्य अमेरिका	country
+Wednesday  ; Midweek  ; Wed	बुधवार [budhavaar]	time
+a  ; an	एक	article
+ability  ; power	योग्यता [yogyataa]	abstract
+able	समर्थ [samarth]	adjective-people
+about  ; around	इधर-उधर [idhar-udhar]	adverb
+above  ; higher up  ; in a higher place  ; to a higher place	ऊपर [oopar]	adverb
+accept  ; take  ; have	स्वीकार करना [sveekaar karanaa]	verb
+accident	दुर्घटना [durghatanaa]	transport
+account  ; business relationship	खाता [khaataa]	business
+accuse  ; charge	आरोप लगाना [aarop lagaanaa]	verb
+achieve  ; accomplish  ; attain  ; reach	पूरा करना [pooraa karanaa]	verb
+acid	अम्ल [aml]	material
+acid rain  ; acid precipitation	अम्लीय वर्षा	environment
+act  ; deed  ; human action  ; human activity	कार्य [kaary]	abstract
+act  ; move	काम करना [kaam karanaa]	verb
+activity  ; action  ; activeness	सक्रियता [sakriyataa]	abstract
+actor  ; histrion  ; player  ; thespian  ; role player	अभिनेता [abhinetaa]	profession
+actress	अभिनेत्री [abhinetree]	profession
+add  ; add together	जोड़ना [jodanaa]	verb
+addition  ; summation  ; plus	जोड़ [jod]	mathematics
+address	पता [pataa]	house
+admit  ; acknowledge	स्वीकार करना [sveekaar karanaa]	verb
+advantage  ; vantage	बढ़त [badhat]	business
+advertisement  ; ad  ; advertizement  ; advertising  ; advertizing  ; advert	विज्ञापन [vigyaapan]	business
+advice	सलाह [salaah]	business
+afternoon	तीसरा पहर [teesaraa pahar]	time
+again  ; once again  ; once more  ; over again	फिर से [phir se]	adverb
+against	के विरुद्ध	preposition
+ago  ; agone	पहले बीता हुआ	adjective
+agree  ; hold  ; concur  ; concord	सहमत होना [sahamat honaa]	verb
+agreement  ; understanding	क़रार	business
+air	वायु [vaayu]	nature
+airport  ; airdrome  ; aerodrome  ; drome	हवाई अड्डा [havaaee addaa]	city
+alive  ; live	जीवित [jeevit]	adjective-people
+all	तमाम	adjective
+allow  ; let  ; permit	संभव बनाना [sambhav banaanaa]	verb
+almost  ; about  ; most  ; nearly  ; near  ; nigh  ; virtually  ; well-nigh	लगभग [lagabhag]	adverb
+alone  ; lone  ; lonely  ; solitary	अकेला [akelaa]	adjective-people
+along	समानान्तर [samaanaantar]	adverb
+already	पहले से [pahale se]	adverb
+always  ; ever  ; e'er	हमेशा [hameshaa]	adverb
+among  ; amongst  ; amid  ; amidst	बीच में ही	preposition
+amount	राशि [raashi]	abstract
+and	और [aur]	conjunction
+angle	कोण [kon]	mathematics
+angry	गुस्सा करना या जताना	adjective-people
+animal  ; animate being  ; beast  ; brute  ; creature  ; fauna	प्राणी [praanee]	nature
+announce  ; denote	घोषणा करना [ghoshanaa karanaa]	verb
+announcement  ; proclamation  ; annunciation  ; declaration	घोषणा [ghoshanaa]	communication
+another  ; some other	दूसरा [doosaraa]	adjective-basic
+answer  ; reply  ; response	उत्तर [uttar]	communication
+ant  ; emmet  ; pismire	चींटी [cheentee]	animal
+apple	सेब [seb]	fruit
+approval  ; blessing  ; approving	अनुमोदन [anumodan]	communication
+approximately  ; about  ; close to  ; just about  ; some  ; roughly  ; more or less  ; around  ; or so	तकरीबन [takareeban]	adverb
+apricot	खुबानी [khubaanee]	fruit
+area  ; expanse  ; surface area	क्षेत्रफल [kshetraphal]	mathematics
+argue  ; contend  ; debate  ; fence	बहस करना [bahas karanaa]	verb
+argument  ; controversy  ; contention  ; contestation  ; disputation  ; disceptation  ; tilt  ; arguing	तकरार [takaraar]	communication
+argument  ; statement	दलील [daleel]	communication
+arm	बांह	anatomy
+army  ; regular army  ; ground forces	सेना [senaa]	society
+arrive  ; make it  ; get in  ; go far	पहुंचना [pahunchanaa]	verb
+art  ; fine art	कला [kalaa]	art
+artist  ; creative person	कलाकार [kalaakaar]	art
+ask  ; inquire  ; enquire	पूछना [poochhanaa]	verb
+atmosphere  ; air	वायुमण्डल [vaayumandal]	environment
+attack  ; assail  ; assault  ; set on	धावा बोलना [dhaavaa bolanaa]	verb
+attack  ; onslaught  ; onset  ; onrush	आक्रमण [aakraman]	abstract
+attempt  ; effort  ; endeavor  ; endeavour  ; try	प्रयास [prayaas]	abstract
+attention  ; attending	ध्यान [dhyaan]	business
+attitude  ; mental attitude	अभिवृत्ति	abstract
+authority  ; authorization  ; authorisation  ; potency  ; dominance  ; say-so	अधिकार [adhikaar]	business
+automatic	स्वचालित [svachaalit]	adjective
+autumn  ; fall	शरद ऋतु [sharad rritu]	time
+available	उपलब्ध [upalabdh]	adjective
+avoid	से बचना [se bachanaa]	verb
+awake	सचेत [sachet]	adjective-people
+award  ; accolade  ; honor  ; honour  ; laurels	पुरस्कार [puraskaar]	sports
+baby  ; babe  ; infant	शिशु [shishu]	family
+back	पिछला हिस्सा [pichhalaa hissaa]	abstract
+back  ; dorsum	पीठ [peeth]	anatomy
+bad	खराब [kharaab]	adjective-basic
+bag	झोली	container
+bag  ; handbag  ; pocketbook  ; purse	थैला [thailaa]	clothes
+balance	संतुलन [santulan]	physics
+ball	गेंद [gend]	sports
+banana	केला [kelaa]	fruit
+bank	किनारा [kinaaraa]	geography
+bank  ; depository financial institution  ; banking concern  ; banking company	बैंक [baink]	city
+banknote  ; bill  ; note  ; government note  ; bank bill  ; banker's bill  ; bank note  ; Federal Reserve note  ; greenback	बीजक	business
+bargain  ; deal	समझौता [samajhautaa]	business
+base  ; base of operations	आधार [aadhaar]	society
+baseball  ; baseball game	बेसबॉल	sports
+basic	बुनियादी [buniyaadee]	adjective-basic
+basket  ; handbasket	डलिया [daliyaa]	container
+bathroom  ; bath	गुसलख़ाना	house
+be	होना [honaa]	verb-basic
+be  ; live	जीवित रहना [jeevit rahanaa]	verb
+beach	समुद्र तट [samudr tat]	geography
+beak  ; bill  ; neb  ; nib  ; pecker	चोंच [chonch]	anatomy
+bean  ; edible bean	सेम [sem]	vegetable
+bear	भालू [bhaaloo]	animal
+bear	ले जाना [le jaanaa]	verb
+beat  ; beat out  ; crush  ; shell  ; trounce  ; vanquish	जीतना [jeetanaa]	verb
+beautiful	सुन्दर [sundar]	adjective-basic
+because	क्योंकि [kyonki]	conjunction
+become  ; go  ; get	बनना [bananaa]	verb
+bed	बिस्तर (bistar)	furniture
+bedroom  ; sleeping room  ; sleeping accommodation  ; chamber  ; bedchamber	शयनकक्ष [shayanakaksh]	house
+bee	मधुमक्खी [madhumakkhee]	animal
+beer	बियर [biyar]	drink
+beginning  ; commencement  ; first  ; outset  ; get-go  ; start  ; kickoff  ; starting time  ; showtime  ; offset	आरम्भ [aarambh]	time
+behavior  ; demeanor  ; demeanour  ; behaviour  ; conduct  ; deportment	बर्ताव [bartaav]	abstract
+behind	के पीछे [ke peechhe]	adverb
+bell	घंटा [ghantaa]	tool
+best	सर्वोत्तम [sarvottam]	adjective-basic
+better	बेहतर [behatar]	adjective-basic
+between  ; betwixt	के बीच [ke beech]	adverb
+big  ; large	बड़ा [badaa]	adjective-basic
+bike  ; bicycle  ; wheel  ; cycle	साइकिल [saaikil]	sports
+biology  ; biological science	जीवविज्ञान	science
+bird	चिड़िया [chidiyaa]	animal
+birth  ; nativity  ; nascency  ; nascence	प्रसव [prasav]	family
+birthday	जन्मदिन [janmadin]	family
+bit  ; chip  ; flake  ; fleck  ; scrap	टुकड़ा [tukadaa]	abstract
+bitter	कड़ुवा [kaduvaa]	adjective
+black	बिना दूध का	color
+blackberry	शहतूत [shahatoot]	fruit
+blade	पत्ती [pattee]	object
+blood	रक्त [rakt]	anatomy
+blow	चोट [chot]	abstract
+boat	नाव [naav]	transport
+body  ; torso  ; trunk	शरीर [shareer]	anatomy
+bone  ; os	हड्डी	anatomy
+book  ; volume	किताब [kitaab]	communication
+boot	जूता [jootaa]	clothes
+boring  ; deadening  ; dull  ; ho-hum  ; irksome  ; slow  ; tedious  ; tiresome  ; wearisome	उबाऊ [ubaaoo]	adjective
+bottle	बोतल [botal]	container
+box	सन्दूक [sandook]	container
+boy  ; male child	लड़का [ladakaa]	family
+boyfriend  ; fellow  ; beau  ; swain  ; young man	युवा मित्र	relations
+brain  ; encephalon	दिमाग [dimaag]	anatomy
+branch	शाखा [shaakhaa]	nature
+bread  ; breadstuff  ; staff of life	रोटी [rotee]	food
+break	बांटना [baantanaa]	verb-basic
+break  ; respite  ; recess  ; time out	चुप्पी [chuppee]	abstract
+breakfast	नाश्ता [naashtaa]	food
+breath	सांस [saans]	anatomy
+brick	ईंट [eent]	house
+bridge  ; span	सेतु [setu]	city
+bring  ; convey  ; take	पहुंचाना	verb
+brother  ; blood brother	भाई [bhaaee]	family
+brown  ; brownish  ; chocolate-brown  ; dark-brown	भूरा [bhooraa]	color
+build  ; construct  ; make	बनाना [banaanaa]	verb
+building  ; edifice	निर्माण [nirmaan]	city
+bus  ; autobus  ; coach  ; charabanc  ; double-decker  ; jitney  ; motorbus  ; motorcoach  ; omnibus  ; passenger vehicle	बस [bas]	transport
+business  ; concern  ; business concern  ; business organization  ; business organisation	व्यापार [vyaapaar]	business
+businessman  ; man of affairs	व्यापारी [vyaapaaree]	profession
+butter	मक्खन [makkhan]	food
+button  ; push button  ; push	बटन [batan]	tool
+buy  ; purchase	खरीदना [khareedanaa]	verb-basic
+cabbage  ; chou	बंदगोभी [bandagobhee]	vegetable
+call  ; phone call  ; telephone call	फोन करने की क्रिया	communication
+call  ; telephone  ; call up  ; phone  ; ring	टेलीफोन करना [teleephon karanaa]	verb
+camera  ; photographic camera	कैमरा [kaimaraa]	device
+campaign  ; cause  ; crusade  ; drive  ; movement  ; effort	अभियान [abhiyaan]	abstract
+capital	राजधानी [raajadhaanee]	city
+capital  ; working capital	पूंजी	business
+car  ; auto  ; automobile  ; machine  ; motorcar	मोटर-गाड़ी [motar-gaadee]	transport
+care  ; attention  ; aid  ; tending	देख-रेख [dekh-rekh]	medicine
+carpet  ; rug  ; carpeting	कालीन [kaaleen]	furniture
+carrot  ; cultivated carrot  ; Daucus carota sativa	गाजर [gaajar]	vegetable
+carry  ; transport	ढोना [dhonaa]	verb
+case  ; instance  ; example	कानूनी मामला	abstract
+castle	दुर्ग [durg]	city
+cat  ; true cat	बिल्ली [billee]	animal
+cause	कारण [kaaran]	science
+cell	कोशिका [koshikaa]	anatomy
+cellphone  ; cellular telephone  ; cellular phone  ; cell  ; mobile phone	मोबाइल फोन	device
+center  ; centre  ; midpoint	केंद्र [kendr]	mathematics
+center  ; kernel  ; substance  ; core  ; centre  ; essence  ; gist  ; heart  ; heart and soul  ; inwardness  ; marrow  ; meat  ; nub  ; pith  ; sum  ; nitty-gritty	तत्व [tatv]	science
+central	अत्यन्त महत्वपूर्ण [atyant mahatvapoorn]	adjective
+century	शताब्दी [shataabdee]	time
+certain  ; sure	निश्चित [nishchit]	adjective
+chain	श्रृंखला [shrrunkhalaa]	object
+chair	कुर्सी [kursee]	furniture
+championship  ; title	प्रतियोगिता [pratiyogitaa]	sports
+chance  ; opportunity	मौका [maukaa]	abstract
+change	छुट्टा पैसा [chhuttaa paisaa]	business
+change  ; alter  ; modify	बदल देना [badal denaa]	verb
+change  ; alteration  ; modification	परिवर्तन होने की प्रक्रिया	abstract
+character  ; grapheme  ; graphic symbol	चिह्न [chihn]	communication
+charge  ; electric charge	बिजली [bijalee]	physics
+cheap  ; inexpensive	सस्ता [sastaa]	adjective
+check  ; bank check  ; cheque	चेक [chek]	business
+cheers	चीयर्स	conversation
+cheese	चीज [cheej]	food
+chemical  ; chemic	रासायनिक [raasaayanik]	adjective
+chemical  ; chemical substance	रसायन [rasaayan]	material
+chemical element  ; element	रासायनिक तत्व	material
+chemistry  ; chemical science	रसायन शास्त्र	science
+cherry	चेरी [cheree]	fruit
+chest  ; breast	वक्ष [vaksh]	anatomy
+chest  ; thorax  ; pectus	छाती [chhaatee]	anatomy
+child  ; kid	बेटा (m) ; बेटी (f)<!--ref Oxford Hindi-Eng Dict.-->	family
+chin  ; mentum	ठुड्डी	anatomy
+chocolate	चाकलेट [chaakalet]	food
+choice  ; selection  ; option  ; pick	चुनने का अधिकार [chunane kaa adhikaar]	abstract
+choose  ; take  ; select  ; pick out	चुनना [chunanaa]	verb
+church  ; church building	गिरजाघर [girajaaghar]	city
+cinema  ; movie theater  ; movie theatre  ; movie house  ; picture palace	चलचित्र [chalachitr]	city
+circle	वृत्त [vrutt]	mathematics
+city  ; metropolis  ; urban center	शहर [shahar]	city
+class  ; form  ; grade  ; course	वर्ग [varg]	education
+classify  ; class  ; sort  ; assort  ; sort out  ; separate	वर्गीकरण करना [vargeekaran karanaa]	verb
+clean	स्वच्छ [svachchh]	adjective-basic
+clean  ; make clean	साफ करना [saaph karanaa]	verb
+clear	बादल [baadal]	adjective
+clock	घड़ी [ghadee]	device
+close  ; shut	बन्द हो जाना [band ho jaanaa]	verb-basic
+closed  ; shut  ; unopen	बन्द [band]	adjective
+cloth  ; fabric  ; material  ; textile	कपड़ा [kapadaa]	clothes
+clothing  ; article of clothing  ; vesture  ; wear  ; wearable  ; habiliment	वस्त्र [vastr]	clothes
+cloud	बादल [baadal]	weather
+club	डंडा [dandaa]	object
+club  ; social club  ; society  ; guild  ; gild  ; lodge  ; order	खेल इत्यादि का क्लब	society
+coal	कोयला [koyalaa]	material
+coat	कोट [kot]	clothes
+coffee  ; java	कॉफ़ी	drink
+coil  ; whorl  ; roll  ; curl  ; curlicue  ; ringlet  ; gyre  ; scroll	लपेट	object
+cold	ठंडा [thandaa]	adjective-basic
+cold  ; common cold	जुकाम [jukaam]	medicine
+collar  ; neckband	कालर [kaalar]	clothes
+come  ; come up	आना [aanaa]	verb-basic
+committee  ; commission	समिति [samiti]	business
+common  ; mutual	सामान्य [saamaany]	adjective
+company	कम्पनी [kampanee]	business
+company  ; companionship  ; fellowship  ; society	संगति [sangati]	society
+compare	समानता [samaanataa]	verb
+comparison  ; comparing	तुलना [tulanaa]	science
+competition	प्रतियोगिता में भाग लेना [pratiyogitaa men bhaag lenaa]	business
+competitor  ; rival  ; challenger  ; competition  ; contender	प्रतियोगी [pratiyogee]	sports
+complaint  ; charge	आरोप [aarop]	business
+complete  ; consummate	पूरा [pooraa]	adjective
+component  ; constituent  ; element  ; factor  ; ingredient	किसी वस्तु का प्रमुख भाग	mathematics
+computer  ; computing machine  ; computing device  ; data processor  ; electronic computer  ; information processing system	कम्प्यूटर	device
+concert	संगीत सभा	art
+condition  ; status	हालत [haalat]	abstract
+connection  ; connexion  ; connector  ; connecter  ; connective	कनेक्टर	abstract
+consequence  ; effect  ; outcome  ; result  ; event  ; issue  ; upshot	परिणाम [parinaam]	science
+contain  ; incorporate  ; comprise	से युक्त होना [se yukt honaa]	verb
+contest  ; competition	प्रतियोगिता [pratiyogitaa]	business
+continue  ; go on  ; proceed  ; go along  ; keep	जारी रहना [jaaree rahanaa]	verb
+control	संचालन करना [sanchaalan karanaa]	science
+cook	पकाना [pakaanaa]	verb
+cook	रसोइया [rasoiyaa]	kitchen
+copy  ; re-create	प्रतिलिपि बनायें	verb
+correct  ; right	त्रुटिहीन [trutiheen]	adjective-basic
+cost	मोल [mol]	business
+cough	खांसना	verb
+cough  ; coughing	खांसी	medicine
+council	परिषद [parishad]	business
+country  ; state  ; land	देश [desh]	society
+couple  ; pair  ; twosome  ; twain  ; brace  ; span  ; yoke  ; couplet  ; distich  ; duo  ; duet  ; dyad  ; duad	दो साथी	number
+course  ; class  ; course of study  ; course of instruction	सबक [sabak]	business
+court  ; tribunal  ; judicature	अदालत [adaalat]	society
+cow  ; moo-cow	गाय [gaay]	animal
+crack  ; cleft  ; crevice  ; fissure  ; scissure	दरार [daraar]	abstract
+crime  ; offense  ; criminal offense  ; criminal offence  ; offence  ; law-breaking	अनुचित कार्य	society
+cruel  ; barbarous  ; brutal  ; fell  ; roughshod  ; savage  ; vicious	निर्दयी [nirdayee]	adjective
+crush  ; squash  ; squelch  ; mash  ; squeeze	मसलना [masalanaa]	verb
+cry  ; outcry  ; call  ; yell  ; shout  ; vociferation	पुकार [pukaar]	communication
+cry  ; weep	रोना [ronaa]	verb
+cucumber  ; cuke	ककड़ी [kakadee]	vegetable
+culture  ; civilization  ; civilisation	सभ्यता [sabhyataa]	society
+cup	प्याले के रूप देना	container
+cup  ; loving cup	कप [kap]	sports
+cupboard  ; closet	अलमारी [alamaaree]	furniture
+curtain  ; drape  ; drapery  ; mantle  ; pall	पर्दा [pardaa]	furniture
+curve  ; bend	घुमाव [ghumaav]	transport
+curve  ; curved shape	वक्र रेखा [vakr rekhaa]	mathematics
+customer  ; client	ग्राहक [graahak]	business
+cut	चीरना [cheeranaa]	verb-basic
+cut  ; cutting	कटाव [kataav]	abstract
+damage  ; harm  ; impairment	हानि [haani]	abstract
+dance  ; trip the light fantastic  ; trip the light fantastic toe	नृत्य करना [nruty karanaa]	verb-basic
+danger	खतरा [khataraa]	abstract
+dangerous  ; unsafe	खतरनाक [khataranaak]	adjective
+dark	अंधेरा [andheraa]	adjective-basic
+data  ; information	डेटा [detaa]	communication
+date  ; appointment  ; engagement	नियुक्ति [niyukti]	relations
+date  ; day of the month	किसी पत्र में दिन	time
+daughter  ; girl	बेटी [betee]	family
+dead	मृत [mrut]	adjective-people
+dear  ; beloved  ; dearest  ; honey  ; love	संकाय अध्यक्ष	relations
+death	मृत्यु [mrutyu]	family
+decide  ; make up one's mind  ; determine	निर्णायक होना	verb
+decision  ; determination  ; conclusion	निर्णय [nirnay]	communication
+decoration  ; ornament  ; ornamentation	सजावट [sajaavat]	abstract
+degree  ; grade  ; level	स्तर [star]	mathematics
+delicate	सुकुमार [sukumaar]	adjective
+democracy  ; republic  ; commonwealth	गणतंत्र	society
+department  ; section	विभाग [vibhaag]	business
+describe  ; depict  ; draw	वर्णन करना [varnan karanaa]	verb
+design  ; designing	रूप [roop]	art
+desire  ; want	चाहना [chaahanaa]	verb
+desk	मेज [mej]	furniture
+destruction  ; devastation	तोड़-फोड़ [toda-phod]	abstract
+develop	तस्वीर साफ करना	verb
+dew	ओस [os]	weather
+dictionary  ; lexicon	शब्दकोश [shabdakosh]	communication
+die  ; decease  ; perish  ; go  ; exit  ; pass away  ; expire  ; pass  ; kick the bucket  ; cash in one's chips  ; buy the farm  ; conk  ; give-up the ghost  ; drop dead  ; pop off  ; choke  ; croak  ; snuff it	मरना [maranaa]	verb
+different	अलग [alag]	adjective
+different  ; unlike  ; dissimilar	असदृश	adjective
+difficult  ; hard	कठिन [kathin]	adjective-basic
+difficulty	कठिनाई [kathinaaee]	business
+direction	दिशा [dishaa]	business
+directly  ; straight  ; direct	सीधे [seedhe]	adverb
+director  ; manager  ; managing director	प्रबंधक [prabandhak]	business
+dirty  ; soiled  ; unclean	गंदा [gandaa]	adjective-basic
+discipline  ; subject  ; subject area  ; subject field  ; field  ; field of study  ; study  ; bailiwick	अनुशासन [anushaasan]	science
+discover  ; find	खोजना करना	verb
+discovery  ; find  ; uncovering	खोज [khoj]	science
+discuss  ; hash out  ; talk over	चर्चा करना [charchaa karanaa]	verb
+discussion  ; give-and-take  ; word	चर्चा [charchaa]	communication
+disease	बीमारी [beemaaree]	medicine
+distance	दूरी [dooree]	mathematics
+diversity  ; diverseness  ; multifariousness  ; variety	भिन्नता [bhinnataa]	art
+divide  ; split  ; split up  ; separate  ; dissever  ; carve up	विभाजन [vibhaajan]	verb
+division  ; partition  ; partitioning  ; segmentation  ; sectionalization  ; sectionalisation	बंटवारा	mathematics
+do  ; practice  ; practise  ; exercise	व्यवहार में लाना [vyavahaar men laanaa]	verb-basic
+doctor  ; doc  ; physician  ; MD  ; Dr.  ; medico	डाक्टर [daaktar]	medicine
+dog  ; domestic dog  ; Canis familiaris	कुत्ता [kuttaa]	animal
+dominance  ; ascendance  ; ascendence  ; ascendancy  ; ascendency  ; control	नियंत्रण [niyantran]	abstract
+dominion  ; rule	प्रभुत्व [prabhutv]	society
+door	द्वार [dvaar]	house
+doubt	संदेह करना	verb
+doubt  ; uncertainty  ; incertitude  ; dubiety  ; doubtfulness  ; dubiousness	संदिग्धता [sandigdhataa]	communication
+down	नीचे [neeche]	adjective
+drawer	दराज [daraaj]	container
+drink  ; beverage  ; drinkable  ; potable	पानी के अतिरिक्त दूसरे पेय	drink
+drink  ; imbibe	पीना [peenaa]	verb-basic
+drive	हांकना [haankanaa]	verb
+drop  ; drib  ; driblet	बूंद [boond]	abstract
+dry	सूखा [sookhaa]	adjective
+during	के दौरान [ke dauraan]	preposition
+dust	धूल [dhool]	material
+duty	कर्त्तव्य	abstract
+each	हर [har]	adjective
+ear	कान [kaan]	anatomy
+early	आरंभ का	adjective
+early  ; early on	प्रारंभ में [praarambh men]	adverb
+earth  ; ground	पृथ्वी [pruthvee]	material
+east  ; due east  ; eastward  ; E	पूर्व दिशा [poorv dishaa]	geography
+easy	आसान [aasaan]	adjective
+eat	खाना [khaanaa]	verb-basic
+ecology  ; bionomics  ; environmental science	परिस्थिति विज्ञान पौधों तथा प्राणियों का आपस में तथा परिवेश से सम्बन्ध	environment
+economic	किसी देश के आर्थिक भविष्य से संबंधित	adjective
+economy  ; economic system	अर्थव्यवस्था [arthavyavasthaa]	business
+edge  ; border	किनारा [kinaaraa]	mathematics
+education	शिक्षा [shikshaa]	education
+education  ; instruction  ; teaching  ; pedagogy  ; didactics  ; educational activity	शिक्षा [shikshaa]	education
+effort  ; elbow grease  ; exertion  ; travail  ; sweat	कोशिश [koshish]	abstract
+egg	अंडा [andaa]	food
+eight  ; 8  ; viii	आठ [aath]	number
+eighty  ; 80  ; lxxx  ; fourscore	अस्सी [assee]	number
+either	दो में से कोई एक	adverb
+election	चुनाव [chunaav]	society
+electric  ; electrical	बिजली का [bijalee kaa]	adjective
+elephant	हाथी [haathee]	animal
+elevator  ; lift	लिफ्ट [lipht]	device
+eleven  ; 11  ; xi	ग्यारह [gyaarah]	number
+embrace  ; encompass  ; comprehend  ; cover	समावेश करना [samaavesh karanaa]	verb
+encourage	उत्साहित करना [utsaahit karanaa]	verb
+end  ; stop  ; finish  ; terminate  ; cease	पूर्ण करना [poorn karanaa]	verb
+energy  ; free energy	ऊर्जा [oorjaa]	physics
+engine	इंजन [injan]	device
+enhance  ; heighten  ; raise	बढ़ाना [badhaanaa]	verb
+enough  ; plenty	पर्याप्त [paryaapt]	adverb
+enter  ; come in  ; get into  ; get in  ; go into  ; go in  ; move into	भीतर आना	verb
+entertainment  ; amusement	मनोरंजन [manoranjan]	art
+envelope	लिफ़ाफ़ा [lifaafaa]	container
+environment	पर्यावरण [paryaavaran]	business
+equal	समान [samaan]	adjective
+equally  ; as  ; every bit	जैसे [jaise]	adverb
+estimate  ; gauge  ; approximate  ; guess  ; judge	अंदाज लगाना	verb
+even	दो से पूरी तरह विभाज्य	adjective
+evening  ; eve  ; even  ; eventide	संध्या [sandhyaa]	time
+event	घटना [ghatanaa]	science
+every	प्रत्येक [pratyek]	adjective
+everybody  ; everyone	प्रत्येक व्यक्ति [pratyek vyakti]	pronoun
+everything	सब कुछ [sab kuchh]	pronoun
+evidence	साक्ष्य [saakshy]	science
+evolution  ; development	क्रम विकास	nature
+exactly  ; precisely  ; just	ठीक-ठीक [theek-theek]	adverb
+examination  ; exam  ; test	परीक्षा [pareekshaa]	education
+example  ; illustration  ; instance  ; representative	उदाहरण [udaaharan]	science
+exceed  ; transcend  ; overstep  ; pass  ; go past  ; top	सिर से ऊपर चला जाना	verb
+excellent  ; first-class  ; fantabulous  ; splendid	श्रेष्ठ [shreshth]	adjective
+exist  ; be	अस्तित्व होना [astitv honaa]	verb
+existence  ; being  ; beingness	अस्तित्व [astitv]	society
+expect  ; look  ; await  ; wait	आशा रखना [aashaa rakhanaa]	verb
+experience	अनुभव [anubhav]	business
+experience	अनुभव [anubhav]	communication
+expert	निपुण [nipun]	profession
+explain  ; explicate	समझाना [samajhaanaa]	verb
+express  ; limited	एक्सप्रेस गाड़ी	transport
+expression  ; look  ; aspect  ; facial expression  ; face	दृष्टि [drushti]	communication
+eye  ; oculus  ; optic	आंख [aankh]	anatomy
+face  ; human face	मुख [mukh]	anatomy
+fact	तथ्य [tathy]	science
+factory  ; mill  ; manufacturing plant  ; manufactory	कारखाना [kaarakhaanaa]	city
+fake  ; false  ; faux  ; imitation  ; simulated	झूठा [jhoothaa]	adjective
+fall	गिरना [giranaa]	verb-basic
+fall  ; spill  ; tumble	कब्जा [kabjaa]	abstract
+family  ; family unit	फ़ैमिली	family
+far	दूर [door]	adjective
+farm	खेत [khet]	nature
+fast	तीव्र [teevr]	adjective-basic
+fat	चर्बी [charbee]	material
+fat	मोटा [motaa]	adjective
+fat  ; fatty	भरपूर या बड़ा	adjective
+father  ; male parent  ; begetter	पिता [pitaa]	family
+fear  ; fearfulness  ; fright	भय [bhay]	feeling
+feather  ; plume  ; plumage	पंख [pankh]	object
+feature  ; characteristic	विशिष्ट लक्षण	abstract
+feeling	संवेदनशीलता [sanvedanasheelataa]	communication
+few	कुछ [kuchh]	adjective
+field	मैदान [maidaan]	nature
+fifteen  ; 15  ; xv	पंद्रह [pandrah]	number
+fifty  ; 50  ; l	पचास [pachaas]	number
+fight  ; fighting  ; combat  ; scrap	युद्ध [yuddh]	abstract
+fill  ; fill up  ; make full	भरना [bharanaa]	verb
+final  ; last  ; concluding  ; terminal	आखिरी [aakhiree]	adjective
+finally  ; last  ; lastly  ; in conclusion	अंत में [ant men]	adverb
+financial  ; fiscal	आर्थिक [aarthik]	adjective
+find  ; detect  ; observe  ; discover  ; notice	पकड़ पाना	verb
+find  ; regain	पाना [paanaa]	verb-basic
+finger	उंगली	anatomy
+finish  ; goal  ; destination	मंज़िल [manzil]	sports
+fire  ; flame  ; flaming	लपट [lapat]	nature
+fire  ; open fire	गोली चलाना [golee chalaanaa]	verb-basic
+firm  ; house  ; business firm	व्यापारिक कंपनी	business
+firm  ; solid	स्थिर [sthir]	adjective
+first  ; firstly  ; foremost  ; first of all  ; first off	आरम्भ में	adverb
+fish	मछली [machhalee]	animal
+five  ; 5  ; v	पांच	number
+flag	झंडा	object
+flat  ; apartment	फ्लैट	city
+flat  ; level  ; plane	गिरा देना [giraa denaa]	adjective
+flight  ; flying	उड़ान [udaan]	transport
+floor  ; flooring	फर्श [pharsh]	house
+floor  ; level  ; storey  ; story	तल्ला मंजिल	house
+flower	फूल [phool]	nature
+fly	उड़ना [udanaa]	animal
+fly  ; wing	उड़ाना [udaanaa]	verb-basic
+fog	कोहरा [koharaa]	weather
+follow	अनुसरण करना [anusaran karanaa]	verb-basic
+following  ; next	अनुगामी [anugaamee]	adjective
+food  ; nutrient	आहार [aahaar]	food
+for	के लिये [ke liye]	preposition
+for	क्योंकि [kyonki]	conjunction
+foreign  ; strange	विदेशी [videshee]	adjective
+forest  ; wood  ; woods	जंगल [jangal]	nature
+forget	भूल जाना [bhool jaanaa]	verb-basic
+forgive	क्षमा करना [kshamaa karanaa]	verb
+fork	खाने का कांटा	kitchen
+form	प्रारूप [praaroop]	business
+former  ; erstwhile  ; old  ; onetime  ; one-time  ; quondam  ; sometime	भूतपूर्व [bhootapoorv]	adjective
+forty  ; 40  ; xl  ; twoscore	चालीस [chaalees]	number
+fourteen  ; 14  ; xiv	चौदह [chaudah]	number
+fragile  ; delicate  ; frail	उत्कृष्ट [utkrusht]	adjective
+frame	चौखट [chaukhat]	object
+free	स्वतंत्र [svatantr]	adjective-people
+free  ; complimentary  ; costless  ; gratis  ; gratuitous	मुफ्त [mupht]	adjective
+free  ; liberate  ; release  ; unloose  ; unloosen  ; loose	मुक्त करना [mukt karanaa]	verb
+frequent	अक्सर [aksar]	adjective
+fresh	ताजा [taajaa]	adjective
+friend	मित्र [mitr]	family
+friendly	स्नेहशील [snehasheel]	adjective-people
+from	से	preposition
+from	से	preposition
+front  ; front end  ; forepart	आगे [aage]	abstract
+frost  ; hoar  ; hoarfrost  ; rime	पाला [paalaa]	weather
+fruit	फल [phal]	food
+full	भरा हुआ [bharaa huaa]	adjective
+full  ; total	सम्पूर्ण [sampoorn]	adjective
+function  ; office  ; part  ; role	सामाजिक सम्मेलन	mathematics
+furniture  ; piece of furniture  ; article of furniture	फर्नीचर [pharneechar]	furniture
+further  ; farther	और आगे का	adjective
+future	भविष्य में [bhavishy men]	adjective
+future  ; hereafter  ; futurity  ; time to come	भविष्य [bhavishy]	time
+game	गेम	sports
+garage	गैरेज [gairej]	house
+garden	उद्यान [udyaan]	house
+garlic  ; ail	लहसुन [lahasun]	vegetable
+gate	द्वार [dvaar]	house
+gene  ; cistron  ; factor	जीन [jeen]	anatomy
+general	साधारण [saadhaaran]	adjective
+general  ; full general	सेनापति [senaapati]	profession
+girl  ; miss  ; missy  ; young lady  ; young woman  ; fille	लड़की [ladakee]	family
+give	देना [denaa]	verb-basic
+glass	कांच [kaanch]	material
+glass  ; drinking glass	पीने का बर्तन	container
+global warming	भूमंडलीय ऊष्मीकरण	environment
+glue  ; gum  ; mucilage	सरेस [sares]	material
+goal	गोल [gol]	sports
+goat  ; caprine animal	बकरा [bakaraa]	animal
+gold  ; Au  ; atomic number 79	सोना [sonaa]	material
+golf  ; golf game	गोल्फ [golph]	sports
+good	सही [sahee]	adjective-basic
+good day	नमस्त	conversation
+good luck	शुभ कामना	conversation
+good morning  ; morning	नमस्ते ((to one person) ; नमस्कार ((to several persons))	conversation
+government  ; authorities  ; regime	शासन [shaasan]	society
+grade  ; mark  ; score	परीक्षा आदि में स्थान	education
+grandfather  ; gramps  ; granddad  ; grandad  ; granddaddy  ; grandpa	दादा [daadaa]	family
+grass	घास [ghaas]	nature
+gray  ; grey  ; greyish  ; grayish	धूसर [dhoosar]	color
+great	बेहतर गुणवत्ता वाली चीज	adjective-basic
+great  ; bang-up  ; bully  ; corking  ; cracking  ; dandy  ; groovy  ; keen  ; neat  ; nifty  ; not bad  ; peachy  ; slap-up  ; swell  ; smashing	बहुत सुखद	adjective-basic
+green  ; greenish  ; light-green  ; dark-green	कच्चा [kachchaa]	color
+greenhouse effect  ; greenhouse warming	ग्रीनहाउस प्रभाव [greenahaaus prabhaav]	environment
+group  ; grouping	झुण्ड [jhund]	business
+grow	बढ़ना [badhanaa]	verb
+guest  ; invitee	अतिथि [atithi]	relations
+gun	तोप [top]	tool
+hair	बाल [baal]	anatomy
+hair  ; pilus	बाल [baal]	anatomy
+half  ; one-half	आधा [aadhaa]	mathematics
+hall  ; anteroom  ; antechamber  ; entrance hall  ; foyer  ; lobby  ; vestibule	प्रतीक्षा-कक्ष [prateekshaa-kaksh]	house
+hammer	घोड़ा [ghodaa]	tool
+hand  ; manus  ; mitt  ; paw	हाथ [haath]	anatomy
+handle  ; grip  ; handgrip  ; hold	मूठ [mooth]	object
+happen  ; hap  ; go on  ; pass off  ; occur  ; pass  ; fall out  ; come about  ; take place	घटित होना [ghatit honaa]	verb
+happy	सुखी [sukhee]	adjective-basic
+hat  ; chapeau  ; lid	टोपी [topee]	clothes
+hate  ; detest	घृणा करना [ghrunaa karanaa]	verb
+hate  ; hatred	नापसंद	feeling
+head  ; caput	सिर [sir]	anatomy
+healthy  ; salubrious  ; good for you	स्वस्थ [svasth]	adjective-basic
+hear	सुनना [sunanaa]	verb-basic
+heart  ; pump  ; ticker	हृदय [hruday]	anatomy
+heavy	भारी [bhaaree]	adjective-basic
+hello  ; hullo  ; hi  ; howdy  ; how-do-you-do	स्वागत [svaagat]	conversation
+help  ; aid  ; assist  ; assistance	मदद [madad]	business
+help  ; assist  ; aid	मदद करना [madad karanaa]	verb-basic
+her	उसका [usakaa]	pronoun
+here	इस समय [is samay]	adverb
+here  ; hither	इस स्थान पर	adverb
+herself	खुद को	pronoun
+hide  ; conceal	छिपाना [chhipaanaa]	verb
+him	इस	pronoun
+his	उसका [usakaa]	pronoun
+history	इतिहास [itihaas]	society
+hit  ; hitting  ; striking	प्रहार [prahaar]	abstract
+hit  ; smash  ; smasher  ; strike  ; bang	लोकप्रिय [lokapriy]	art
+hold  ; take hold	मजबूती से पकड़ना	verb
+hole	छेद [chhed]	abstract
+holiday  ; vacation	अवकाश के दिन	business
+home  ; place	घर [ghar]	house
+hope	आशा करना [aashaa karanaa]	verb-basic
+horse  ; Equus caballus	घोड़ा	animal
+hospital  ; infirmary	चिकित्सालय [chikitsaalay]	city
+hot	गरम [garam]	adjective-basic
+hotel	होटल	city
+hour  ; hr  ; 60 minutes	घंटा [ghantaa]	time
+house	गृह [gruh]	house
+how are you	आप कैसे हैं	conversation
+however  ; nevertheless  ; withal  ; still  ; yet  ; all the same  ; even so  ; nonetheless  ; notwithstanding	फिर भी [phir bhee]	adverb
+human	मानवीय	adjective-people
+human  ; homo  ; man  ; human being	मानव [maanav]	family
+hungry	भूखा [bhookhaa]	adjective-people
+husband  ; hubby  ; married man	पति [pati]	family
+ice  ; water ice	बरफ़ (baraf)	material
+idea  ; thought	विचार [vichaar]	communication
+identify  ; place	पहचानना [pahachaananaa]	verb
+if	अगर [agar]	conjunction
+ill  ; sick	अस्वस्थ [asvasth]	adjective-people
+image	छवि [chhavi]	art
+immediately  ; instantly  ; straightaway  ; straight off  ; directly  ; now  ; right away  ; at once  ; forthwith  ; like a shot	सीधे [seedhe]	adverb
+impatient	अधीर [adheer]	adjective-people
+important  ; significant	महत्वपूर्ण [mahatvapoorn]	adjective-basic
+in  ; inwards  ; inward	में [men]	adverb
+include	सम्मिलित करना [sammilit karanaa]	verb
+income	आय [aay]	business
+increase  ; increment	बढ़ती	abstract
+increase  ; increment  ; growth	वृद्धि [vruddhi]	abstract
+indeed  ; so	सचमुच [sachamuch]	adverb
+individual	विशिष्ट [vishisht]	society
+industrial	औद्योगिक [audyogik]	adjective
+industry  ; manufacture	व्यवसाय [vyavasaay]	business
+information  ; info	सूचना [soochanaa]	communication
+injure  ; wound	घायल करना [ghaayal karanaa]	verb
+ink	स्याही [syaahee]	art
+insect	कीड़ा [keedaa]	animal
+inside  ; within	अंदर की ओर [andar kee or]	adverb
+instead  ; alternatively  ; or else	के बदले में [ke badale men]	adverb
+institution  ; establishment	संस्था भवन	society
+instrument	उपकरण [upakaran]	device
+insurance	बीमा [beemaa]	business
+intelligent	बुद्धिमान [buddhimaan]	adjective-people
+interest	हित [hit]	business
+interest  ; involvement	रस [ras]	communication
+interesting	रोचक [rochak]	adjective
+international	अन्तर्राष्ट्रीय	adjective
+internet  ; net  ; cyberspace	अंतरजाल	abstract
+interview	भेंट [bhent]	communication
+into	अंदर को	preposition
+introduce  ; present  ; acquaint	परिचय कराना [parichay karaanaa]	verb
+invoice  ; bill  ; account	विवरण [vivaran]	business
+iron  ; Fe  ; atomic number 26	लोहा [lohaa]	material
+island	द्वीप [dveep]	geography
+jacket	जाकेट [jaaket]	clothes
+jewel  ; gem  ; precious stone	मणि [mani]	clothes
+job  ; task  ; chore	काम [kaam]	business
+join  ; bring together	संयुक्त करना [sanyukt karanaa]	verb
+journalist	पत्रकार [patrakaar]	profession
+journey  ; journeying	यात्रा [yaatraa]	transport
+judge  ; justice  ; jurist	निर्णायक [nirnaayak]	profession
+jump  ; leap  ;  saltation	कूद [kood]	abstract
+jump  ; leap  ; bound  ; spring	उछलना [uchhalanaa]	verb-basic
+keep  ; maintain  ; hold	किसी विशेष स्थिति में बनाए रखना	verb
+key	कुंजी [kunjee]	tool
+kick	लात मारना [laat maaranaa]	verb
+kick  ; boot  ; kicking	लात [laat]	abstract
+kill	मारना [maaranaa]	verb
+kind	दयालु [dayaalu]	adjective-people
+kind  ; sort  ; form  ; variety	शब्द रूप [shabd roop]	abstract
+king  ; male monarch  ; Rex	राजा [raajaa]	society
+kiss  ; buss  ; osculation	चुम्बन [chumban]	relations
+kiss  ; snog  ; buss  ; osculate	चूमना [choomanaa]	verb-basic
+kitchen	रसोईघर [rasoeeghar]	house
+knee  ; knee joint  ; human knee  ; articulatio genus  ; genu	घुटना [ghutanaa]	anatomy
+knife	चाकू [chaakoo]	kitchen
+knot	गांठ [gaanth]	abstract
+knowledge  ; cognition  ; noesis	जानकारी [jaanakaaree]	education
+lake	झील [jheel]	geography
+land  ; dry land  ; earth  ; ground  ; solid ground  ; terra firma	जमीन [jameen]	geography
+land  ; set down	उतरना [utaranaa]	verb
+language  ; linguistic communication	भाषा [bhaashaa]	communication
+language  ; natural language  ; tongue	भाषा [bhaashaa]	communication
+last	अन्तिम [antim]	adjective
+late	देरी [deree]	adjective
+late  ; belatedly  ; tardily	देर रात [der raat]	adverb
+laugh  ; express joy  ; express mirth	हंसना [hansanaa]	verb-basic
+law	कानून [kaanoon]	business
+lead  ; Pb  ; atomic number 82	सीसा [seesaa]	material
+lead  ; take  ; direct  ; conduct  ; guide	चलाना [chalaanaa]	verb
+leader	पथ-प्रदर्शक	society
+leaf  ; leafage  ; foliage	पत्ता [pattaa]	nature
+learn  ; larn  ; acquire	सीखना [seekhanaa]	verb-basic
+least  ; to the lowest degree	कम से कम मात्रा में	adverb
+leather	खाल [khaal]	material
+leave	छोड़ जाना	verb
+leave  ; leave of absence	छुट्टी [chhuttee]	business
+left	वाम पंथ	adjective-basic
+leg	टांग	anatomy
+legal	कानूनी [kaanoonee]	adjective
+lemon	नींबू [neemboo]	fruit
+let	किराये पर देना [kiraaye par denaa]	verb
+letter  ; letter of the alphabet  ; alphabetic character	अक्षर [akshar]	communication
+letter  ; missive	पत्र [patr]	communication
+library	लायब्रेरी	city
+lie	लेटना [letanaa]	verb-basic
+lie  ; prevarication	झूठ [jhooth]	communication
+life	जीवन [jeevan]	nature
+lift  ; raise  ; elevate  ; get up  ; bring up	ऊपर उठाना [oopar uthaanaa]	verb
+light	हलका [halakaa]	adjective-basic
+light  ; visible light  ; visible radiation	प्रकाश [prakaash]	physics
+lightning	बिजली [bijalee]	weather
+like	पसंद करना [pasand karanaa]	verb-basic
+limit  ; bound  ; boundary	सीमा [seemaa]	mathematics
+limit  ; restrict  ; restrain  ; trammel  ; bound  ; confine  ; throttle	सीमा बद्ध करना	verb
+line	रेखा [rekhaa]	art
+lion  ; king of beasts  ; Panthera leo	शेर [sher]	animal
+lip	होंठ [honth]	anatomy
+liquid	द्रव [drav]	adjective
+liquid	द्रव [drav]	material
+list  ; listing	सूची [soochee]	abstract
+listen  ; hear  ; take heed	सुनाई देना [sunaaee denaa]	verb-basic
+little	छोटा [chhotaa]	adverb
+load  ; charge	जिम्मेदारी सौंपना [jimmedaaree saumpanaa]	verb
+local	स्थानीय [sthaaneey]	adjective
+lock	तालयन्त्र	tool
+look	देखना [dekhanaa]	verb-basic
+look  ; appear  ; seem	तलाशना	verb
+lose	खो देना [kho denaa]	verb
+lose	मिट जाना [mit jaanaa]	verb-basic
+loss	अभाव [abhaav]	business
+love	पसन्द करना [pasand karanaa]	verb-basic
+love	प्रेम [prem]	feeling
+low	नीचा [neechaa]	adjective
+lucky	भाग्यवान	adjective
+lunch  ; luncheon  ; tiffin  ; dejeuner	दोपहर का खाना	food
+machine	मशीन [masheen]	device
+magazine  ; mag	पत्रिका [patrikaa]	communication
+mail  ; mail service  ; postal service  ; post	डाक [daak]	communication
+main  ; chief  ; primary  ; principal  ; master	मुख्य [mukhy]	adjective
+major	बड़ा [badaa]	adjective
+majority  ; bulk	अधिकतर [adhikatar]	abstract
+make  ; do	करना (karnā)	verb-basic
+male	नर [nar]	adjective-people
+male  ; manful  ; manlike  ; manly  ; virile	नर [nar]	adjective-people
+man  ; adult male	पुरूष [puroosh]	family
+manage  ; deal  ; care  ; handle	चलाना [chalaanaa]	verb
+management  ; direction	निर्देशन [nirdeshan]	business
+manner  ; mode  ; style  ; way  ; fashion	विशेष प्रकार की आकृति प्रदान करना	art
+many	अनेक [anek]	adjective
+map	मानचित्र	geography
+marker  ; marking  ; mark	मार्कर	business
+market  ; marketplace  ; market place	बाज़ार [baazaar]	business
+marriage  ; matrimony  ; union  ; spousal relationship  ; wedlock	विवाह [vivaah]	family
+married	विवाहित [vivaahit]	adjective-people
+marry  ; get married  ; wed  ; conjoin  ; hook up with  ; get hitched with  ; espouse	विवाह करना [vivaah karanaa]	verb
+mass	परिमाण [parimaan]	physics
+mass  ; bulk  ; volume	विशाल [vishaal]	physics
+match	मैच [maich]	sports
+match  ; lucifer  ; friction match	दियासलाई [diyaasalaaee]	tool
+material  ; stuff	सामग्री [saamagree]	business
+matter	विषय [vishay]	material
+matter  ; affair  ; thing	द्रव्य [dravy]	abstract
+me	मुझको [mujhako]	pronoun
+meal  ; repast	भोजन [bhojan]	food
+mean  ; hateful	साधन [saadhan]	adjective-people
+mean  ; intend  ; think	इरादा रखना [iraadaa rakhanaa]	verb
+mean  ; mean value	पैसा [paisaa]	business
+measure  ; mensurate  ; measure out	नापना [naapanaa]	verb
+measurement  ; measuring  ; measure  ; mensuration	माप करना	physics
+meat	मांस [maans]	food
+medical	आयुर्विज्ञान संबन्धी	adjective-people
+meet  ; run into  ; encounter  ; run across  ; come across  ; see	सामना होना [saamanaa honaa]	verb-basic
+meeting  ; coming together	मीटिंग [meeting]	business
+member  ; fellow member	सदस्य [sadasy]	society
+memory	याद [yaad]	communication
+memory  ; retention  ; retentiveness  ; retentivity	स्मृति [smruti]	communication
+mention  ; advert  ; bring up  ; cite  ; name  ; refer	उल्लेख करना [ullekh karanaa]	verb
+metal  ; metallic	धातु जैसा	adjective
+metallic element  ; metal	धातु [dhaatu]	material
+method	प्रणाली [pranaalee]	science
+midnight	आधी रात [aadhee raat]	time
+military	सेना [senaa]	adjective
+milk	दूध [doodh]	drink
+million  ; 1000000  ; one thousand thousand  ; meg	दस लाख [das laakh]	number
+mind  ; head  ; brain  ; psyche  ; nous	मन [man]	abstract
+mine	खान [khaan]	environment
+minister  ; government minister	शिक्षा मंत्री	profession
+minute  ; min	मिनट [minat]	time
+mirror	दर्पण [darpan]	physics
+mistake  ; error  ; fault	गलती [galatee]	communication
+model	नमूना [namoonaa]	science
+modern	आधुनिक [aadhunik]	adjective
+moisture  ; wet	नमी [namee]	nature
+moment  ; minute  ; second  ; instant	इसी क्षण	time
+money	मुद्रा [mudraa]	business
+monkey	बंदर	animal
+month  ; calendar month	महिना (mahinā)	time
+more  ; more than	ज्यादा [jyaadaa]	adjective
+morning  ; morn  ; morning time  ; forenoon	सुबह [subah]	time
+mother  ; female parent	माता [maataa]	family
+mouth  ; oral cavity  ; oral fissure  ; rima oris	मुंह	anatomy
+move  ; displace	चलना [chalanaa]	verb-basic
+movement  ; motion	गति [gati]	physics
+movie  ; film  ; picture  ; moving picture  ; moving-picture show  ; motion picture  ; motion-picture show  ; picture show  ; pic  ; flick	झिल्ली [jhillee]	art
+muscle  ; musculus	पेशी [peshee]	anatomy
+museum	संग्रहालय [sangrahaalay]	art
+music	संगीत [sangeet]	art
+musician  ; instrumentalist  ; player	संगीतकार [sangeetakaar]	profession
+my	मेरा [meraa]	pronoun
+my name is	मेरा नाम ... है	conversation
+nail	कील [keel]	tool
+nail	नाखून [naakhoon]	anatomy
+name	नाम [naam]	communication
+name  ; call	नाम रखना [naam rakhanaa]	verb
+narrow	संकीर्ण [sankeern]	adjective
+nation  ; land  ; country	राष्ट्र [raashtr]	society
+national	राष्ट्रीय [raashtreey]	adjective
+natural	प्राकृतिक [praakrutik]	adjective
+nature	प्रकृति	nature
+near  ; close  ; nigh	निकट [nikat]	adjective-basic
+necessary	आवश्यक [aavashyak]	adjective
+neck  ; cervix	गरदन [garadan]	anatomy
+need  ; necessitate  ; ask  ; postulate  ; require  ; take  ; involve  ; call for  ; demand	मांगना [maanganaa]	verb-basic
+needle	सुई [suee]	tool
+neighbor  ; neighbour	पड़ोसी [padosee]	family
+nerve  ; nervus	नस [nas]	anatomy
+net  ; network  ; mesh  ; meshing  ; meshwork	जाल [jaal]	mathematics
+new	नया [nayaa]	adjective-basic
+newspaper  ; paper	समाचार पत्र	communication
+next  ; adjacent  ; side by side	निकटवर्ती [nikatavartee]	adjective
+nice	अच्छा [achchhaa]	adjective-basic
+night  ; nighttime  ; dark	रात [raat]	time
+nine  ; 9  ; ix	नौ [nau]	number
+nineteen  ; 19  ; xix	उन्नीस [unnees]	number
+ninety  ; 90  ; xc	नब्बे [nabbe]	number
+no	नहीं [naheen]	conversation
+normal	सामान्य [saamaany]	adjective
+north  ; due north  ; northward  ; N	उत्तर [uttar]	geography
+nose  ; olfactory organ	नाक [naak]	anatomy
+not  ; non	नहीं [naheen]	adverb
+note  ; annotation  ; notation	नोट [not]	communication
+note  ; musical note  ; tone	स्वर [svar]	art
+nothing  ; nil  ; nix  ; nada  ; null  ; aught  ; cipher  ; cypher  ; goose egg  ; naught  ; zero  ; zilch  ; zip  ; zippo	कुछ नहीं [kuchh naheen]	number
+now	अब [ab]	time
+now  ; at present	अभी [abhee]	adverb
+number	संख्या [sankhyaa]	communication
+nurse	नर्स [nars]	medicine
+nut	लोहे की ढिबरी	object
+nut	सुपारी [supaaree]	fruit
+obviously  ; evidently  ; manifestly  ; patently  ; apparently  ; plainly  ; plain	स्पष्ट रूप से [spasht roop se]	adverb
+occupation  ; business  ; job  ; line of work  ; line	व्यवसाय [vyavasaay]	business
+offer	प्रदान करना [pradaan karanaa]	verb-basic
+offer  ; offering	प्रस्ताव [prastaav]	business
+officer  ; officeholder	अफ़सर [afasar]	business
+oil	तेल [tel]	food
+oil  ; petroleum  ; crude oil  ; crude  ; rock oil  ; fossil oil	पेट्रोलियम [petroliyam]	material
+old	पुराना [puraanaa]	adjective-people
+olive	जैतून (jaitūn) ; ज़ैतून (zaitūn)	vegetable
+on	पर	preposition
+on	पर	preposition
+once  ; one time  ; in one case	एक बार [ek baar]	adverb
+one  ; 1  ; i  ; ane	एक (ek) (numeral: १)	number
+onion  ; onion plant  ; Allium cepa	प्याज [pyaaj]	vegetable
+open  ; open up	खोलना [kholanaa]	verb-basic
+operation	प्रक्रिया [prakriyaa]	business
+operation  ; functioning  ; performance	संचालन [sanchaalan]	abstract
+operation  ; surgery  ; surgical operation  ; surgical procedure  ; surgical process	अभियान [abhiyaan]	medicine
+opinion  ; sentiment  ; persuasion  ; view  ; thought	विचार [vichaar]	communication
+opposite	विरुद्ध [viruddh]	adjective
+opposite  ; reverse  ; contrary	विरोधी [virodhee]	abstract
+option  ; alternative  ; choice	विकल्प [vikalp]	science
+or	या [yaa]	conjunction
+orange	नारंगी [naarangee]	fruit
+orange  ; orangish	नारंगी [naarangee]	color
+orchestra	वादक समूह	art
+order	आदेश [aadesh]	society
+organization  ; organisation	संगठन [sangathan]	society
+original	मूल [mool]	adjective
+our	हमारा [hamaaraa]	pronoun
+outburst  ; burst  ; flare-up	अचानक बौछार	abstract
+outside	बाहर [baahar]	adverb
+oven	भट्टी [bhattee]	device
+own  ; ain	निजी [nijee]	adjective
+own  ; have  ; possess	स्वामी होना	verb
+owner  ; possessor	स्वामी [svaamee]	business
+ozone	विशेष गंध युक्त आक्सीजन	environment
+package  ; bundle  ; packet  ; parcel	पार्सल [paarsal]	business
+page	पृष्ठ [prushth]	communication
+pain  ; hurting	दर्द [dard]	medicine
+paint  ; pigment	रंग [rang]	art
+painting  ; picture	चित्र [chitr]	art
+paper	कागज [kaagaj]	art
+parallel	साथ-साथ [saath-saath]	adjective
+park  ; commons  ; common  ; green	उद्यान [udyaan]	city
+parsnip  ; Pastinaca sativa	चुकंदर [chukandar]	vegetable
+part  ; section  ; division	अंग [ang]	business
+part  ; share  ; portion  ; percentage	भाग [bhaag]	abstract
+particular	विशेष [vishesh]	adjective
+particularly  ; peculiarly  ; especially  ; specially	विशेष रूप से [vishesh roop se]	adverb
+party	दावत [daavat]	relations
+pass  ; hand  ; reach  ; pass on  ; turn over  ; give	सौंपना [saumpanaa]	verb
+pass  ; laissez passer	पास [paas]	society
+passenger  ; rider	यात्री [yaatree]	transport
+passport	पासपोर्ट [paasaport]	society
+past	पिछला [pichhalaa]	adjective
+past  ; past times  ; yesteryear	अतीत [ateet]	time
+patient	धैर्यवान [dhairyavaan]	adjective-people
+patient	मरीज़ [mareez]	medicine
+pause  ; intermission  ; break  ; interruption  ; suspension	मध्यान्तर [madhyaantar]	time
+pay	दाम चुकाना [daam chukaanaa]	verb-basic
+payment	शोधन [shodhan]	business
+peace	अमन [aman]	society
+peach	आड़ू [aadoo]	fruit
+pear	नाशपाती [naashapaatee]	fruit
+peel  ; skin  ; pare	छीलना [chheelanaa]	verb
+pen	कलम [kalam]	art
+pencil	पेंसिल [pensil]	art
+people	जनता [janataa]	society
+percent  ; percentage  ; per centum  ; pct	हिस्सा [hissaa]	mathematics
+period  ; time period  ; period of time	काल [kaal]	time
+person  ; individual  ; someone  ; somebody  ; mortal  ; soul	व्यक्ति [vyakti]	family
+personal	निजी [nijee]	adjective
+personality	व्यक्तित्व	abstract
+phase  ; stage	चरण [charan]	science
+photographer  ; lensman	छाया चित्रकार	profession
+physical	भौतिक [bhautik]	adjective
+picture  ; image  ; icon  ; ikon	प्रतिबिंब [pratibimb]	art
+piece	कोई एक एकल चीज या उदाहरण	abstract
+pig  ; hog  ; grunter  ; squealer  ; Sus scrofa	सुअर [suar]	animal
+pilot  ; airplane pilot	विमान चालक [vimaan chaalak]	profession
+pin	पिन [pin]	object
+pineapple  ; ananas	अनन्नास [anannaas]	fruit
+pink  ; pinkish	गुलाबी रंग का	color
+pipe  ; pipage  ; piping	नलिका [nalikaa]	object
+place  ; topographic point  ; spot	स्थान [sthaan]	abstract
+plain  ; field  ; champaign	मैदानी इलाका	geography
+plan  ; program  ; programme	योजना [yojanaa]	business
+plane  ; airplane  ; aeroplane	वायुयान	transport
+plant  ; flora  ; plant life	वनस्पति [vanaspati]	nature
+plate	प्लेट [plet]	container
+play	खेलना [khelanaa]	verb-basic
+pleasure  ; pleasance	आनन्द [aanand]	feeling
+plum	बेर का फल	fruit
+poem  ; verse form	कविता [kavitaa]	art
+poetry  ; poesy  ; verse	कविता [kavitaa]	art
+point  ; dot	बिन्दु [bindu]	communication
+poison	विष देना [vish denaa]	verb
+poison  ; toxicant  ; poisonous substance	विष [vish]	material
+police  ; police force  ; constabulary  ; law	सिपाहियों का दल	society
+policeman  ; police officer  ; officer	पुलिसमैन [pulisamain]	profession
+policy	नीति [neeti]	society
+polish  ; smooth  ; smoothen  ; shine	चमकाना [chamakaanaa]	verb
+politician  ; politico  ; pol  ; political leader	राजनीतिज्ञ [raajaneetigya]	profession
+pollution	प्रदूषण [pradooshan]	environment
+poor	गरीब (garib) ; दीन (deen)	adjective-people
+poor  ; hapless  ; miserable  ; misfortunate  ; pathetic  ; piteous  ; pitiable  ; pitiful  ; wretched	घृणित [ghrunit]	adjective
+popular  ; pop	सस्ता [sastaa]	adjective
+population	आबादी [aabaadee]	society
+position  ; place	स्थिति [sthiti]	abstract
+possible	संभव [sambhav]	adjective
+possibly  ; perchance  ; perhaps  ; maybe  ; mayhap  ; peradventure	शायद [shaayad]	adverb
+potato  ; white potato  ; Irish potato  ; murphy  ; spud  ; tater	आलू [aaloo]	vegetable
+powder  ; pulverization  ; pulverisation	चूर्ण [choorn]	material
+power  ; powerfulness	शक्ति [shakti]	abstract
+practice	व्यवहार [vyavahaar]	abstract
+prepare  ; fix  ; set up  ; ready  ; gear up  ; set	तैयार होना [taiyaar honaa]	verb
+present	उपस्थित [upasthit]	adjective
+present	पेश करना [pesh karanaa]	object
+present  ; nowadays	वर्तमान [vartamaan]	time
+president	राष्ट्रपति [raashtrapati]	profession
+press	दबाना [dabaanaa]	verb
+pressure  ; pressure level  ; force per unit area	दबाव या दाब का बोझ या मात्रा या भार	physics
+prevent  ; forestall  ; foreclose  ; preclude  ; forbid	रोकना [rokanaa]	verb
+previous  ; old	पूर्ववर्ती [poorvavartee]	adjective
+price  ; cost  ; toll	मूल्य [mooly]	business
+print  ; impress	छापना [chhaapanaa]	verb
+prison  ; prison house	कारागार [kaaraagaar]	city
+private	व्यक्तिगत [vyaktigat]	adjective
+private  ; individual	विशिष्ट [vishisht]	adjective-people
+probable  ; likely	संभव [sambhav]	adjective
+probably  ; likely  ; in all likelihood  ; in all probability  ; belike	संभवत [sambhavat]	adverb
+problem  ; job	समस्या [samasyaa]	business
+procedure  ; process	कार्यविधि [kaaryavidhi]	science
+process  ; physical process	प्रक्रिया [prakriyaa]	physics
+process  ; treat	संसाधित करना [sansaadhit karanaa]	verb
+production	उत्पादन [utpaadan]	science
+professional	व्यावसायिक [vyaavasaayik]	adjective
+professional  ; professional person	व्यवसायी [vyavasaayee]	profession
+profit  ; net income  ; net  ; net profit  ; lucre  ; profits  ; earnings	लाभ [laabh]	business
+program  ; programme  ; computer program  ; computer programme	योजना [yojanaa]	science
+project  ; projection	परियोजना [pariyojanaa]	science
+project  ; undertaking  ; task  ; labor	काम [kaam]	abstract
+pronunciation	उच्चारण [uchchaaran]	communication
+property  ; belongings  ; holding	सम्पत्ति [sampatti]	business
+proposal	प्रस्ताव [prastaav]	communication
+protest	विरोध प्रकट करना [virodh prakat karanaa]	verb
+protest  ; protestation	नकार पत्र	communication
+prove  ; testify  ; bear witness  ; evidence  ; show	सिद्ध करना [siddh karanaa]	verb
+public	जघन	adjective
+public  ; populace  ; world	जन साधारण [jan saadhaaran]	society
+publish  ; bring out  ; put out  ; issue  ; release	प्रकाशित करना [prakaashit karanaa]	verb
+pull  ; draw  ; force	खींचना [kheenchanaa]	verb-basic
+pump	पम्प [pamp]	tool
+punishment  ; penalty  ; penalization  ; penalisation	दण्ड का तरीका	society
+purpose  ; function  ; role  ; use	उद्देश्य [uddeshy]	mathematics
+push  ; force	दबाना [dabaanaa]	verb-basic
+put  ; set  ; place  ; pose  ; position  ; lay	रखना [rakhanaa]	verb-basic
+quality	गुण [gun]	abstract
+question  ; inquiry  ; enquiry  ; query  ; interrogation	प्रश्न [prashn]	communication
+quickly  ; rapidly  ; speedily  ; chop-chop  ; apace	फुर्ती से	adverb
+quiet	शांत [shaant]	adjective
+quiet  ; repose  ; placidity  ; serenity  ; tranquillity  ; tranquility	शांति [shaanti]	abstract
+radish	मूली [moolee]	vegetable
+rain  ; rainfall	मेह	weather
+rainbow	इन्द्रधनुष [indradhanush]	weather
+raise  ; rear  ; bring up  ; nurture  ; parent	पालन-पोषण करना [paalan-poshan karanaa]	verb
+range  ; scope  ; reach  ; orbit  ; compass  ; ambit	दायरा [daayaraa]	science
+raspberry	रसभरी [rasabharee]	fruit
+rate  ; charge per unit	दर [dar]	business
+rate  ; rank  ; range  ; order  ; grade  ; place	दर नियत करना [dar niyat karanaa]	verb
+reach  ; make  ; attain  ; hit  ; arrive at  ; gain	पहुंचना [pahunchanaa]	verb
+read	पढ़ना	verb-basic
+ready	तैयार [taiyaar]	adjective
+real  ; existent	यथार्थ [yathaarth]	adjective-basic
+really  ; actually	वास्तव में [vaastav men]	adverb
+really  ; truly  ; genuinely	सचमुच [sachamuch]	adverb
+reason  ; ground	कारण [kaaran]	communication
+receive  ; have	लेना [lenaa]	verb
+recent	हाल का [haal kaa]	adjective
+recently  ; late  ; lately  ; of late  ; latterly	हाल में [haal men]	adverb
+record	किसी वस्तु या व्यक्ति के सम्बन्धित अतीत का ज्ञान	sports
+record  ; tape	अंकित करना [ankit karanaa]	verb
+recycling	पुनर्चक्रण	environment
+reduce  ; cut down  ; cut back  ; trim  ; trim down  ; trim back  ; cut  ; bring down	कम करना [kam karanaa]	verb
+reflect  ; reverberate	प्रतिबिम्बित करना [pratibimbit karanaa]	verb
+refuse  ; reject  ; pass up  ; turn down  ; decline	मना करना [manaa karanaa]	verb
+regular	स्थायी [sthaayee]	adjective
+relation	लोगों और देशों के बीच में संपर्क एवं संवाद	communication
+relationship  ; human relationship	सम्बन्ध [sambandh]	family
+religion  ; faith  ; organized religion	धर्म [dharm]	society
+religion  ; faith  ; religious belief	धर्म [dharm]	society
+remember  ; retrieve  ; recall  ; call back  ; call up  ; recollect  ; think	याद आना [yaad aanaa]	verb-basic
+remove  ; take  ; take away  ; withdraw	हटा देना [hataa denaa]	verb
+render  ; return	पुरानी स्थिति में लौट जाना	verb
+reply  ; answer  ; respond	उत्तर देना [uttar denaa]	verb
+report	हाल लिखना	verb
+represent  ; stand for  ; correspond	प्रतिनिधित्व करना [pratinidhitv karanaa]	verb
+representative	प्रतिनिधि [pratinidhi]	profession
+request  ; asking	अनुरोध [anurodh]	communication
+request  ; bespeak  ; call for  ; quest	अनुरोध करना [anurodh karanaa]	verb
+research	शोध [shodh]	science
+research  ; inquiry  ; enquiry	पूछताछ [poochhataachh]	science
+respect  ; honor  ; honour  ; abide by  ; observe	सम्मान करना [sammaan karanaa]	verb
+responsibility  ; responsibleness	उत्तरदायित्व [uttaradaayitv]	abstract
+responsible	उत्तरदायी [uttaradaayee]	adjective
+rest  ; ease  ; repose  ; relaxation	आराम [aaraam]	abstract
+rest  ; remainder  ; balance  ; residual  ; residue  ; residuum	बाकी [baakee]	business
+restaurant  ; eating house  ; eating place  ; eatery	रेस्त्रां	city
+result  ; resultant  ; final result  ; outcome  ; termination	परिणाम [parinaam]	mathematics
+return  ; homecoming	वापसी [vaapasee]	abstract
+reveal  ; unwrap  ; disclose  ; let on  ; bring out  ; discover  ; expose  ; divulge  ; break  ; give away  ; let out	खोलना [kholanaa]	verb
+rhythm  ; beat  ; musical rhythm	धड़कन [dhadakan]	art
+rice	चावल (ćāval)	food
+rich	सम्पन्न [sampann]	adjective-people
+right	अधिकार [adhikaar]	business
+rigid  ; stiff	कड़ा [kadaa]	adjective
+ring  ; band	अंगूठी [angoothee]	clothes
+rise  ; rising  ; ascent  ; ascension	चढ़ाई [chadhaaee]	abstract
+risk  ; gamble  ; chance  ; hazard  ; take chances  ; adventure  ; run a risk  ; take a chance	संयोगवश हो जाना	verb
+risk  ; hazard  ; jeopardy  ; peril  ; endangerment	खतरा [khataraa]	abstract
+river	नदी [nadee]	geography
+road  ; route	सड़क [sadak]	city
+roof	छत [chhat]	house
+room	कमरा [kamaraa]	house
+root	जड़ [jad]	nature
+rope	रस्सी [rassee]	object
+rough  ; unsmooth	अशान्त [ashaant]	adjective
+round  ; circular	गोल [gol]	adjective
+royal  ; imperial  ; majestic  ; purple  ; regal	वैभवपूर्ण [vaibhavapoorn]	adjective-people
+rule  ; govern	शासन करना [shaasan karanaa]	verb
+rule  ; regulation	नियमावली [niyamaavalee]	mathematics
+run	दौड़ाना [daudaanaa]	verb-basic
+sad	उदास [udaas]	adjective-people
+safe	सही-सलामत [sahee-salaamat]	adjective
+sail  ; canvas  ; canvass  ; sheet	पाल [paal]	object
+sailor  ; crewman	नाविक [naavik]	profession
+salad	सलाद [salaad]	food
+sale	बिक्री [bikree]	business
+salt  ; table salt  ; common salt	नमक [namak]	food
+same	समान रूप से [samaan roop se]	adjective
+sand	रेत [ret]	material
+sandwich	सैंडविच [saindavich]	food
+sauce	चटनी [chatanee]	food
+save  ; preserve	बचाना [bachaanaa]	verb
+save  ; salvage  ; salve  ; relieve	उबारना [ubaaranaa]	verb
+say  ; tell  ; state	कहना [kahanaa]	verb-basic
+school  ; schoolhouse	विद्यालय [vidyaalay]	city
+science  ; scientific discipline	विज्ञान [vigyaan]	science
+scientist	वैज्ञानिक [vaigyaanik]	profession
+scissors  ; pair of scissors	कैंची	tool
+sea	समुद्र [samudr]	geography
+season	मौसम [mausam]	time
+second  ; 2nd  ; 2d	सेकण्ड [sekand]	adjective
+second  ; sec  ; s	क्षण [kshan]	time
+secret	भेद [bhed]	communication
+secret  ; clandestine  ; cloak-and-dagger  ; hole-and-corner  ; hugger-mugger  ; hush-hush  ; surreptitious  ; undercover  ; underground	छिपा हुआ [chhipaa huaa]	adjective
+secretary  ; secretarial assistant	मुंशी	profession
+see	देखना [dekhanaa]	verb
+see  ; consider  ; reckon  ; view  ; regard	करार देना	verb
+seed	बीज [beej]	object
+sell	बेचना [bechanaa]	verb-basic
+send  ; mail  ; post	भेजना [bhejanaa]	verb
+sentence	वाक्य [vaaky]	communication
+separate	अलग [alag]	adjective
+serious	विचारशील [vichaarasheel]	adjective
+servant  ; retainer	नौकर [naukar]	profession
+service	कार्य सेवा	business
+set	समूह [samooh]	abstract
+set  ; laid	निश्चित [nishchit]	adjective
+seventy  ; 70  ; lxx	सत्तर [sattar]	number
+several	अनेक [anek]	adjective
+sew  ; run up  ; sew together  ; stitch	सीना [seenaa]	verb
+share	साझेदार [saajhedaar]	business
+sharp  ; astute  ; shrewd	समझदार [samajhadaar]	adjective-people
+she	वह स्त्री	pronoun
+sheep	भेड़ [bhed]	animal
+shelf	ताक [taak]	furniture
+ship	जहाज	transport
+shirt	कमीज	clothes
+shock  ; daze  ; stupor	सदमा [sadamaa]	feeling
+shoe	जूता [jootaa]	clothes
+shop  ; store	दुकान [dukaan]	business
+short	छोटा [chhotaa]	adjective
+shout  ; shout out  ; cry  ; call  ; yell  ; scream  ; holler  ; hollo  ; squall	चिल्लाना [chillaanaa]	verb
+show  ; demo  ; exhibit  ; present  ; demonstrate	दिखाना [dikhaanaa]	verb
+shower	फुहार में स्नान करना	house
+side	तरफ [taraph]	mathematics
+silence  ; quiet	शांति [shaanti]	abstract
+silent  ; soundless  ; still	शांत [shaant]	adjective
+silk	रेशम [resham]	material
+silver  ; Ag  ; atomic number 47	चांदी	material
+simple  ; elementary  ; uncomplicated  ; unproblematic	आसान [aasaan]	adjective
+simply  ; merely  ; just  ; only  ; but	केवल [keval]	adverb
+since	से के बाद से	preposition
+sincere	सच्चा [sachchaa]	adjective-people
+sing	गाना गाना [gaanaa gaanaa]	verb-basic
+singer  ; vocalist  ; vocalizer  ; vocaliser	गायक [gaayak]	art
+single	एक [ek]	adjective
+single  ; unmarried	अविवाहित [avivaahit]	adjective-people
+sink	हौदी [haudee]	furniture
+sister  ; sis	बहन [bahan]	family
+sit  ; sit down	बैठना [baithanaa]	verb-basic
+situation  ; state of affairs	स्थिति [sthiti]	abstract
+six  ; 6  ; vi  ; half dozen  ; half-dozen	छः [chhah]	number
+sixteen  ; 16  ; xvi	सोलह [solah]	number
+sixty  ; 60  ; lx  ; threescore	साठ [saath]	number
+size	आकार [aakaar]	physics
+skilful  ; adept  ; expert  ; good  ; practiced  ; proficient  ; skillful	माहिर [maahir]	adjective-people
+skill  ; science	कौशल [kaushal]	business
+skin  ; tegument  ; cutis	त्वचा	anatomy
+skirt	घाघरा [ghaagharaa]	clothes
+sky	आसमान [aasamaan]	nature
+sleep  ; slumber	सोना [sonaa]	nature
+slow	धीमा [dheemaa]	adjective-basic
+slowly  ; slow  ; easy  ; tardily	धीरे-धीरे [dheere-dheere]	adverb
+small  ; little	छोटा [chhotaa]	adjective
+smell  ; olfactory property  ; aroma  ; odor  ; odour  ; scent	गन्ध [gandh]	nature
+smile	मुस्कराना [muskaraanaa]	verb-basic
+smile  ; smiling  ; grin  ; grinning	मुस्कान [muskaan]	relations
+smooth	चिकना [chikanaa]	adjective
+snake  ; serpent  ; ophidian	सर्प [sarp]	animal
+snow	बर्फ [barph]	weather
+so	वैसा	adverb
+soap	साबुन	material
+society	समाज [samaaj]	science
+sock	मोजा [mojaa]	clothes
+soft	नरम [naram]	adjective-basic
+soldier	सैनिक [sainik]	profession
+solid	ठोस [thos]	adjective
+sometimes	अक्सर [aksar]	adverb
+son  ; boy	पुत्र [putr]	family
+song  ; vocal	गाना [gaanaa]	art
+soon  ; shortly  ; presently  ; before long	शीघ्रता से [sheeghrataa se]	adverb
+sorry	माफ़ कीजिए	conversation
+sound	घोष [ghosh]	physics
+soup	शोरबा [shorabaa]	food
+south  ; due south  ; southward  ; S	दक्षिण [dakshin]	geography
+sparse  ; thin	छितरा [chhitaraa]	adjective
+special  ; especial  ; exceptional  ; particular	विशेष [vishesh]	adjective
+specific	विशेष [vishesh]	adjective
+speech  ; speech communication  ; spoken communication  ; spoken language  ; language  ; voice communication  ; oral communication	भाषा [bhaashaa]	communication
+spelling	वर्तनी [vartanee]	communication
+spend  ; pass	समय गुजारना	verb
+spoon	चम्मच [chammach]	kitchen
+spring	स्प्रिंग [spring]	tool
+spring  ; fountain  ; outflow  ; outpouring  ; natural spring	सोता	nature
+spring  ; springtime	वसन्त [vasant]	time
+square	वर्गाकार [vargaakaar]	adjective
+square  ; foursquare	वर्ग [varg]	mathematics
+staff	स्टाफ [staaph]	business
+stage	मंच [manch]	art
+stamp	मोहर [mohar]	tool
+stamp  ; postage  ; postage stamp	डाक शुल्क	object
+stand  ; stand up	खड़ा रहना [khadaa rahanaa]	verb
+standard	सामान्य [saamaany]	adjective
+standard  ; criterion  ; measure  ; touchstone	कसौटी [kasautee]	communication
+star	तारा [taaraa]	geography
+state	अवस्था [avasthaa]	abstract
+state	सार्वभौमिक राष्ट्र	society
+statement	(varnana)	communication
+station	केन्द्र [kendr]	city
+stay  ; remain  ; rest	बने रहना [bane rahanaa]	verb
+steal	चोरी करना [choree karanaa]	verb
+steam	भाप [bhaap]	physics
+steel	इस्पात [ispaat]	material
+stem  ; stalk	डंठल [danthal]	nature
+step  ; footstep  ; pace  ; stride	कदम [kadam]	abstract
+step  ; stair	कार्य [kaary]	house
+stick	लकड़ी [lakadee]	object
+sticky  ; gluey  ; glutinous  ; gummy  ; mucilaginous  ; pasty  ; viscid  ; viscous	चिपचिपा [chipachipaa]	adjective
+still	अभी तक [abhee tak]	adverb
+stitch	टांका	medicine
+stomach  ; tummy  ; tum  ; breadbasket	आमाशय	anatomy
+stone  ; rock	पत्थर [patthar]	object
+stop  ; halt	बंद कर देना [band kar denaa]	verb
+storm  ; violent storm	तूफान [toophaan]	weather
+straight	सीधा [seedhaa]	adjective
+strange  ; unusual	असामान्य [asaamaany]	adjective
+strawberry	हिसालू [hisaaloo]	fruit
+stream  ; flow  ; current	धारा [dhaaraa]	nature
+street	स्ट्रीट का संक्षेप	city
+strength  ; force  ; forcefulness	बल [bal]	physics
+strong	तेज [tej]	adjective-basic
+structure  ; construction	निर्माण [nirmaan]	city
+student  ; pupil  ; educatee	छात्र [chhaatr]	education
+study	पढ़ना	verb
+stupid	मूर्ख [moorkh]	adjective-people
+style	ढंग [dhang]	art
+stylish  ; fashionable	फैशनेबुल [phaishanebul]	adjective
+subject  ; topic  ; theme	प्रजा [prajaa]	communication
+subway  ; metro  ; tube  ; underground  ; subway system	सुरंग-रेल [surang-rel]	city
+such	ऐसा [aisaa]	adverb
+sudden	अचानक [achaanak]	adjective
+suddenly  ; all of a sudden  ; of a sudden	अचानक (achānak)	adverb
+sugar  ; refined sugar	चीनी [cheenee]	food
+suggest  ; propose  ; advise	प्रस्ताव रखना या करना	verb
+suggestion  ; proposition  ; proffer	प्रस्ताव [prastaav]	communication
+suitcase  ; bag  ; traveling bag  ; travelling bag  ; grip	सूटकेस [sootakes]	clothes
+summer  ; summertime	ग्रीष्म	time
+sun  ; Sun	सूरज [sooraj]	geography
+supply  ; provide  ; render  ; furnish	आवश्यक सामग्री देना	verb
+support	आधार [aadhaar]	business
+support  ; back up	समर्थन करना [samarthan karanaa]	verb
+surely  ; certainly  ; sure  ; for sure  ; for certain  ; sure enough  ; sure as shooting	निश्चित रूप से [nishchit roop se]	adverb
+surface	ऊपरी तल	mathematics
+surprise	आश्चर्य [aashchary]	relations
+surprise	आश्चर्यचकित करना [aashcharyachakit karanaa]	verb
+survive  ; last  ; live  ; live on  ; go  ; endure  ; hold up  ; hold out	जीवित रहना [jeevit rahanaa]	verb
+sweet	मीठा [meethaa]	adjective
+sweet  ; sweetness  ; sugariness	मीठापन [meethaapan]	food
+system  ; scheme	निकाय [nikaay]	science
+table	मेज [mej]	furniture
+table  ; tabular array	सारणी [saaranee]	business
+tail	पिछला हिस्सा [pichhalaa hissaa]	anatomy
+take  ; get hold of	लेना [lenaa]	verb-basic
+talk  ; speak  ; utter  ; mouth  ; verbalize  ; verbalise	कहना [kahanaa]	verb-basic
+tall	लम्बा [lambaa]	adjective
+taste  ; gustation  ; sense of taste  ; gustatory modality	स्वाद [svaad]	abstract
+tax  ; taxation  ; revenue enhancement	कर [kar]	business
+tea	चाय [chaay]	drink
+teach  ; learn  ; instruct	शिक्षा देना [shikshaa denaa]	verb
+teacher  ; instructor	शिक्षक [shikshak]	education
+team  ; squad	टीम [teem]	business
+technology  ; engineering	प्रौद्योगिकी [praudyogikee]	science
+television  ; tv set  ; television receiver  ; television set  ; tv  ; idiot box  ; boob tube  ; telly  ; goggle box	टेलीविजन	device
+television camera  ; tv camera  ; camera	कैमरा [kaimaraa]	device
+ten  ; 10  ; x	दस (das)	number
+tennis  ; lawn tennis	टेनिस [tenis]	sports
+test  ; prove  ; try  ; try out  ; examine  ; essay	जांच करना [jaanch karanaa]	verb
+than	से [se]	conjunction
+thank  ; give thanks	धन्यवाद देना [dhanyavaad denaa]	verb
+thank you very much	बहुत बहुत धन्यवाद	conversation
+the	''not used''	article
+theater  ; theatre  ; house	रंगशाला [rangashaalaa]	city
+their	उनका	pronoun
+them	उन्हें [unhen]	pronoun
+then  ; so  ; and so  ; and then	तब [tab]	adverb
+theory	सिद्धांत [siddhaant]	science
+therefore  ; hence  ; thence  ; thus  ; so	इसलिए [isalie]	adverb
+they	वे [ve]	pronoun
+thick	घन [ghan]	adjective
+thin	पतला [patalaa]	adjective
+thing	वस्तू (vastū) ; चीज़ (chīz)	abstract
+third  ; 3rd  ; tertiary	तीन [teen]	number
+thirsty	प्यासा [pyaasaa]	adjective-people
+thirteen  ; 13  ; xiii	तेरह [terah]	number
+thirty  ; 30  ; xxx	तीस [tees]	number
+this	यह	pronoun
+thousand  ; one thousand  ; 1000  ; M  ; K  ; chiliad  ; G  ; grand  ; thou  ; yard	हजार [hajaar]	number
+thousand  ; one thousand  ; 1000  ; m  ; k	हजार [hajaar]	number
+three  ; 3  ; iii	तीन [teen]	number
+throat  ; pharynx	गला [galaa]	anatomy
+throw	फेंकना [phenkanaa]	sports
+throw	फेंकना [phenkanaa]	verb
+thumb  ; pollex	अंगूठा	anatomy
+thunder	गड़गड़ाहट बिजली की	weather
+ticket	टिकट [tikat]	object
+tie  ; necktie	टाई [taaee]	clothes
+tight	मजबूत [majaboot]	adjective
+time  ; fourth dimension	कुछ समय तक	physics
+tired	थका हुआ [thakaa huaa]	adjective-people
+title  ; entitle	उपाधि देना [upaadhi denaa]	verb
+to	को	preposition
+today	आज [aaj]	adverb
+together	एक साथ [ek saath]	adverb
+toilet  ; lavatory  ; lav  ; can  ; john  ; privy  ; bathroom	शौचालय [shauchaalay]	house
+tomato	टमाटर [tamaatar]	vegetable
+tomorrow	कल आने वाला	adverb
+tongue  ; lingua  ; glossa  ; clapper	जीभ [jeebh]	anatomy
+tonight  ; this evening  ; this night	आज की रात [aaj kee raat]	adverb
+too  ; besides  ; also  ; likewise  ; as well	भी [bhee]	adverb
+tooth	दांत [daant]	anatomy
+top  ; peak  ; summit  ; acme  ; height  ; elevation  ; pinnacle  ;  superlative  ; meridian  ; tiptop	दूरी [dooree]	abstract
+total  ; sum  ; amount	रकम [rakam]	mathematics
+touch  ; touching	स्पर्श [sparsh]	abstract
+town	नगर [nagar]	city
+trace  ; draw  ; line  ; describe  ; delineate	चित्र बनाना [chitr banaanaa]	verb-basic
+track  ; rail  ; rails  ; runway	पटरी [pataree]	transport
+trade	व्यापार [vyaapaar]	business
+trade  ; merchandise	व्यापार करना [vyaapaar karanaa]	verb
+train  ; develop  ; prepare  ; educate	शिक्षा देना [shikshaa denaa]	verb
+train  ; railroad train	रेलगाड़ी [relagaadee]	transport
+training  ; preparation  ; grooming	प्रशिक्षण [prashikshan]	education
+transport  ; shipping  ; transportation	यातायात [yaataayaat]	transport
+travel  ; go  ; move  ; locomote	जाना [jaanaa]	verb
+treat  ; care for	व्यवहार करना [vyavahaar karanaa]	verb
+treatment  ; handling	बर्ताव [bartaav]	abstract
+tree	पेड़ [ped]	nature
+trend  ; tendency	प्रवृति [pravruti]	science
+trick	ट्रिक	abstract
+trouble  ; problem	परेशानी [pareshaanee]	science
+true	सत्य [saty]	adjective
+try  ; seek  ; attempt  ; essay  ; assay	प्रयास करना [prayaas karanaa]	verb
+turn	घुमाना [ghumaanaa]	verb
+two  ; 2  ; ii	दो (do)	number
+type	प्रकार [prakaar]	abstract
+ugly	कुरूप [kuroop]	adjective
+under  ; nether	नीचे [neeche]	adjective
+understand	समझना [samajhanaa]	verb-basic
+union	मेल [mel]	society
+unit  ; unit of measurement	इकाई [ikaaee]	physics
+university	विश्वविद्यालय [vishvavidyaalay]	city
+until	तक [tak]	conjunction
+unusual	असामान्य [asaamaany]	adjective
+us	हमें [hamen]	pronoun
+use  ; usage  ; utilization  ; utilisation  ; employment  ; exercise	प्रयोग [prayog]	abstract
+use  ; utilize  ; utilise  ; apply  ; employ	प्रयोग में लाना [prayog men laanaa]	verb-basic
+user	उपभोक्ता [upabhoktaa]	science
+usual  ; common	सार्वजनिक [saarvajanik]	adjective
+usually  ; normally  ; unremarkably  ; commonly  ; ordinarily	लम्ब रूम में	adverb
+value	मूल्य [mooly]	business
+various  ; diverse	भिन्न-भिन्न	adjective
+very  ; really  ; real  ; rattling	यथार्थ में	adverb
+violent	हिंसात्मक [hinsaatmak]	adjective-people
+violet  ; purple  ; purplish	बैगनी	color
+visit	मुलाकात [mulaakaat]	relations
+visit  ; see	देखने जाना [dekhane jaanaa]	verb
+vogue  ; trend  ; style	फैशन [phaishan]	art
+voice  ; vocalization  ; vocalisation  ; vocalism  ; phonation  ; vox	आवाज [aavaaj]	communication
+wages  ; reward  ; payoff	पारितोषिक [paaritoshik]	business
+wait  ; hold off  ; hold back	प्रतीक्षा करना [prateekshaa karanaa]	verb-basic
+walk	टहलाना [tahalaanaa]	verb
+wall	दीवार [deevaar]	house
+warm	गरम [garam]	adjective
+wash  ; launder	धोना [dhonaa]	verb
+waste  ; waste material  ; waste matter  ; waste product	कचरा [kacharaa]	environment
+watch  ; see  ; view  ;  catch  ; take in	दृष्टि डालना [drushti daalanaa]	verb
+watch  ; ticker	घड़ी [ghadee]	device
+water  ; H2O	पानी [paanee]	drink
+wave  ; moving ridge	लहर [lahar]	nature
+we	हम [ham]	pronoun
+weak	कमजोर [kamajor]	adjective-basic
+wear	कमजोरी [kamajoree]	abstract
+wear  ; have on	पहनना [pahananaa]	verb
+weather  ; weather condition  ; conditions  ; atmospheric condition	मौसम [mausam]	nature
+wedding  ; marriage  ; marriage ceremony	शादी [shaadee]	family
+week  ; calendar week	सप्ताह [saptaah]	time
+weekend	सप्ताहांत [saptaahaant]	time
+weigh	वजन [vajan]	verb
+weight	भार [bhaar]	physics
+well	कुंआं	house
+well  ; good	सही [sahee]	adverb
+west  ; due west  ; westward  ; W	पश्चिम [pashchim]	geography
+wet	गीला [geelaa]	adjective
+what	क्या [kyaa]	pronoun
+wheel	पहिया [pahiyaa]	object
+when	जब [jab]	pronoun
+while  ; piece  ; spell  ; patch	समय [samay]	time
+whip	कोड़ा [kodaa]	tool
+white	सफेद [saphed]	color
+who	कौन [kaun]	pronoun
+whole	पूरा [pooraa]	adjective
+whole	सम्पूर्ण [sampoorn]	abstract
+whom	जिसको	pronoun
+whose	किसका	pronoun
+why	क्यों [kyon]	adverb
+wide  ; broad	विस्तृत [vistrut]	adjective
+wife  ; married woman	पत्नी [patnee]	family
+will	इच्छा [ichchhaa]	society
+will  ; testament	विधान [vidhaan]	society
+win	जीत [jeet]	sports
+win	जीतना [jeetanaa]	verb
+wind  ; air current  ; current of air	हवा [havaa]	weather
+window	खिड़की [khidakee]	house
+wine  ; vino	अंगूरी शराब	drink
+wing	पंख [pankh]	anatomy
+winter  ; wintertime	जाड़ा [jaadaa]	time
+wire	तार [taar]	object
+wise	अक्लमंद [aklamand]	adjective-people
+wish	चाहना [chaahanaa]	verb
+wish  ; wishing  ; want	आवश्यकता [aavashyakataa]	abstract
+with	साथ से	preposition
+with	साथ से	preposition
+without	के रहित	preposition
+woman  ; adult female	औरत [aurat]	family
+wood	लकड़ी [lakadee]	material
+wool	ऊन	material
+word	शब्द [shabd]	communication
+work	काम [kaam]	business
+worker	मजदूर [majadoor]	business
+world	धरती [dharatee]	nature
+write	लिखना [likhanaa]	verb-basic
+writer  ; author	लेखक [lekhak]	profession
+writing	लेखन [lekhan]	communication
+wrong  ; incorrect	अशुद्ध [ashuddh]	adjective-basic
+year  ; twelvemonth  ; yr	वर्ष [varsh]	time
+yellow  ; yellowish  ; xanthous	पीला [peelaa]	color
+yes	हां [haan]	conversation
+young  ; immature	युवक [yuvak]	adjective-people
+yourself	तुम [tum]	pronoun
+you're welcome	कुछ नहीं	conversation
